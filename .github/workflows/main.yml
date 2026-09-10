@@ -1,0 +1,86 @@
+name: Master All-In-One Sync
+
+on:
+  schedule:
+    # প্রতি ১০ মিনিটে সব সোর্স থেকে লেটেস্ট ফাইল টেনে আপডেট করবে
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: master-all-sync
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout target repository
+        uses: actions/checkout@v4
+
+      - name: Fetch and organize all playlists
+        run: |
+          # ফাইলগুলো সংরক্ষণের জন্য আলাদা ফোল্ডার
+          mkdir -p streams
+
+          # 1. FanCode Live Events (drmlive)
+          git clone --depth 1 https://github.com/drmlive/fancode-live-events.git temp_fc1 || true
+          cp temp_fc1/*.m3u ./streams/drmlive_fancode.m3u 2>/dev/null || true
+          cp temp_fc1/*.json ./streams/drmlive_fancode.json 2>/dev/null || true
+          rm -rf temp_fc1
+
+          # 2. SonyLiv Live Events (drmlive)
+          git clone --depth 1 https://github.com/drmlive/sliv-live-events.git temp_sliv || true
+          cp temp_sliv/*.m3u ./streams/drmlive_sonyliv.m3u 2>/dev/null || true
+          cp temp_sliv/*.json ./streams/drmlive_sonyliv.json 2>/dev/null || true
+          rm -rf temp_sliv
+
+          # 3. RynoCast IPTV (IPTVFlixBD)
+          git clone --depth 1 https://github.com/IPTVFlixBD/RynoCast-IPTV-M3u-Playlist.git temp_ryno || true
+          cp temp_ryno/*.m3u ./streams/rynocast_iptv.m3u 2>/dev/null || true
+          rm -rf temp_ryno
+
+          # 4. FanCode Events JSON (kajju027)
+          git clone --depth 1 https://github.com/kajju027/Fancode-Events-Json.git temp_fc_json || true
+          cp temp_fc_json/*.json ./streams/kajju_fancode.json 2>/dev/null || true
+          rm -rf temp_fc_json
+
+          # 5. SonyLiv Events JSON (kajju027)
+          git clone --depth 1 https://github.com/kajju027/SonyLiv-Events-Json.git temp_sliv_json || true
+          cp temp_sliv_json/*.json ./streams/kajju_sonyliv.json 2>/dev/null || true
+          rm -rf temp_sliv_json
+
+          # 6. JioTV Live (sportlive18)
+          git clone --depth 1 https://github.com/sportlive18/jio-tv-auto-update-playlist.git temp_jio || true
+          cp temp_jio/*.m3u ./streams/jiotv.m3u 2>/dev/null || true
+          rm -rf temp_jio
+
+          # 7. Multi-Sports Events: Willow, Cricbuzz, Prime (sportlive18)
+          git clone --depth 1 https://github.com/sportlive18/Willow-Cricbuzz-Prime-Video-Sport-Live-Event-Auto-Updated-Playlist.git temp_multi || true
+          cp temp_multi/*.m3u ./streams/multi_sports.m3u 2>/dev/null || true
+          rm -rf temp_multi
+
+          # 8. FanCode New Auto Update (sportlive18)
+          git clone --depth 1 https://github.com/sportlive18/Fancode-New-Auto-Update.git temp_fc2 || true
+          cp temp_fc2/*.m3u ./streams/sportlive_fancode.m3u 2>/dev/null || true
+          rm -rf temp_fc2
+
+          # 9. Movie API (sportlive18)
+          git clone --depth 1 https://github.com/sportlive18/MOVIE-API-AUTO-UPDATE.git temp_movie || true
+          cp temp_movie/*.json ./streams/movie_api.json 2>/dev/null || true
+          rm -rf temp_movie
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add streams/
+          if git diff --staged --quiet; then
+            echo "No changes detected across any repository."
+          else
+            git commit -m "Auto sync all sources: $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+            git push origin main
+          fi
