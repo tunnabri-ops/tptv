@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "12/9/2026, 6:44:33 pm",
-  "total_matches": 15,
-  "live_matches": 3,
+  "updatedAt": "12/9/2026, 9:46:49 pm",
+  "total_matches": 16,
+  "live_matches": 4,
   "matches": [
     {
       "match_id": "1090542233_HIN",
@@ -14,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023874/1789168702915481_PT20_Semi_Final_Ludhiana_Lions_vs_Jalandhar_Warriors_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789261806~acl=/*~id=95600226961873003964114930098417~hmac=a44b6326e5178c9d25471077c9ed063bc06323bcbdee00df8e5511a45de1ddc3",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789261806~acl=/*~id=95600226961873003964114930098417~hmac=a44b6326e5178c9d25471077c9ed063bc06323bcbdee00df8e5511a45de1ddc3",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789261806~acl=/*~id=95600226961873003964114930098417~hmac=a44b6326e5178c9d25471077c9ed063bc06323bcbdee00df8e5511a45de1ddc3"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789272725~acl=/*~id=32170730316474100372812188229002~hmac=6ea25fa467c55ed5883e07f78c9f6d571081a3afa68598a9bec22519bffc10ef",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789272725~acl=/*~id=32170730316474100372812188229002~hmac=6ea25fa467c55ed5883e07f78c9f6d571081a3afa68598a9bec22519bffc10ef",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789272725~acl=/*~id=32170730316474100372812188229002~hmac=6ea25fa467c55ed5883e07f78c9f6d571081a3afa68598a9bec22519bffc10ef"
     },
     {
       "match_id": "1090542233_PAN",
@@ -27,9 +27,22 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HIN",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023874/1789168702915481_PT20_Semi_Final_Ludhiana_Lions_vs_Jalandhar_Warriors_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789261806~acl=/*~id=95600226961873003964114930098417~hmac=a44b6326e5178c9d25471077c9ed063bc06323bcbdee00df8e5511a45de1ddc3",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789261806~acl=/*~id=95600226961873003964114930098417~hmac=a44b6326e5178c9d25471077c9ed063bc06323bcbdee00df8e5511a45de1ddc3",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789261806~acl=/*~id=95600226961873003964114930098417~hmac=a44b6326e5178c9d25471077c9ed063bc06323bcbdee00df8e5511a45de1ddc3"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789272725~acl=/*~id=32170730316474100372812188229002~hmac=6ea25fa467c55ed5883e07f78c9f6d571081a3afa68598a9bec22519bffc10ef",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789272725~acl=/*~id=32170730316474100372812188229002~hmac=6ea25fa467c55ed5883e07f78c9f6d571081a3afa68598a9bec22519bffc10ef",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789272725~acl=/*~id=32170730316474100372812188229002~hmac=6ea25fa467c55ed5883e07f78c9f6d571081a3afa68598a9bec22519bffc10ef"
+    },
+    {
+      "match_id": "1090542276_ENG",
+      "event_name": "Hyundai Archery World Cup Final",
+      "match_name": "Compound Men Elite QFs to Finals - 12 Sep 2026 [ENG]",
+      "status": "Live",
+      "category": "Archery",
+      "digital_broadcast": "LIV",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023628/1788789800024248_Hyundai-Archery-World-Cup-Final_Compound-Men-Elite-QFs-to-Finals_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Compound1209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789272725~acl=/*~id=32170730316474100372812188229002~hmac=6ea25fa467c55ed5883e07f78c9f6d571081a3afa68598a9bec22519bffc10ef",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Compound1209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789272725~acl=/*~id=32170730316474100372812188229002~hmac=6ea25fa467c55ed5883e07f78c9f6d571081a3afa68598a9bec22519bffc10ef",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Compound1209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789272725~acl=/*~id=32170730316474100372812188229002~hmac=6ea25fa467c55ed5883e07f78c9f6d571081a3afa68598a9bec22519bffc10ef"
     },
     {
       "match_id": "1090542235_ENG",
@@ -40,9 +53,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023403/1788419126658889_DP_World_Tour_Amgen_Irish_Open_day3_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch50d3/golf_amg1209-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1789261806~acl=/*~id=95600226961873003964114930098417~hmac=a44b6326e5178c9d25471077c9ed063bc06323bcbdee00df8e5511a45de1ddc3",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch50d3/golf_amg1209-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1789261806~acl=/*~id=95600226961873003964114930098417~hmac=a44b6326e5178c9d25471077c9ed063bc06323bcbdee00df8e5511a45de1ddc3",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch50d3/golf_amg1209-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1789261806~acl=/*~id=95600226961873003964114930098417~hmac=a44b6326e5178c9d25471077c9ed063bc06323bcbdee00df8e5511a45de1ddc3"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch50d3/golf_amg1209-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1789272725~acl=/*~id=32170730316474100372812188229002~hmac=6ea25fa467c55ed5883e07f78c9f6d571081a3afa68598a9bec22519bffc10ef",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch50d3/golf_amg1209-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1789272725~acl=/*~id=32170730316474100372812188229002~hmac=6ea25fa467c55ed5883e07f78c9f6d571081a3afa68598a9bec22519bffc10ef",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch50d3/golf_amg1209-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1789272725~acl=/*~id=32170730316474100372812188229002~hmac=6ea25fa467c55ed5883e07f78c9f6d571081a3afa68598a9bec22519bffc10ef"
     },
     {
       "match_id": 1090542256,
@@ -97,7 +110,7 @@
       "video_url": ""
     },
     {
-      "match_id": 1090542130,
+      "match_id": 1090542429,
       "event_name": "Upcoming - India vs Brazil",
       "match_name": "",
       "status": "Upcoming",
