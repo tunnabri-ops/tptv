@@ -1,10 +1,49 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "12/9/2026, 2:22:52 am",
-  "total_matches": 11,
-  "live_matches": 0,
+  "updatedAt": "12/9/2026, 3:20:39 pm",
+  "total_matches": 15,
+  "live_matches": 3,
   "matches": [
+    {
+      "match_id": 1090542240,
+      "event_name": "Pakistan Tour of England 2026",
+      "match_name": "Day 4 - 3rd Test - 12 Sep 2026",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023417/1788434990750794_eng_vs_pak_3test_D4_live_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": "1090542233_HIN",
+      "event_name": "Sher-E-Punjab T20 League 2026",
+      "match_name": "Mohali Kings vs Amritsar Soormas - SF 1 - 12 Sep 2026 [HIN]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023873/1789167534595919_PT20_Semi_Final_Mohali_Kings_vs_Amritsar_Soormas_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789249648~acl=/*~id=05664512903458091605241023187602~hmac=f85ad40699e85dc0edc83ca07c5d4c31423e2826970ffc46eb74b05fa3d7f464",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789249648~acl=/*~id=05664512903458091605241023187602~hmac=f85ad40699e85dc0edc83ca07c5d4c31423e2826970ffc46eb74b05fa3d7f464",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789249648~acl=/*~id=05664512903458091605241023187602~hmac=f85ad40699e85dc0edc83ca07c5d4c31423e2826970ffc46eb74b05fa3d7f464"
+    },
+    {
+      "match_id": "1090542233_PAN",
+      "event_name": "Sher-E-Punjab T20 League 2026",
+      "match_name": "Mohali Kings vs Amritsar Soormas - SF 1 - 12 Sep 2026 [PAN]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HIN",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023873/1789167534595919_PT20_Semi_Final_Mohali_Kings_vs_Amritsar_Soormas_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789249648~acl=/*~id=05664512903458091605241023187602~hmac=f85ad40699e85dc0edc83ca07c5d4c31423e2826970ffc46eb74b05fa3d7f464",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789249648~acl=/*~id=05664512903458091605241023187602~hmac=f85ad40699e85dc0edc83ca07c5d4c31423e2826970ffc46eb74b05fa3d7f464",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789249648~acl=/*~id=05664512903458091605241023187602~hmac=f85ad40699e85dc0edc83ca07c5d4c31423e2826970ffc46eb74b05fa3d7f464"
+    },
     {
       "match_id": 1090542256,
       "event_name": "Upcoming - Final - DP World Women's Asia Cup 2026",
@@ -66,6 +105,19 @@
       "digital_broadcast": "LIV",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023792/1789061342397434_IND_vs_BRA_Promo_DDT_landscape.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090542399,
+      "event_name": "Upcoming - Final - DP World Women's Asia Cup 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023880/178919892840953_ind_vs_SL_thumbs_landscape.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
