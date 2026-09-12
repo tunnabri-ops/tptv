@@ -1,36 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "12/9/2026, 9:46:49 pm",
-  "total_matches": 16,
-  "live_matches": 4,
+  "updatedAt": "12/9/2026, 11:58:04 pm",
+  "total_matches": 14,
+  "live_matches": 2,
   "matches": [
-    {
-      "match_id": "1090542233_HIN",
-      "event_name": "Sher-E-Punjab T20 League 2026",
-      "match_name": "Ludhiana Lions vs Jalandhar Warriors - SF 2 - 12 Sep 2026 [HIN]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023874/1789168702915481_PT20_Semi_Final_Ludhiana_Lions_vs_Jalandhar_Warriors_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789272725~acl=/*~id=32170730316474100372812188229002~hmac=6ea25fa467c55ed5883e07f78c9f6d571081a3afa68598a9bec22519bffc10ef",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789272725~acl=/*~id=32170730316474100372812188229002~hmac=6ea25fa467c55ed5883e07f78c9f6d571081a3afa68598a9bec22519bffc10ef",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/std_lrh-800300010.m3u8?hdnea=exp=1789272725~acl=/*~id=32170730316474100372812188229002~hmac=6ea25fa467c55ed5883e07f78c9f6d571081a3afa68598a9bec22519bffc10ef"
-    },
-    {
-      "match_id": "1090542233_PAN",
-      "event_name": "Sher-E-Punjab T20 League 2026",
-      "match_name": "Ludhiana Lions vs Jalandhar Warriors - SF 2 - 12 Sep 2026 [PAN]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HIN",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023874/1789168702915481_PT20_Semi_Final_Ludhiana_Lions_vs_Jalandhar_Warriors_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789272725~acl=/*~id=32170730316474100372812188229002~hmac=6ea25fa467c55ed5883e07f78c9f6d571081a3afa68598a9bec22519bffc10ef",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789272725~acl=/*~id=32170730316474100372812188229002~hmac=6ea25fa467c55ed5883e07f78c9f6d571081a3afa68598a9bec22519bffc10ef",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/PAN/std_lrh-800300010.m3u8?hdnea=exp=1789272725~acl=/*~id=32170730316474100372812188229002~hmac=6ea25fa467c55ed5883e07f78c9f6d571081a3afa68598a9bec22519bffc10ef"
-    },
     {
       "match_id": "1090542276_ENG",
       "event_name": "Hyundai Archery World Cup Final",
@@ -40,9 +14,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023628/1788789800024248_Hyundai-Archery-World-Cup-Final_Compound-Men-Elite-QFs-to-Finals_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Compound1209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789272725~acl=/*~id=32170730316474100372812188229002~hmac=6ea25fa467c55ed5883e07f78c9f6d571081a3afa68598a9bec22519bffc10ef",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Compound1209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789272725~acl=/*~id=32170730316474100372812188229002~hmac=6ea25fa467c55ed5883e07f78c9f6d571081a3afa68598a9bec22519bffc10ef",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Compound1209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789272725~acl=/*~id=32170730316474100372812188229002~hmac=6ea25fa467c55ed5883e07f78c9f6d571081a3afa68598a9bec22519bffc10ef"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Compound1209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789280611~acl=/*~id=54513785600834364656889790530250~hmac=b65e1443e685779172f37fdb5b41deaeead252c3b6810f4cb0940d1fceb98cad",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Compound1209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789280611~acl=/*~id=54513785600834364656889790530250~hmac=b65e1443e685779172f37fdb5b41deaeead252c3b6810f4cb0940d1fceb98cad",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Compound1209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789280611~acl=/*~id=54513785600834364656889790530250~hmac=b65e1443e685779172f37fdb5b41deaeead252c3b6810f4cb0940d1fceb98cad"
     },
     {
       "match_id": "1090542235_ENG",
@@ -53,9 +27,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023403/1788419126658889_DP_World_Tour_Amgen_Irish_Open_day3_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch50d3/golf_amg1209-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1789272725~acl=/*~id=32170730316474100372812188229002~hmac=6ea25fa467c55ed5883e07f78c9f6d571081a3afa68598a9bec22519bffc10ef",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch50d3/golf_amg1209-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1789272725~acl=/*~id=32170730316474100372812188229002~hmac=6ea25fa467c55ed5883e07f78c9f6d571081a3afa68598a9bec22519bffc10ef",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch50d3/golf_amg1209-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1789272725~acl=/*~id=32170730316474100372812188229002~hmac=6ea25fa467c55ed5883e07f78c9f6d571081a3afa68598a9bec22519bffc10ef"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch50d3/golf_amg1209-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1789280611~acl=/*~id=54513785600834364656889790530250~hmac=b65e1443e685779172f37fdb5b41deaeead252c3b6810f4cb0940d1fceb98cad",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch50d3/golf_amg1209-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1789280611~acl=/*~id=54513785600834364656889790530250~hmac=b65e1443e685779172f37fdb5b41deaeead252c3b6810f4cb0940d1fceb98cad",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/mpchgp431f/mpch50d3/golf_amg1209-eng-1-ts-hls/std-lrh-800300010.m3u8?hdnea=exp=1789280611~acl=/*~id=54513785600834364656889790530250~hmac=b65e1443e685779172f37fdb5b41deaeead252c3b6810f4cb0940d1fceb98cad"
     },
     {
       "match_id": 1090542256,
