@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "14/9/2026, 12:19:42 pm",
-  "total_matches": 11,
+  "updatedAt": "14/9/2026, 4:29:08 pm",
+  "total_matches": 12,
   "live_matches": 0,
   "matches": [
-    {
-      "match_id": 1090539555,
-      "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023378/178835790230635_AWC_IND_vs_PAK_Promo_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
     {
       "match_id": 1090540014,
       "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026",
@@ -32,6 +19,19 @@
       "video_url": ""
     },
     {
+      "match_id": 1090539555,
+      "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023378/178835790230635_AWC_IND_vs_PAK_Promo_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
       "match_id": 1090541822,
       "event_name": "Upcoming - Sri Lanka Tour of England 2026",
       "match_name": "",
@@ -39,7 +39,7 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023836/1789134369325903_ENGvsSL26_dated_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023955/178937088975947_ENGvsSL26_1t20i_dated_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -53,6 +53,19 @@
       "digital_broadcast": "LIV",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023792/1789061342397434_IND_vs_BRA_Promo_DDT_landscape.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090542538,
+      "event_name": "Upcoming - Matchday 1 - UEFA Europa League 2026-27",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023957/1789378250364675_UEL2627_promo_MD1_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -72,7 +85,7 @@
     },
     {
       "match_id": 1090542506,
-      "event_name": "Upcoming - India Tour of New Zealand ",
+      "event_name": "Upcoming - India Tour of New Zealand 2026",
       "match_name": "",
       "status": "Upcoming",
       "category": "Cricket",
