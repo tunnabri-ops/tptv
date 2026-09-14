@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "14/9/2026, 5:03:56 am",
+  "updatedAt": "14/9/2026, 12:19:42 pm",
   "total_matches": 11,
   "live_matches": 0,
   "matches": [
@@ -58,14 +58,14 @@
       "video_url": ""
     },
     {
-      "match_id": 1090539080,
-      "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026",
+      "match_id": 1090538916,
+      "event_name": "Upcoming - India Tour of New Zealand ",
       "match_name": "",
       "status": "Upcoming",
-      "category": "Sports",
+      "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022077/1786464482593563_AG26_promo_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022033/1786433246787561_NZ_vs_IND_DDT_Promo_landscape.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -84,6 +84,19 @@
       "video_url": ""
     },
     {
+      "match_id": 1090539080,
+      "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022077/1786464482593563_AG26_promo_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
       "match_id": 1090539152,
       "event_name": "Upcoming - Har Screen Par Cricket - Sony Ke Saath - Bad Boss",
       "match_name": "",
@@ -92,19 +105,6 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022113/1786548147790338_cricket_Grover_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090538916,
-      "event_name": "Upcoming - India Tour of New Zealand ",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022033/1786433246787561_NZ_vs_IND_DDT_Promo_landscape.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
