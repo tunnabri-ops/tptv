@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "16/9/2026, 12:17:22 am",
-  "total_matches": 13,
-  "live_matches": 1,
+  "updatedAt": "16/9/2026, 2:39:10 am",
+  "total_matches": 12,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090542511_ENG",
-      "event_name": "Sri Lanka Tour of England 2026",
-      "match_name": "1st T20I - 15 Sep 2026 [ENG]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023981/178947380134187_ENGvsSL26_1t20i_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive1509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789541006~acl=/*~id=41834168341048275762502926874078~hmac=e8d240539c4d94f036155bf1072ad34a3d103329b99390e36f88a04f13c41b0c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive1509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789541006~acl=/*~id=41834168341048275762502926874078~hmac=e8d240539c4d94f036155bf1072ad34a3d103329b99390e36f88a04f13c41b0c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive1509/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789541006~acl=/*~id=41834168341048275762502926874078~hmac=e8d240539c4d94f036155bf1072ad34a3d103329b99390e36f88a04f13c41b0c"
-    },
     {
       "match_id": 1090540014,
       "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026",
