@@ -1,10 +1,19 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFG_IND_2026_FC-WEB12.jpg" group-title="Fancode-Cricket", India Tour of Afghanistan, 2026 [English]
-https://in-mc-flive.fancode.com/out/v1/ap-south-1/4248492_english_265127/ad-h264/index__1080p.m3u8?hdntl=Expires=1789738118~_GO=Generated~acl=/out/v1/ap-south-1/4248492_english_265127/ad-h264/*~Signature=AVl424Ox74kvQKS9xYRAMzL7kSaS83CMliammfFark0LyYdtwrdOe-cNx95Vec71T2S4fikouvNNsG_WcXzcWiFwGxwL
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249248_53070_GGD_DVD_FC-Web.png" group-title="Fancode-Cricket", DP World ILT20 Development Tournament 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4249248_english_hls_b5e8e09c0e78326_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789750233~_GO=Generated~acl=/mumbai/4249248_english_hls_b5e8e09c0e78326_1ta-di_h264/*~Signature=AVl424N3W8XXGZJxumWJAIOkQVMVxk8CyNzDppm1OUSdMW5y2bGz0oZOtYdjLCmlVfC5U9nkY7sor5BLzH6vKmmDMKAN
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/AFG_IND_2026_FC-WEB12.jpg" group-title="Fancode-Cricket", India Tour of Afghanistan, 2026 [Hindi]
-https://in-mc-flive.fancode.com/out/v1/ap-south-1/4248492_hindi_109112/ad-h264/index__1080p.m3u8?hdntl=Expires=1789738118~_GO=Generated~acl=/out/v1/ap-south-1/4248492_hindi_109112/ad-h264/*~Signature=AVl424PTnCHKQVLqIu_BmdWfNJxgF3e3b03BLT9NCj6os4GDZbgTOtqFf7trjd2ll0XSzACkVk-ok64REfo9GQsCG8gL
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249091_53061_TKR-W_GUY-W_FC-Web.png" group-title="Fancode-Cricket", Women's Caribbean Premier League, 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4249095_english_hls_3aba3b02b395794_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789752657~_GO=Generated~acl=/mumbai/4249095_english_hls_3aba3b02b395794_1ta-di_h264/*~Signature=AVl424P1VXtIPrNuhmT8NJddp4iCki190aEcRWRIE1a6ShROvQRqpw2YWO6E_9tCOApdU9CUHN5Q35KrzCpOU7IZsMoB
 
-#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/La-Sella_Web-match-card.png" group-title="Fancode-Golf", La Sella Open 2026 [English]
-https://in-mc-flive.fancode.com/mumbai/4249084_english_hls_d938d80d3519070_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789739332~_GO=Generated~acl=/mumbai/4249084_english_hls_d938d80d3519070_1ta-di_h264/*~Signature=AVl424PgyzDJ_KmTDMkB2NBQ9U0XOjounltcgFIOA4I-Rhytq4pbzZ9ncJSsKlL8GY_eKkCnoFIH_hSs1WfjOG_JSB4O
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4249062_53016_MCI_NOR_fc-web.jpg" group-title="Fancode-Football", Carabao Cup 2026-27 [English]
+https://in-mc-flive.fancode.com/mumbai/4249062_english_hls_ae2a524a4960475_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789755687~_GO=Generated~acl=/mumbai/4249062_english_hls_ae2a524a4960475_1ta-di_h264/*~Signature=AVl424NtQY1q9j1HZcRcdAcXVeMbvMnTmkZglB6MRDBxw3rCfNrvG10nK9Y38mXQmRE2m1Ssm_TOmXkJ44F-Yww3T_wG
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247627_53004_MAG_VIL_FC-Web.png" group-title="Fancode-Football", LALIGA 2026-27 [English]
+https://in-mc-flive.fancode.com/mumbai/4247627_english_hls_0375399b9954530_1ta-di_h264/1080p5.m3u8?hdntl=Expires=1789758117~_GO=Generated~acl=/mumbai/4247627_english_hls_0375399b9954530_1ta-di_h264/*~Signature=AVl424PpPdIn3RT2xQ_FGZ-TbEUJ92YaftmBmikox5bcOmTJcUZLKXs16i2hwCp4dOhRlAe5dzXjAObvoh_lVlMmO8gP
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248161_53014_WIM_MKD_fc-web.png" group-title="Fancode-Football", League One 2026-27 [English]
+https://in-mc-flive.fancode.com/mumbai/4248161_english_hls_fd23cab818619_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789757508~_GO=Generated~acl=/mumbai/4248161_english_hls_fd23cab818619_1ta-di_h264/*~Signature=AVl424OcM10f7v3XaPbcv6RJ6J7iCwgtQZj6jNOVrh5xJNfwr4b_F0fLN44cw_9cXrgOCaKyBqyWiVaFQA27Ll1RpdUD
+
+#EXTINF:-1, tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Golf_FC-Web_1789461307492.png" group-title="Fancode-Golf", Biltmore Championship in Asheville 2026 [English]
+https://in-mc-flive.fancode.com/mumbai/4249100_english_hls_0d5322fad713219_1ta-di_h264/1080p.m3u8?hdntl=Expires=1789757509~_GO=Generated~acl=/mumbai/4249100_english_hls_0d5322fad713219_1ta-di_h264/*~Signature=AVl424PHh0R_gfbqVXfSwhWlb0fQTNKaTtwwyAAi_by4l_s4yO2QaA9QSitLxpRLwmOdib0F7LrMWVijmra0G7nyEVQO
 
