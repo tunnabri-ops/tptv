@@ -1,22 +1,22 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "17/9/2026, 6:43:32 am",
-  "total_matches": 14,
+  "updatedAt": "17/9/2026, 11:48:53 am",
+  "total_matches": 13,
   "live_matches": 1,
   "matches": [
     {
-      "match_id": "1090541367_ENG",
+      "match_id": "1090541369_ENG",
       "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Bangladesh Women vs People’s Republic of China Women - QF 1 - 17 Sep 2026 [ENG]",
+      "match_name": "Pakistan Women vs Thailand Women - QF 2 - 17 Sep 2026 [ENG]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024055/1789582375033840_AG26_QF_bangladesh_vs_china_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/criclive1609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789650681~acl=/*~id=16612098332951885822088257620685~hmac=ed26beea6048eb666d9b16b857821ddb1e4ab2942de9b652ba8f830d8742116c",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/criclive1609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789650681~acl=/*~id=16612098332951885822088257620685~hmac=ed26beea6048eb666d9b16b857821ddb1e4ab2942de9b652ba8f830d8742116c",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/criclive1609/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789650681~acl=/*~id=16612098332951885822088257620685~hmac=ed26beea6048eb666d9b16b857821ddb1e4ab2942de9b652ba8f830d8742116c"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024055/1789582327474840_AG26_QF_Pakistan_vs_Thailand_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789668856~acl=/*~id=78345758563147006721948671091083~hmac=f135373b18a1154078dfbe080b8ff970f0df3785dc11b18e3de5674b35baf742",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789668856~acl=/*~id=78345758563147006721948671091083~hmac=f135373b18a1154078dfbe080b8ff970f0df3785dc11b18e3de5674b35baf742",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789668856~acl=/*~id=78345758563147006721948671091083~hmac=f135373b18a1154078dfbe080b8ff970f0df3785dc11b18e3de5674b35baf742"
     },
     {
       "match_id": 1090542750,
@@ -45,19 +45,6 @@
       "video_url": ""
     },
     {
-      "match_id": 1090540014,
-      "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024044/1789575349541717_AG26_QF_Pakistan_vs_Thailand_today_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
       "match_id": 1090542429,
       "event_name": "Upcoming - India vs Brazil",
       "match_name": "",
@@ -78,7 +65,7 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023648/178884793163422_Eng_vs_SL_landscape.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024068/1789622595285332_ENGvsSL26_2t20i_Promo_tonight_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -110,6 +97,19 @@
       "video_url": ""
     },
     {
+      "match_id": 1090540014,
+      "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023974/1789458782998232_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
       "match_id": 1090542506,
       "event_name": "Upcoming - India Tour of New Zealand 2026",
       "match_name": "",
@@ -131,19 +131,6 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022077/1786464482593563_AG26_promo_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090539152,
-      "event_name": "Upcoming - Har Screen Par Cricket - Sony Ke Saath - Bad Boss",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022113/1786548147790338_cricket_Grover_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
