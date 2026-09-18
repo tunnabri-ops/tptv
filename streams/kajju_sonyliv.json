@@ -1,10 +1,23 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "18/9/2026, 2:46:06 am",
-  "total_matches": 16,
-  "live_matches": 0,
+  "updatedAt": "18/9/2026, 5:59:42 am",
+  "total_matches": 17,
+  "live_matches": 1,
   "matches": [
+    {
+      "match_id": "1090541370_ENG",
+      "event_name": "20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "Sri Lanka vs Malaysia - Quarter-Final - 18 Sep 2026 [ENG]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024067/178961947665553_Asain_games_26_QF_Sri-Lanka-vs-Malaysia_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789734313~acl=/*~id=84738726577114133639495551047833~hmac=badf0b2d8c913fd496f2a52f59eb5753769ddce45beb077e638604f9c5f3bc03",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789734313~acl=/*~id=84738726577114133639495551047833~hmac=badf0b2d8c913fd496f2a52f59eb5753769ddce45beb077e638604f9c5f3bc03",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Criclive1709/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789734313~acl=/*~id=84738726577114133639495551047833~hmac=badf0b2d8c913fd496f2a52f59eb5753769ddce45beb077e638604f9c5f3bc03"
+    },
     {
       "match_id": 1090542750,
       "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026 - India vs Japan",
