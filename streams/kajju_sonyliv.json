@@ -1,19 +1,19 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "18/9/2026, 11:58:48 pm",
+  "updatedAt": "19/9/2026, 2:39:08 am",
   "total_matches": 16,
   "live_matches": 0,
   "matches": [
     {
-      "match_id": 1090540014,
-      "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026",
+      "match_id": 1090542973,
+      "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026 - Bangladesh vs India",
       "match_name": "",
       "status": "Upcoming",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023974/1789458782998232_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024166/1789755195729581_AG26_SF_BANW_vs_INDW_promo_landscape.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -84,19 +84,6 @@
       "video_url": ""
     },
     {
-      "match_id": 1090542973,
-      "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026 - Bangladesh vs India",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024166/1789755195729581_AG26_SF_BANW_vs_INDW_promo_landscape.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
       "match_id": 1090538916,
       "event_name": "Upcoming - India Tour of New Zealand ",
       "match_name": "",
@@ -110,6 +97,19 @@
       "video_url": ""
     },
     {
+      "match_id": 1090540014,
+      "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023974/1789458782998232_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
       "match_id": 1090542506,
       "event_name": "Upcoming - India Tour of New Zealand 2026",
       "match_name": "",
@@ -118,6 +118,19 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023939/1789325459946480_IND_vs_NZ_landsacpe_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090542974,
+      "event_name": "Upcoming - UFC 331 - Prelims & Van vs Pantoja 2",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Fight Sports",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024171/1789759268704750_UFC331_promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -196,19 +209,6 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024095/17896636843861_AG26_promo_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090542859,
-      "event_name": "Upcoming - Boxing - 20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Boxing",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024098/1789669712480908_AG26_boxing_dated_promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
