@@ -1,22 +1,22 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "18/9/2026, 7:13:18 pm",
-  "total_matches": 17,
-  "live_matches": 1,
+  "updatedAt": "18/9/2026, 10:51:30 pm",
+  "total_matches": 16,
+  "live_matches": 0,
   "matches": [
     {
-      "match_id": "1090542757_ENG",
-      "event_name": "DP World Tour",
-      "match_name": "BMW PGA Championship - Day 2 - 18 Sep 2026 [ENG]",
-      "status": "Live",
-      "category": "Golf",
-      "digital_broadcast": "LIV",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023421/1788419421651492_DP_World_Tour_BMW_PGA_CHAMPIONSHIP_day2_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789782175~acl=/*~id=41308381336875935868563869445378~hmac=f48a8d0a405c18b01f1c526d04d3ce5c3dea9e71a0c6e2d97d0a1e5fb1a186b5",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789782175~acl=/*~id=41308381336875935868563869445378~hmac=f48a8d0a405c18b01f1c526d04d3ce5c3dea9e71a0c6e2d97d0a1e5fb1a186b5",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789782175~acl=/*~id=41308381336875935868563869445378~hmac=f48a8d0a405c18b01f1c526d04d3ce5c3dea9e71a0c6e2d97d0a1e5fb1a186b5"
+      "match_id": 1090540014,
+      "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023974/1789458782998232_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
     },
     {
       "match_id": 1090539555,
@@ -27,6 +27,19 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023978/1789467134006271_AWC_IND_vs_PAK_Promo_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090541822,
+      "event_name": "Upcoming - Sri Lanka Tour of England 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024091/1789657417833286_ENGvsSL26_3t20i_dated_promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -71,19 +84,6 @@
       "video_url": ""
     },
     {
-      "match_id": 1090541822,
-      "event_name": "Upcoming - Sri Lanka Tour of England 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024091/1789657417833286_ENGvsSL26_3t20i_dated_promo_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
       "match_id": 1090538916,
       "event_name": "Upcoming - India Tour of New Zealand ",
       "match_name": "",
@@ -92,19 +92,6 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022033/1786433246787561_NZ_vs_IND_DDT_Promo_landscape.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090540014,
-      "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023974/1789458782998232_ASIAN_GAME_2026_GOB_Landscape_Thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
