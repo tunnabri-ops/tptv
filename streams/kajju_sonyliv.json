@@ -1,36 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "19/9/2026, 9:19:26 pm",
-  "total_matches": 18,
-  "live_matches": 2,
+  "updatedAt": "19/9/2026, 10:10:18 pm",
+  "total_matches": 16,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090542787_ENG",
-      "event_name": "Sri Lanka Tour of England 2026",
-      "match_name": "3rd T20I - 19 Sep 2026 [ENG]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024092/1789657985040480_ENGvsSL26_3t20i_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789876067~acl=/*~id=70031186013769797579207014312813~hmac=c64b7c8bd3425cebf30e6b7968765463369469efab98d805811a8c14e2bc5d21",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789876067~acl=/*~id=70031186013769797579207014312813~hmac=c64b7c8bd3425cebf30e6b7968765463369469efab98d805811a8c14e2bc5d21",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789876067~acl=/*~id=70031186013769797579207014312813~hmac=c64b7c8bd3425cebf30e6b7968765463369469efab98d805811a8c14e2bc5d21"
-    },
-    {
-      "match_id": "1090542788_ENG",
-      "event_name": "DP World Tour",
-      "match_name": "BMW PGA Championship - Day 3 - 19 Sep 2026 [ENG]",
-      "status": "Live",
-      "category": "Golf",
-      "digital_broadcast": "LIV",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023421/1788419428341492_DP_World_Tour_BMW_PGA_CHAMPIONSHIP_day3_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Golf_BMW1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789876067~acl=/*~id=70031186013769797579207014312813~hmac=c64b7c8bd3425cebf30e6b7968765463369469efab98d805811a8c14e2bc5d21",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Golf_BMW1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789876067~acl=/*~id=70031186013769797579207014312813~hmac=c64b7c8bd3425cebf30e6b7968765463369469efab98d805811a8c14e2bc5d21",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Golf_BMW1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789876067~acl=/*~id=70031186013769797579207014312813~hmac=c64b7c8bd3425cebf30e6b7968765463369469efab98d805811a8c14e2bc5d21"
-    },
     {
       "match_id": 1090542973,
       "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026 - Bangladesh vs India",
