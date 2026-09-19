@@ -1,10 +1,23 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "19/9/2026, 5:25:55 pm",
-  "total_matches": 17,
-  "live_matches": 1,
+  "updatedAt": "19/9/2026, 9:19:26 pm",
+  "total_matches": 18,
+  "live_matches": 2,
   "matches": [
+    {
+      "match_id": "1090542787_ENG",
+      "event_name": "Sri Lanka Tour of England 2026",
+      "match_name": "3rd T20I - 19 Sep 2026 [ENG]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024092/1789657985040480_ENGvsSL26_3t20i_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789876067~acl=/*~id=70031186013769797579207014312813~hmac=c64b7c8bd3425cebf30e6b7968765463369469efab98d805811a8c14e2bc5d21",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789876067~acl=/*~id=70031186013769797579207014312813~hmac=c64b7c8bd3425cebf30e6b7968765463369469efab98d805811a8c14e2bc5d21",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/criclive1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789876067~acl=/*~id=70031186013769797579207014312813~hmac=c64b7c8bd3425cebf30e6b7968765463369469efab98d805811a8c14e2bc5d21"
+    },
     {
       "match_id": "1090542788_ENG",
       "event_name": "DP World Tour",
@@ -14,19 +27,19 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023421/1788419428341492_DP_World_Tour_BMW_PGA_CHAMPIONSHIP_day3_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Golf_BMW1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789862126~acl=/*~id=33498877766219778167249960278414~hmac=61d11dd999479cc5ce6fc8fe027c390ba0fbd8329e46433f2532395015e8e3cb",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Golf_BMW1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789862126~acl=/*~id=33498877766219778167249960278414~hmac=61d11dd999479cc5ce6fc8fe027c390ba0fbd8329e46433f2532395015e8e3cb",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Golf_BMW1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789862126~acl=/*~id=33498877766219778167249960278414~hmac=61d11dd999479cc5ce6fc8fe027c390ba0fbd8329e46433f2532395015e8e3cb"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Golf_BMW1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789876067~acl=/*~id=70031186013769797579207014312813~hmac=c64b7c8bd3425cebf30e6b7968765463369469efab98d805811a8c14e2bc5d21",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Golf_BMW1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789876067~acl=/*~id=70031186013769797579207014312813~hmac=c64b7c8bd3425cebf30e6b7968765463369469efab98d805811a8c14e2bc5d21",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Golf_BMW1909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789876067~acl=/*~id=70031186013769797579207014312813~hmac=c64b7c8bd3425cebf30e6b7968765463369469efab98d805811a8c14e2bc5d21"
     },
     {
       "match_id": 1090542973,
-      "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026 - India vs Bangladesh",
+      "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026 - Bangladesh vs India",
       "match_name": "",
       "status": "Upcoming",
-      "category": "Sports",
+      "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024176/1789769640462343_AG26_womens_SF_india_vs_bangladesh_dated_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024214/1789824440669995_AG26_womens_SF_india_vs_bangladesh_dated_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -40,32 +53,6 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024183/1789775874130936_UFC_Van_vs_Pantoja_dated_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090539555,
-      "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810621694132_AWC_IND_vs_PAK_Promo_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090541822,
-      "event_name": "Upcoming - Sri Lanka Tour of England 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024091/1789657412351285_ENGvsSL26_3t20i_tonight_promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -105,6 +92,32 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024138/1789725215020559_ag_promo_INDvsJPN_kabbadi_dated_landscape_Thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090541822,
+      "event_name": "Upcoming - Sri Lanka Tour of England 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023836/1789134369325903_ENGvsSL26_dated_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090539555,
+      "event_name": "Upcoming - 20th Asian Games Aichi-Nagoya 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024191/1789810621694132_AWC_IND_vs_PAK_Promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
