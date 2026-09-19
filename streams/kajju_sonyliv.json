@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "19/9/2026, 4:10:57 am",
+  "updatedAt": "19/9/2026, 6:10:33 am",
   "total_matches": 16,
   "live_matches": 0,
   "matches": [
@@ -14,6 +14,19 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024176/1789769640462343_AG26_womens_SF_india_vs_bangladesh_dated_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090542974,
+      "event_name": "Upcoming - UFC 331 - Prelims & Van vs Pantoja 2",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Fight Sports",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024183/1789775874130936_UFC_Van_vs_Pantoja_dated_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -118,19 +131,6 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023939/1789325459946480_IND_vs_NZ_landsacpe_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090542974,
-      "event_name": "Upcoming - UFC 331 - Prelims & Van vs Pantoja 2",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Fight Sports",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024171/1789759268704750_UFC331_promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
