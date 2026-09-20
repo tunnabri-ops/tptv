@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "20/9/2026, 10:26:27 pm",
-  "total_matches": 17,
-  "live_matches": 1,
+  "updatedAt": "20/9/2026, 11:28:17 pm",
+  "total_matches": 16,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090543049_ENG",
-      "event_name": "Metro Bank One Day Cup 2026",
-      "match_name": "Leicestershire vs Middlesex - Final - 20 Sep 2026 [ENG]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024187/1789803954768990_MetroBankOneDayCup25_final_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/CricLive2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789966401~acl=/*~id=94072864127315712120591506832671~hmac=68462a07342bccd9dcded2754be1519a65fc79518bf6f3ddcf7a8f8b5ced370e",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/CricLive2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789966401~acl=/*~id=94072864127315712120591506832671~hmac=68462a07342bccd9dcded2754be1519a65fc79518bf6f3ddcf7a8f8b5ced370e",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/CricLive2009/ENG/std_lrh-800300010.m3u8?hdnea=exp=1789966401~acl=/*~id=94072864127315712120591506832671~hmac=68462a07342bccd9dcded2754be1519a65fc79518bf6f3ddcf7a8f8b5ced370e"
-    },
     {
       "match_id": 1090540014,
       "event_name": "Upcoming - Har Baar Bharat - 20th Asian Games Aichi-Nagoya 2026",
