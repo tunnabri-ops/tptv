@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "23/9/2026, 11:36:20 pm",
+  "updatedAt": "24/9/2026, 12:26:58 am",
   "total_matches": 15,
   "live_matches": 0,
   "matches": [
@@ -20,13 +20,13 @@
     },
     {
       "match_id": 1090543448,
-      "event_name": "Upcoming - India's International Friendlies",
+      "event_name": "Upcoming - India vs Panama - India's International Friendlies",
       "match_name": "",
       "status": "Upcoming",
       "category": "Football",
       "digital_broadcast": "LIV",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024482/1790087785944617_IND_PAN_DDT_Promo_landscape_Thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024583/1790188903565263_FIFA_international_friendlies_india_vs_panama_dated_rev_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -46,13 +46,13 @@
     },
     {
       "match_id": 1090543727,
-      "event_name": "Upcoming - India vs Brazil -India's International Friendlies ",
+      "event_name": "Upcoming - India vs Brazil - India's International Friendlies ",
       "match_name": "",
       "status": "Upcoming",
       "category": "Football",
       "digital_broadcast": "LIV",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024504/1790111246357701_FIFA_international_friendlies_india_vs_brazil_dated_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024578/1790187144920418_FIFA_international_friendlies_india_vs_brazil_dated_rev_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
