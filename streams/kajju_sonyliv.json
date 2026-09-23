@@ -1,10 +1,62 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "23/9/2026, 10:26:47 am",
-  "total_matches": 21,
-  "live_matches": 6,
+  "updatedAt": "23/9/2026, 3:08:40 pm",
+  "total_matches": 24,
+  "live_matches": 9,
   "matches": [
+    {
+      "match_id": "1090541381_ENG",
+      "event_name": "20th Asian Games Aichi-Nagoya 2026",
+      "match_name": " India vs People's Republic Of China - Badminton - 23 Sep 2026 [ENG]",
+      "status": "Live",
+      "category": "Badminton",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024512/1790119595842245_AG26_23Sep_Badminton_Mens_India_vs_China_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790199416~acl=/*~id=66548451680639261750422401647017~hmac=af94bef8d77bf5be1fc476cd6567b3f223717dc50bf2b242d63a599725b9f68d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790199416~acl=/*~id=66548451680639261750422401647017~hmac=af94bef8d77bf5be1fc476cd6567b3f223717dc50bf2b242d63a599725b9f68d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790199416~acl=/*~id=66548451680639261750422401647017~hmac=af94bef8d77bf5be1fc476cd6567b3f223717dc50bf2b242d63a599725b9f68d"
+    },
+    {
+      "match_id": "1090541381_TAM",
+      "event_name": "20th Asian Games Aichi-Nagoya 2026",
+      "match_name": " India vs People's Republic Of China - Badminton - 23 Sep 2026 [TAM]",
+      "status": "Live",
+      "category": "Badminton",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "TAMIL",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024512/1790119595842245_AG26_23Sep_Badminton_Mens_India_vs_China_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790199416~acl=/*~id=66548451680639261750422401647017~hmac=af94bef8d77bf5be1fc476cd6567b3f223717dc50bf2b242d63a599725b9f68d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790199416~acl=/*~id=66548451680639261750422401647017~hmac=af94bef8d77bf5be1fc476cd6567b3f223717dc50bf2b242d63a599725b9f68d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2209/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790199416~acl=/*~id=66548451680639261750422401647017~hmac=af94bef8d77bf5be1fc476cd6567b3f223717dc50bf2b242d63a599725b9f68d"
+    },
+    {
+      "match_id": "1090541381_TEL",
+      "event_name": "20th Asian Games Aichi-Nagoya 2026",
+      "match_name": " India vs People's Republic Of China - Badminton - 23 Sep 2026 [TEL]",
+      "status": "Live",
+      "category": "Badminton",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "TELUGU",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024512/1790119595842245_AG26_23Sep_Badminton_Mens_India_vs_China_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790199416~acl=/*~id=66548451680639261750422401647017~hmac=af94bef8d77bf5be1fc476cd6567b3f223717dc50bf2b242d63a599725b9f68d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790199416~acl=/*~id=66548451680639261750422401647017~hmac=af94bef8d77bf5be1fc476cd6567b3f223717dc50bf2b242d63a599725b9f68d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_Strea2209/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790199416~acl=/*~id=66548451680639261750422401647017~hmac=af94bef8d77bf5be1fc476cd6567b3f223717dc50bf2b242d63a599725b9f68d"
+    },
+    {
+      "match_id": "1090541381_KAN",
+      "event_name": "20th Asian Games Aichi-Nagoya 2026",
+      "match_name": " India vs People's Republic Of China - Badminton - 23 Sep 2026 [KAN]",
+      "status": "Live",
+      "category": "Badminton",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "KANNADA",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024512/1790119595842245_AG26_23Sep_Badminton_Mens_India_vs_China_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_Strea2209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790199416~acl=/*~id=66548451680639261750422401647017~hmac=af94bef8d77bf5be1fc476cd6567b3f223717dc50bf2b242d63a599725b9f68d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_Strea2209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790199416~acl=/*~id=66548451680639261750422401647017~hmac=af94bef8d77bf5be1fc476cd6567b3f223717dc50bf2b242d63a599725b9f68d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_Strea2209/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790199416~acl=/*~id=66548451680639261750422401647017~hmac=af94bef8d77bf5be1fc476cd6567b3f223717dc50bf2b242d63a599725b9f68d"
+    },
     {
       "match_id": "1090543296_ENG",
       "event_name": "20th Asian Games Aichi-Nagoya 2026",
@@ -13,10 +65,10 @@
       "category": "Weightlifting",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024517/1790123848842536_AG26_Weightlifting_final_Womens_49kg_Mirabai_Chanu_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/AG_Weigh2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790182378~acl=/*~id=92187685526127120508404978512427~hmac=d5a472ec7eb20e3ccd92034a35421234157eda6f33f2f2bed76a8725e90ec8f2",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/AG_Weigh2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790182378~acl=/*~id=92187685526127120508404978512427~hmac=d5a472ec7eb20e3ccd92034a35421234157eda6f33f2f2bed76a8725e90ec8f2",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/AG_Weigh2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790182378~acl=/*~id=92187685526127120508404978512427~hmac=d5a472ec7eb20e3ccd92034a35421234157eda6f33f2f2bed76a8725e90ec8f2"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024517/1790126176136536_AG26_Weightlifting_final_Womens_53kg_Gyaneshwari_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/AG_Weigh2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790199416~acl=/*~id=66548451680639261750422401647017~hmac=af94bef8d77bf5be1fc476cd6567b3f223717dc50bf2b242d63a599725b9f68d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/AG_Weigh2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790199416~acl=/*~id=66548451680639261750422401647017~hmac=af94bef8d77bf5be1fc476cd6567b3f223717dc50bf2b242d63a599725b9f68d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/AG_Weigh2309/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790199416~acl=/*~id=66548451680639261750422401647017~hmac=af94bef8d77bf5be1fc476cd6567b3f223717dc50bf2b242d63a599725b9f68d"
     },
     {
       "match_id": "1090543296_TAM",
@@ -26,10 +78,10 @@
       "category": "Weightlifting",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TAMIL",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024517/1790123848842536_AG26_Weightlifting_final_Womens_49kg_Mirabai_Chanu_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/AG_Weigh2309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790182378~acl=/*~id=92187685526127120508404978512427~hmac=d5a472ec7eb20e3ccd92034a35421234157eda6f33f2f2bed76a8725e90ec8f2",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/AG_Weigh2309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790182378~acl=/*~id=92187685526127120508404978512427~hmac=d5a472ec7eb20e3ccd92034a35421234157eda6f33f2f2bed76a8725e90ec8f2",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/AG_Weigh2309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790182378~acl=/*~id=92187685526127120508404978512427~hmac=d5a472ec7eb20e3ccd92034a35421234157eda6f33f2f2bed76a8725e90ec8f2"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024517/1790126176136536_AG26_Weightlifting_final_Womens_53kg_Gyaneshwari_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/AG_Weigh2309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790199416~acl=/*~id=66548451680639261750422401647017~hmac=af94bef8d77bf5be1fc476cd6567b3f223717dc50bf2b242d63a599725b9f68d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/AG_Weigh2309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790199416~acl=/*~id=66548451680639261750422401647017~hmac=af94bef8d77bf5be1fc476cd6567b3f223717dc50bf2b242d63a599725b9f68d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/AG_Weigh2309/TAM/std_lrh-800300010.m3u8?hdnea=exp=1790199416~acl=/*~id=66548451680639261750422401647017~hmac=af94bef8d77bf5be1fc476cd6567b3f223717dc50bf2b242d63a599725b9f68d"
     },
     {
       "match_id": "1090543296_TEL",
@@ -39,10 +91,10 @@
       "category": "Weightlifting",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "TELUGU",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024517/1790123848842536_AG26_Weightlifting_final_Womens_49kg_Mirabai_Chanu_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Weigh2309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790182378~acl=/*~id=92187685526127120508404978512427~hmac=d5a472ec7eb20e3ccd92034a35421234157eda6f33f2f2bed76a8725e90ec8f2",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Weigh2309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790182378~acl=/*~id=92187685526127120508404978512427~hmac=d5a472ec7eb20e3ccd92034a35421234157eda6f33f2f2bed76a8725e90ec8f2",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Weigh2309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790182378~acl=/*~id=92187685526127120508404978512427~hmac=d5a472ec7eb20e3ccd92034a35421234157eda6f33f2f2bed76a8725e90ec8f2"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024517/1790126176136536_AG26_Weightlifting_final_Womens_53kg_Gyaneshwari_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Weigh2309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790199416~acl=/*~id=66548451680639261750422401647017~hmac=af94bef8d77bf5be1fc476cd6567b3f223717dc50bf2b242d63a599725b9f68d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Weigh2309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790199416~acl=/*~id=66548451680639261750422401647017~hmac=af94bef8d77bf5be1fc476cd6567b3f223717dc50bf2b242d63a599725b9f68d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Weigh2309/TEL/std_lrh-800300010.m3u8?hdnea=exp=1790199416~acl=/*~id=66548451680639261750422401647017~hmac=af94bef8d77bf5be1fc476cd6567b3f223717dc50bf2b242d63a599725b9f68d"
     },
     {
       "match_id": "1090543296_KAN",
@@ -52,10 +104,10 @@
       "category": "Weightlifting",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "KANNADA",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024517/1790123848842536_AG26_Weightlifting_final_Womens_49kg_Mirabai_Chanu_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/AG_Weigh2309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790182378~acl=/*~id=92187685526127120508404978512427~hmac=d5a472ec7eb20e3ccd92034a35421234157eda6f33f2f2bed76a8725e90ec8f2",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/AG_Weigh2309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790182378~acl=/*~id=92187685526127120508404978512427~hmac=d5a472ec7eb20e3ccd92034a35421234157eda6f33f2f2bed76a8725e90ec8f2",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/AG_Weigh2309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790182378~acl=/*~id=92187685526127120508404978512427~hmac=d5a472ec7eb20e3ccd92034a35421234157eda6f33f2f2bed76a8725e90ec8f2"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024517/1790126176136536_AG26_Weightlifting_final_Womens_53kg_Gyaneshwari_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/AG_Weigh2309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790199416~acl=/*~id=66548451680639261750422401647017~hmac=af94bef8d77bf5be1fc476cd6567b3f223717dc50bf2b242d63a599725b9f68d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/AG_Weigh2309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790199416~acl=/*~id=66548451680639261750422401647017~hmac=af94bef8d77bf5be1fc476cd6567b3f223717dc50bf2b242d63a599725b9f68d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/AG_Weigh2309/KAN/std_lrh-800300010.m3u8?hdnea=exp=1790199416~acl=/*~id=66548451680639261750422401647017~hmac=af94bef8d77bf5be1fc476cd6567b3f223717dc50bf2b242d63a599725b9f68d"
     },
     {
       "match_id": "1090543296_HIN",
@@ -65,23 +117,10 @@
       "category": "Weightlifting",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024517/1790123848842536_AG26_Weightlifting_final_Womens_49kg_Mirabai_Chanu_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/AG_Weigh2309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790182378~acl=/*~id=92187685526127120508404978512427~hmac=d5a472ec7eb20e3ccd92034a35421234157eda6f33f2f2bed76a8725e90ec8f2",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/AG_Weigh2309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790182378~acl=/*~id=92187685526127120508404978512427~hmac=d5a472ec7eb20e3ccd92034a35421234157eda6f33f2f2bed76a8725e90ec8f2",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/AG_Weigh2309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790182378~acl=/*~id=92187685526127120508404978512427~hmac=d5a472ec7eb20e3ccd92034a35421234157eda6f33f2f2bed76a8725e90ec8f2"
-    },
-    {
-      "match_id": "1090541376_ENG",
-      "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Bangladesh vs India - Men's Team - Kabaddi - 23 Sep 2026 [ENG]",
-      "status": "Live",
-      "category": "Kabaddi",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024509/1790116735137397_AG26_23Sep_Kabaddi_Mens_Bangladesh_vs_India_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX4_22209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790182378~acl=/*~id=92187685526127120508404978512427~hmac=d5a472ec7eb20e3ccd92034a35421234157eda6f33f2f2bed76a8725e90ec8f2",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX4_22209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790182378~acl=/*~id=92187685526127120508404978512427~hmac=d5a472ec7eb20e3ccd92034a35421234157eda6f33f2f2bed76a8725e90ec8f2",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX4_22209/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790182378~acl=/*~id=92187685526127120508404978512427~hmac=d5a472ec7eb20e3ccd92034a35421234157eda6f33f2f2bed76a8725e90ec8f2"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024517/1790126176136536_AG26_Weightlifting_final_Womens_53kg_Gyaneshwari_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/AG_Weigh2309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790199416~acl=/*~id=66548451680639261750422401647017~hmac=af94bef8d77bf5be1fc476cd6567b3f223717dc50bf2b242d63a599725b9f68d",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/AG_Weigh2309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790199416~acl=/*~id=66548451680639261750422401647017~hmac=af94bef8d77bf5be1fc476cd6567b3f223717dc50bf2b242d63a599725b9f68d",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/AG_Weigh2309/HIN/std_lrh-800300010.m3u8?hdnea=exp=1790199416~acl=/*~id=66548451680639261750422401647017~hmac=af94bef8d77bf5be1fc476cd6567b3f223717dc50bf2b242d63a599725b9f68d"
     },
     {
       "match_id": 1090543448,
@@ -227,19 +266,6 @@
       "video_url": ""
     },
     {
-      "match_id": 1090542429,
-      "event_name": "Upcoming - India vs Brazil",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Football",
-      "digital_broadcast": "LIV",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023792/1789061342397434_IND_vs_BRA_Promo_DDT_landscape.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
       "match_id": 1090543661,
       "event_name": "Upcoming - India vs Brazil - Teaser 1",
       "match_name": "",
@@ -274,6 +300,19 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024470/1790075124349558_Football-Indias-International-Friendlies-Teaser-Thumbs-2_landscape.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090543664,
+      "event_name": "Upcoming - India vs Brazil - Teaser 4",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "LIV",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024470/1790075081123558_Football-Indias-International-Friendlies-Teaser-Thumbs-1_landscape.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
