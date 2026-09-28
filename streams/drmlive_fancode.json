@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "04:26:21 AM 28-09-2026",
+    "last update time": "06:57:50 AM 28-09-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -89,6 +89,18 @@
         },
         {
             "event_category": "Cricket",
+            "match_id": 4249528,
+            "title": "New South Wales Breakers vs Queensland Fire (Women's National Cricket League, 2026/27)",
+            "match_name": "New South Wales Breakers vs Queensland Fire",
+            "event_name": "Women's National Cricket League, 2026/27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249528_53075_NSW-W_QUN-W_fc-web.jpg",
+            "team_1": "New South Wales Breakers",
+            "team_2": "Queensland Fire",
+            "status": "UPCOMING",
+            "startTime": "05:00:00 AM 29-09-2026"
+        },
+        {
+            "event_category": "Cricket",
             "match_id": 4250057,
             "title": "Ajman vs Fujairah (Emirates D10, 2026)",
             "match_name": "Ajman vs Fujairah",
@@ -124,18 +136,6 @@
             "startTime": "11:15:00 PM 28-09-2026"
         },
         {
-            "event_category": "Cricket",
-            "match_id": 4249528,
-            "title": "New South Wales Breakers vs Queensland Fire (Women's National Cricket League, 2026/27)",
-            "match_name": "New South Wales Breakers vs Queensland Fire",
-            "event_name": "Women's National Cricket League, 2026/27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249528_53075_NSW-W_QUN-W_fc-web.jpg",
-            "team_1": "New South Wales Breakers",
-            "team_2": "Queensland Fire",
-            "status": "UPCOMING",
-            "startTime": "05:00:00 AM 29-09-2026"
-        },
-        {
             "event_category": "Football",
             "match_id": 4249272,
             "title": "Leganes vs Castell\u00f3n (LALIGA Hypermotion 2026-27)",
@@ -158,6 +158,30 @@
             "team_2": "South Australian Scorpions",
             "status": "UPCOMING",
             "startTime": "09:30:00 AM 29-09-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249530,
+            "title": "Western Australia Women vs Tasmania Women (Women's National Cricket League, 2026/27)",
+            "match_name": "Western Australia Women vs Tasmania Women",
+            "event_name": "Women's National Cricket League, 2026/27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249530_53075_WA-W_TAS-W_fc-web.jpg",
+            "team_1": "Western Australia Women",
+            "team_2": "Tasmania Women",
+            "status": "UPCOMING",
+            "startTime": "11:30:00 AM 29-09-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250039,
+            "title": "Manoharpur Lions vs Saranda Worriers (West Singhbhum T20 League 2026)",
+            "match_name": "Manoharpur Lions vs Saranda Worriers",
+            "event_name": "West Singhbhum T20 League 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "Manoharpur Lions",
+            "team_2": "Saranda Worriers",
+            "status": "UPCOMING",
+            "startTime": "09:00:00 AM 29-09-2026"
         },
         {
             "event_category": "Tennis",
@@ -185,30 +209,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249530,
-            "title": "Western Australia Women vs Tasmania Women (Women's National Cricket League, 2026/27)",
-            "match_name": "Western Australia Women vs Tasmania Women",
-            "event_name": "Women's National Cricket League, 2026/27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249530_53075_WA-W_TAS-W_fc-web.jpg",
-            "team_1": "Western Australia Women",
-            "team_2": "Tasmania Women",
-            "status": "UPCOMING",
-            "startTime": "11:30:00 AM 29-09-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250039,
-            "title": "Manoharpur Lions vs Saranda Worriers (West Singhbhum T20 League 2026)",
-            "match_name": "Manoharpur Lions vs Saranda Worriers",
-            "event_name": "West Singhbhum T20 League 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-            "team_1": "Manoharpur Lions",
-            "team_2": "Saranda Worriers",
-            "status": "UPCOMING",
-            "startTime": "09:00:00 AM 29-09-2026"
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4249298,
             "title": "Aravali Avengers vs Ghaziabad Giants (NCR T20 League, 2026)",
             "match_name": "Aravali Avengers vs Ghaziabad Giants",
@@ -230,6 +230,18 @@
             "team_2": "Chaibasa Challengers",
             "status": "UPCOMING",
             "startTime": "01:00:00 PM 29-09-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249297,
+            "title": "Gurugram Gladiators vs Faridabad Firebirds (NCR T20 League, 2026)",
+            "match_name": "Gurugram Gladiators vs Faridabad Firebirds",
+            "event_name": "NCR T20 League, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249297_53073_GGL_FFI_fc-web.jpg",
+            "team_1": "Gurugram Gladiators",
+            "team_2": "Faridabad Firebirds",
+            "status": "UPCOMING",
+            "startTime": "05:00:00 PM 29-09-2026"
         },
         {
             "event_category": "Tennis",
@@ -254,18 +266,6 @@
             "team_2": "Hangzhou, China",
             "status": "UPCOMING",
             "startTime": "09:00:00 AM 29-09-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4249297,
-            "title": "Gurugram Gladiators vs Faridabad Firebirds (NCR T20 League, 2026)",
-            "match_name": "Gurugram Gladiators vs Faridabad Firebirds",
-            "event_name": "NCR T20 League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249297_53073_GGL_FFI_fc-web.jpg",
-            "team_1": "Gurugram Gladiators",
-            "team_2": "Faridabad Firebirds",
-            "status": "UPCOMING",
-            "startTime": "05:00:00 PM 29-09-2026"
         },
         {
             "event_category": "Football",
