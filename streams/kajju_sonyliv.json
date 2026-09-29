@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "29/9/2026, 2:24:26 am",
+  "updatedAt": "29/9/2026, 5:44:15 am",
   "total_matches": 13,
   "live_matches": 0,
   "matches": [
@@ -19,6 +19,19 @@
       "video_url": ""
     },
     {
+      "match_id": 1090545396,
+      "event_name": "Upcoming - Matchday 2 - UEFA Nations League 2026-27",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025229/1790629572075430_UNL26_Spain_vs_Croatia_tonight_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
       "match_id": 1090543727,
       "event_name": "Upcoming - India vs Brazil - India's International Friendlies ",
       "match_name": "",
@@ -27,19 +40,6 @@
       "digital_broadcast": "LIV",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024997/1790476914887357_FIFA_international_friendlies_india_vs_brazil_rev_dated_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090545396,
-      "event_name": "Upcoming - Matchday 2 - UEFA Nations League 2026-27",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025219/1790620128902874_UNL26_MD2_promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
