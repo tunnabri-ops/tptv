@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "30/9/2026, 7:35:43 pm",
-  "total_matches": 17,
-  "live_matches": 1,
+  "updatedAt": "1/10/2026, 12:11:19 am",
+  "total_matches": 16,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090541385_ENG",
-      "event_name": "20th Asian Games Aichi-Nagoya 2026",
-      "match_name": "Day 12 - 30 Sep 2026 [ENG]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790820131~acl=/*~id=51539026126433567875627093770097~hmac=fed9804a47af6f76ab25a455cbb06373821c35e15a96cff45040855b78e1d415",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790820131~acl=/*~id=51539026126433567875627093770097~hmac=fed9804a47af6f76ab25a455cbb06373821c35e15a96cff45040855b78e1d415",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_strea2909/ENG/std_lrh-800300010.m3u8?hdnea=exp=1790820131~acl=/*~id=51539026126433567875627093770097~hmac=fed9804a47af6f76ab25a455cbb06373821c35e15a96cff45040855b78e1d415"
-    },
     {
       "match_id": 1090545635,
       "event_name": "Upcoming - India vs Sri Lanka - 20th Asian Games Aichi-Nagoya 2026",
@@ -26,7 +13,7 @@
       "category": "Sports",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025246/1790659986855403_AG_INDvsSL_SF_dated_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025246/1790659961380403_AG_INDvsSL_SF_today_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
