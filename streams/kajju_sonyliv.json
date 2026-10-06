@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "6/10/2026, 2:58:04 am",
+  "updatedAt": "6/10/2026, 4:18:23 am",
   "total_matches": 6,
   "live_matches": 0,
   "matches": [
-    {
-      "match_id": 1090546015,
-      "event_name": "Upcoming - India Tour Of New Zealand 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025605/1790913888711779_ag_indvs_nz_promo_dated_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
     {
       "match_id": 1090543731,
       "event_name": "Upcoming - India's International Friendlies - India vs Uruguay",
@@ -26,7 +13,7 @@
       "category": "Football",
       "digital_broadcast": "LIV",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025803/1791041469410376_IND_vs_URU_landscape_thumb_dated.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025899/1791239612288660_IND_vs_URU_tonight_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -39,7 +26,20 @@
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025771/179102919887696_UNL_Croatia_vs_Spain_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025885/1791206957379442_UNL_Croatia_vs_Spain_promo_landscape_thumb_tonight.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090546015,
+      "event_name": "Upcoming - India Tour Of New Zealand 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025605/1790913888711779_ag_indvs_nz_promo_dated_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
