@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "13/10/2026, 12:50:55 am",
+  "updatedAt": "13/10/2026, 11:46:27 am",
   "total_matches": 14,
   "live_matches": 0,
   "matches": [
@@ -52,7 +52,7 @@
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026023/1791457674713859_UCL26_Atletico-Madrid-vs-Man-United_promo_landscape_thumb_ddt.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026023/1791457691376859_UCL26_Atletico-Madrid-vs-Man-United_promo_landscape_thumb_tonigh.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -65,7 +65,7 @@
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026021/1791455625098932_UCL26_Galatasaray-vs-Barcelona_promo_landscape_thumb_ddt.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026021/1791455610351932_UCL26_Galatasaray-vs-Barcelona_promo_landscape_thumb_tonight.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -78,7 +78,7 @@
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026175/1791802307972655_UCL26_Arsenal_vs_Lille_dated_promo_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026175/1791802293312655_UCL26_Arsenal_vs_Lille_tonight_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
