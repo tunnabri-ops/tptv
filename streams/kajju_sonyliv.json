@@ -1,8 +1,8 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "15/10/2026, 2:53:23 am",
-  "total_matches": 7,
+  "updatedAt": "15/10/2026, 5:14:12 am",
+  "total_matches": 8,
   "live_matches": 0,
   "matches": [
     {
@@ -32,14 +32,27 @@
       "video_url": ""
     },
     {
-      "match_id": 1090547565,
-      "event_name": "Upcoming - Matchday 2 - UEFA Champions League 2026-27",
+      "match_id": 1090548357,
+      "event_name": "Upcoming - Matchday 2 - UEFA Europa League 2026-27",
       "match_name": "",
       "status": "Upcoming",
       "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
+      "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026011/1791447970798949_UCL_MD2_landscape.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026379/1792020538186152_UEL_Lyon_vs_Crystal_Palace_dated_rev_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090548356,
+      "event_name": "Upcoming - Matchday 2 - UEFA Europa League 2026-27",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026360/1792003020481677_UEL26_MD2_promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
