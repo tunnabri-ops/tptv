@@ -1,10 +1,36 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "16/10/2026, 1:02:12 pm",
-  "total_matches": 10,
+  "updatedAt": "16/10/2026, 6:09:23 pm",
+  "total_matches": 11,
   "live_matches": 4,
   "matches": [
+    {
+      "match_id": "1090548553_ENG",
+      "event_name": "Volleyball Championship League 2026 ",
+      "match_name": "Punjab Aerostrikers vs Haryana Hurricanes - Super 6 - 16 Oct 2026 [ENG]",
+      "status": "Live",
+      "category": "Volleyball",
+      "digital_broadcast": "Sony Sports Ten 1",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026453/179210216462210_VCL26_super6_Punjab_vs_Haryana_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792197234~acl=/*~id=98252642973775877132282332869056~hmac=a875fd10dd22ffbe2caf6f43690be6e62108f654154041662ffce45912a825c0",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792197234~acl=/*~id=98252642973775877132282332869056~hmac=a875fd10dd22ffbe2caf6f43690be6e62108f654154041662ffce45912a825c0",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792197234~acl=/*~id=98252642973775877132282332869056~hmac=a875fd10dd22ffbe2caf6f43690be6e62108f654154041662ffce45912a825c0"
+    },
+    {
+      "match_id": "1090548553_HIN",
+      "event_name": "Volleyball Championship League 2026 ",
+      "match_name": "Punjab Aerostrikers vs Haryana Hurricanes - Super 6 - 16 Oct 2026 [HIN]",
+      "status": "Live",
+      "category": "Volleyball",
+      "digital_broadcast": "Sony Sports Ten 1",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026453/179210216462210_VCL26_super6_Punjab_vs_Haryana_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792197234~acl=/*~id=98252642973775877132282332869056~hmac=a875fd10dd22ffbe2caf6f43690be6e62108f654154041662ffce45912a825c0",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792197234~acl=/*~id=98252642973775877132282332869056~hmac=a875fd10dd22ffbe2caf6f43690be6e62108f654154041662ffce45912a825c0",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Volleyba1610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792197234~acl=/*~id=98252642973775877132282332869056~hmac=a875fd10dd22ffbe2caf6f43690be6e62108f654154041662ffce45912a825c0"
+    },
     {
       "match_id": "1090548552_ENG",
       "event_name": "DP World Tour",
@@ -14,22 +40,9 @@
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792045973804742_DP-World_India-Championship_Day2_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_DPW1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792179052~acl=/*~id=53022891497170345918410967564335~hmac=ce6ea86ecf01a07acf1f588486f78479ff694f8a43e14bcf70d0d5d751cdfc4e",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_DPW1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792179052~acl=/*~id=53022891497170345918410967564335~hmac=ce6ea86ecf01a07acf1f588486f78479ff694f8a43e14bcf70d0d5d751cdfc4e",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_DPW1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792179052~acl=/*~id=53022891497170345918410967564335~hmac=ce6ea86ecf01a07acf1f588486f78479ff694f8a43e14bcf70d0d5d751cdfc4e"
-    },
-    {
-      "match_id": "1090548548_ENG",
-      "event_name": "Asian Tour 2026",
-      "match_name": "SJM Macao Open - Day 2 - 16 Oct 2026 [ENG]",
-      "status": "Live",
-      "category": "Golf",
-      "digital_broadcast": "LIV",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045162992492_Asian_TOur_SJM_Macao_Open_Day2_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792179052~acl=/*~id=53022891497170345918410967564335~hmac=ce6ea86ecf01a07acf1f588486f78479ff694f8a43e14bcf70d0d5d751cdfc4e",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792179052~acl=/*~id=53022891497170345918410967564335~hmac=ce6ea86ecf01a07acf1f588486f78479ff694f8a43e14bcf70d0d5d751cdfc4e",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792179052~acl=/*~id=53022891497170345918410967564335~hmac=ce6ea86ecf01a07acf1f588486f78479ff694f8a43e14bcf70d0d5d751cdfc4e"
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_DPW1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792197234~acl=/*~id=98252642973775877132282332869056~hmac=a875fd10dd22ffbe2caf6f43690be6e62108f654154041662ffce45912a825c0",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_DPW1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792197234~acl=/*~id=98252642973775877132282332869056~hmac=a875fd10dd22ffbe2caf6f43690be6e62108f654154041662ffce45912a825c0",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_DPW1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792197234~acl=/*~id=98252642973775877132282332869056~hmac=a875fd10dd22ffbe2caf6f43690be6e62108f654154041662ffce45912a825c0"
     },
     {
       "match_id": "1090548552",
@@ -45,20 +58,7 @@
       "video_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_DPW1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792174838~acl=/*~id=75467477874607377832808187373024~hmac=be0435f04d78c6e10841aa18e72466f6d0a79e6dc00596c90f86aa52211ea0d5"
     },
     {
-      "match_id": "1090548548",
-      "event_name": "Asian Tour 2026",
-      "match_name": "SJM Macao Open - Day 2 - 16 Oct 2026 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045162992492_Asian_TOur_SJM_Macao_Open_Day2_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792171237~acl=/*~id=78082812848291062188862365804788~hmac=d9866b67c88e5dd9d680f9ce1075b8cabb0f9c04353e5c0eed3bdd946f2061bb",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792171237~acl=/*~id=78082812848291062188862365804788~hmac=d9866b67c88e5dd9d680f9ce1075b8cabb0f9c04353e5c0eed3bdd946f2061bb",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1610/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792171237~acl=/*~id=78082812848291062188862365804788~hmac=d9866b67c88e5dd9d680f9ce1075b8cabb0f9c04353e5c0eed3bdd946f2061bb"
-    },
-    {
-      "match_id": 1090546015,
+      "match_id": 1090548747,
       "event_name": "Upcoming - India Tour Of New Zealand 2026",
       "match_name": "",
       "status": "Upcoming",
@@ -79,6 +79,19 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026301/1791963032361998_ISL_SCD_vs_Mohun_Bagan_FC_promo_landscape_thumb_tonight.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090546015,
+      "event_name": "Upcoming - India Tour Of New Zealand 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025605/1790913888711779_ag_indvs_nz_promo_dated_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
