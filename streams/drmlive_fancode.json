@@ -1,8 +1,42 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:13:08 AM 16-10-2026",
+    "last update time": "12:55:47 PM 16-10-2026",
     "matches": [
+        {
+            "event_category": "Cricket",
+            "match_id": "4250220_ENG",
+            "title": "GSL Championship 2026 [English]",
+            "match_name": "Darmstadt CC vs TSV Malmsheim [English]",
+            "event_name": "GSL Championship 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250220_53117_DCC_TSV_fc-web.jpg",
+            "team_1": "Darmstadt CC",
+            "team_2": "TSV Malmsheim",
+            "status": "LIVE",
+            "startTime": "12:00:00 PM 16-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "dai_url": "https://in-mc-flive.fancode.com/mumbai/4250220_english_hls_11c50983ec26264_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792218318~_GO=Generated~acl=/mumbai/4250220_english_hls_11c50983ec26264_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_19952e60-ce48-4f~Signature=AZJsJWY1xCoNJzN3zESRYwRRjKvgLtAwClO521Cw72YbTkw7SmC0L4cTcfhLNG_zR24nu1Ngw7PEs8PX8ebXgL_SHe4G",
+            "adfree_url": "https://in-mc-flive.fancode.com/mumbai/4250220_english_hls_11c50983ec26264_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792218318~_GO=Generated~acl=/mumbai/4250220_english_hls_11c50983ec26264_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_19952e60-ce48-4f~Signature=AZJsJWY1xCoNJzN3zESRYwRRjKvgLtAwClO521Cw72YbTkw7SmC0L4cTcfhLNG_zR24nu1Ngw7PEs8PX8ebXgL_SHe4G",
+            "google_m3u8_hex": "234558544d33550a234558542d582d56455253494f4e3a330a234558542d582d53545245414d2d494e463a42414e4457494454483d3434363933362c415645524147452d42414e4457494454483d3434363933362c434f444543533d22617663312e3432653031352c6d7034612e34302e32222c50524f4752414d2d49443d312c5245534f4c5554494f4e3d343236783234302c4652414d452d524154453d32352e3030300a68747470733a2f2f696e2d6d632d666c6976652e66616e636f64652e636f6d2f6d756d6261692f343235303232305f656e676c6973685f686c735f3131633530393833656332363236345f3174612d64695f683236342f323430702e6d3375383f68646e746c3d457870697265733d313739323231383331387e5f474f3d47656e6572617465647e61636c3d2f6d756d6261692f343235303232305f656e676c6973685f686c735f3131633530393833656332363236345f3174612d64695f683236342f2a7e53657373696f6e49443d66632d6170705f73706f72747367757275616e645f77617463686f5f31393935326536302d636534382d34667e5369676e61747572653d415a4a734a57593178436f4e4a7a4e337a455352597752526a4b76674c744177436c4f353231437737325962546b7737536d43304c3463546366684c4e475f7a5232346e75314e67773750457338505838656258674c5f53486534470a234558542d582d53545245414d2d494e463a42414e4457494454483d3730323337362c415645524147452d42414e4457494454483d3730323337362c434f444543533d22617663312e3432653031652c6d7034612e34302e32222c50524f4752414d2d49443d312c5245534f4c5554494f4e3d363430783336302c4652414d452d524154453d32352e3030300a68747470733a2f2f696e2d6d632d666c6976652e66616e636f64652e636f6d2f6d756d6261692f343235303232305f656e676c6973685f686c735f3131633530393833656332363236345f3174612d64695f683236342f333630702e6d3375383f68646e746c3d457870697265733d313739323231383331387e5f474f3d47656e6572617465647e61636c3d2f6d756d6261692f343235303232305f656e676c6973685f686c735f3131633530393833656332363236345f3174612d64695f683236342f2a7e53657373696f6e49443d66632d6170705f73706f72747367757275616e645f77617463686f5f31393935326536302d636534382d34667e5369676e61747572653d415a4a734a57593178436f4e4a7a4e337a455352597752526a4b76674c744177436c4f353231437737325962546b7737536d43304c3463546366684c4e475f7a5232346e75314e67773750457338505838656258674c5f53486534470a234558542d582d53545245414d2d494e463a42414e4457494454483d313032333232342c415645524147452d42414e4457494454483d313032333232342c434f444543533d22617663312e3464343031652c6d7034612e34302e32222c50524f4752414d2d49443d312c5245534f4c5554494f4e3d383534783438302c4652414d452d524154453d32352e3030300a68747470733a2f2f696e2d6d632d666c6976652e66616e636f64652e636f6d2f6d756d6261692f343235303232305f656e676c6973685f686c735f3131633530393833656332363236345f3174612d64695f683236342f343830702e6d3375383f68646e746c3d457870697265733d313739323231383331387e5f474f3d47656e6572617465647e61636c3d2f6d756d6261692f343235303232305f656e676c6973685f686c735f3131633530393833656332363236345f3174612d64695f683236342f2a7e53657373696f6e49443d66632d6170705f73706f72747367757275616e645f77617463686f5f31393935326536302d636534382d34667e5369676e61747572653d415a4a734a57593178436f4e4a7a4e337a455352597752526a4b76674c744177436c4f353231437737325962546b7737536d43304c3463546366684c4e475f7a5232346e75314e67773750457338505838656258674c5f53486534470a234558542d582d53545245414d2d494e463a42414e4457494454483d313237383636342c415645524147452d42414e4457494454483d313237383636342c434f444543533d22617663312e3464343031662c6d7034612e34302e32222c50524f4752414d2d49443d312c5245534f4c5554494f4e3d393630783534302c4652414d452d524154453d32352e3030300a68747470733a2f2f696e2d6d632d666c6976652e66616e636f64652e636f6d2f6d756d6261692f343235303232305f656e676c6973685f686c735f3131633530393833656332363236345f3174612d64695f683236342f353430702e6d3375383f68646e746c3d457870697265733d313739323231383331387e5f474f3d47656e6572617465647e61636c3d2f6d756d6261692f343235303232305f656e676c6973685f686c735f3131633530393833656332363236345f3174612d64695f683236342f2a7e53657373696f6e49443d66632d6170705f73706f72747367757275616e645f77617463686f5f31393935326536302d636534382d34667e5369676e61747572653d415a4a734a57593178436f4e4a7a4e337a455352597752526a4b76674c744177436c4f353231437737325962546b7737536d43304c3463546366684c4e475f7a5232346e75314e67773750457338505838656258674c5f53486534470a234558542d582d53545245414d2d494e463a42414e4457494454483d313738393531322c415645524147452d42414e4457494454483d313738393531322c434f444543533d22617663312e3634303031662c6d7034612e34302e32222c50524f4752414d2d49443d312c5245534f4c5554494f4e3d31323830783732302c4652414d452d524154453d32352e3030300a68747470733a2f2f696e2d6d632d666c6976652e66616e636f64652e636f6d2f6d756d6261692f343235303232305f656e676c6973685f686c735f3131633530393833656332363236345f3174612d64695f683236342f373230702e6d3375383f68646e746c3d457870697265733d313739323231383331387e5f474f3d47656e6572617465647e61636c3d2f6d756d6261692f343235303232305f656e676c6973685f686c735f3131633530393833656332363236345f3174612d64695f683236342f2a7e53657373696f6e49443d66632d6170705f73706f72747367757275616e645f77617463686f5f31393935326536302d636534382d34667e5369676e61747572653d415a4a734a57593178436f4e4a7a4e337a455352597752526a4b76674c744177436c4f353231437737325962546b7737536d43304c3463546366684c4e475f7a5232346e75314e67773750457338505838656258674c5f53486534470a234558542d582d53545245414d2d494e463a42414e4457494454483d333332323132302c415645524147452d42414e4457494454483d333332323132302c434f444543533d22617663312e3634303032382c6d7034612e34302e32222c50524f4752414d2d49443d312c5245534f4c5554494f4e3d3139323078313038302c4652414d452d524154453d32352e3030300a68747470733a2f2f696e2d6d632d666c6976652e66616e636f64652e636f6d2f6d756d6261692f343235303232305f656e676c6973685f686c735f3131633530393833656332363236345f3174612d64695f683236342f31303830702e6d3375383f68646e746c3d457870697265733d313739323231383331387e5f474f3d47656e6572617465647e61636c3d2f6d756d6261692f343235303232305f656e676c6973685f686c735f3131633530393833656332363236345f3174612d64695f683236342f2a7e53657373696f6e49443d66632d6170705f73706f72747367757275616e645f77617463686f5f31393935326536302d636534382d34667e5369676e61747572653d415a4a734a57593178436f4e4a7a4e337a455352597752526a4b76674c744177436c4f353231437737325962546b7737536d43304c3463546366684c4e475f7a5232346e75314e67773750457338505838656258674c5f53486534470a",
+            "akamai_m3u8_hex": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": "4248845_ENG",
+            "title": "ATP Masters - Rolex Shanghai Masters [English]",
+            "match_name": "World Feed [English]",
+            "event_name": "ATP Masters - Rolex Shanghai Masters",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
+            "team_1": "World Feed",
+            "team_2": "Shanghai, China",
+            "status": "LIVE",
+            "startTime": "12:00:00 PM 16-10-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "dai_url": "https://in-mc-flive.fancode.com/mumbai/4248845_english_hls_929e386bb09848_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792218917~_GO=Generated~acl=/mumbai/4248845_english_hls_929e386bb09848_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_8d0bb8e5-0ef4-42~Signature=AZJsJWYx0E1ybIJt7hWXPC9Io5q7VXiYDUvx_Dr-ZG8V8xFUAcExuqZarSBMeZkkEQv21ZzBE-HNAApoDzpvPbtFp-0I",
+            "adfree_url": "https://in-mc-flive.fancode.com/mumbai/4248845_english_hls_929e386bb09848_1ta-di_h264/1080p.m3u8?hdntl=Expires=1792218917~_GO=Generated~acl=/mumbai/4248845_english_hls_929e386bb09848_1ta-di_h264/*~SessionID=fc-app_sportsguruand_watcho_8d0bb8e5-0ef4-42~Signature=AZJsJWYx0E1ybIJt7hWXPC9Io5q7VXiYDUvx_Dr-ZG8V8xFUAcExuqZarSBMeZkkEQv21ZzBE-HNAApoDzpvPbtFp-0I",
+            "google_m3u8_hex": "234558544d33550a234558542d582d56455253494f4e3a330a234558542d582d53545245414d2d494e463a42414e4457494454483d3434363933362c415645524147452d42414e4457494454483d3434363933362c434f444543533d22617663312e3432653031352c6d7034612e34302e32222c50524f4752414d2d49443d312c5245534f4c5554494f4e3d343236783234302c4652414d452d524154453d32352e3030300a68747470733a2f2f696e2d6d632d666c6976652e66616e636f64652e636f6d2f6d756d6261692f343234383834355f656e676c6973685f686c735f39323965333836626230393834385f3174612d64695f683236342f323430702e6d3375383f68646e746c3d457870697265733d313739323231383931377e5f474f3d47656e6572617465647e61636c3d2f6d756d6261692f343234383834355f656e676c6973685f686c735f39323965333836626230393834385f3174612d64695f683236342f2a7e53657373696f6e49443d66632d6170705f73706f72747367757275616e645f77617463686f5f38643062623865352d306566342d34327e5369676e61747572653d415a4a734a5759783045317962494a7437685758504339496f35713756586959445576785f44722d5a473856387846554163457875715a617253424d655a6b6b45517632315a7a42452d484e4141706f447a707650627446702d30490a234558542d582d53545245414d2d494e463a42414e4457494454483d3730323337362c415645524147452d42414e4457494454483d3730323337362c434f444543533d22617663312e3432653031652c6d7034612e34302e32222c50524f4752414d2d49443d312c5245534f4c5554494f4e3d363430783336302c4652414d452d524154453d32352e3030300a68747470733a2f2f696e2d6d632d666c6976652e66616e636f64652e636f6d2f6d756d6261692f343234383834355f656e676c6973685f686c735f39323965333836626230393834385f3174612d64695f683236342f333630702e6d3375383f68646e746c3d457870697265733d313739323231383931377e5f474f3d47656e6572617465647e61636c3d2f6d756d6261692f343234383834355f656e676c6973685f686c735f39323965333836626230393834385f3174612d64695f683236342f2a7e53657373696f6e49443d66632d6170705f73706f72747367757275616e645f77617463686f5f38643062623865352d306566342d34327e5369676e61747572653d415a4a734a5759783045317962494a7437685758504339496f35713756586959445576785f44722d5a473856387846554163457875715a617253424d655a6b6b45517632315a7a42452d484e4141706f447a707650627446702d30490a234558542d582d53545245414d2d494e463a42414e4457494454483d313032333232342c415645524147452d42414e4457494454483d313032333232342c434f444543533d22617663312e3464343031652c6d7034612e34302e32222c50524f4752414d2d49443d312c5245534f4c5554494f4e3d383534783438302c4652414d452d524154453d32352e3030300a68747470733a2f2f696e2d6d632d666c6976652e66616e636f64652e636f6d2f6d756d6261692f343234383834355f656e676c6973685f686c735f39323965333836626230393834385f3174612d64695f683236342f343830702e6d3375383f68646e746c3d457870697265733d313739323231383931377e5f474f3d47656e6572617465647e61636c3d2f6d756d6261692f343234383834355f656e676c6973685f686c735f39323965333836626230393834385f3174612d64695f683236342f2a7e53657373696f6e49443d66632d6170705f73706f72747367757275616e645f77617463686f5f38643062623865352d306566342d34327e5369676e61747572653d415a4a734a5759783045317962494a7437685758504339496f35713756586959445576785f44722d5a473856387846554163457875715a617253424d655a6b6b45517632315a7a42452d484e4141706f447a707650627446702d30490a234558542d582d53545245414d2d494e463a42414e4457494454483d313237383636342c415645524147452d42414e4457494454483d313237383636342c434f444543533d22617663312e3464343031662c6d7034612e34302e32222c50524f4752414d2d49443d312c5245534f4c5554494f4e3d393630783534302c4652414d452d524154453d32352e3030300a68747470733a2f2f696e2d6d632d666c6976652e66616e636f64652e636f6d2f6d756d6261692f343234383834355f656e676c6973685f686c735f39323965333836626230393834385f3174612d64695f683236342f353430702e6d3375383f68646e746c3d457870697265733d313739323231383931377e5f474f3d47656e6572617465647e61636c3d2f6d756d6261692f343234383834355f656e676c6973685f686c735f39323965333836626230393834385f3174612d64695f683236342f2a7e53657373696f6e49443d66632d6170705f73706f72747367757275616e645f77617463686f5f38643062623865352d306566342d34327e5369676e61747572653d415a4a734a5759783045317962494a7437685758504339496f35713756586959445576785f44722d5a473856387846554163457875715a617253424d655a6b6b45517632315a7a42452d484e4141706f447a707650627446702d30490a234558542d582d53545245414d2d494e463a42414e4457494454483d313738393531322c415645524147452d42414e4457494454483d313738393531322c434f444543533d22617663312e3634303031662c6d7034612e34302e32222c50524f4752414d2d49443d312c5245534f4c5554494f4e3d31323830783732302c4652414d452d524154453d32352e3030300a68747470733a2f2f696e2d6d632d666c6976652e66616e636f64652e636f6d2f6d756d6261692f343234383834355f656e676c6973685f686c735f39323965333836626230393834385f3174612d64695f683236342f373230702e6d3375383f68646e746c3d457870697265733d313739323231383931377e5f474f3d47656e6572617465647e61636c3d2f6d756d6261692f343234383834355f656e676c6973685f686c735f39323965333836626230393834385f3174612d64695f683236342f2a7e53657373696f6e49443d66632d6170705f73706f72747367757275616e645f77617463686f5f38643062623865352d306566342d34327e5369676e61747572653d415a4a734a5759783045317962494a7437685758504339496f35713756586959445576785f44722d5a473856387846554163457875715a617253424d655a6b6b45517632315a7a42452d484e4141706f447a707650627446702d30490a234558542d582d53545245414d2d494e463a42414e4457494454483d333332323132302c415645524147452d42414e4457494454483d333332323132302c434f444543533d22617663312e3634303032382c6d7034612e34302e32222c50524f4752414d2d49443d312c5245534f4c5554494f4e3d3139323078313038302c4652414d452d524154453d32352e3030300a68747470733a2f2f696e2d6d632d666c6976652e66616e636f64652e636f6d2f6d756d6261692f343234383834355f656e676c6973685f686c735f39323965333836626230393834385f3174612d64695f683236342f31303830702e6d3375383f68646e746c3d457870697265733d313739323231383931377e5f474f3d47656e6572617465647e61636c3d2f6d756d6261692f343234383834355f656e676c6973685f686c735f39323965333836626230393834385f3174612d64695f683236342f2a7e53657373696f6e49443d66632d6170705f73706f72747367757275616e645f77617463686f5f38643062623865352d306566342d34327e5369676e61747572653d415a4a734a5759783045317962494a7437685758504339496f35713756586959445576785f44722d5a473856387846554163457875715a617253424d655a6b6b45517632315a7a42452d484e4141706f447a707650627446702d30490a",
+            "akamai_m3u8_hex": null
+        },
         {
             "event_category": "Cricket",
             "match_id": 4249234,
@@ -29,18 +63,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4249793,
-            "title": "Brisbane Heat Women vs ACT Meteors (T20 Spring Challenge, 2026)",
-            "match_name": "Brisbane Heat Women vs ACT Meteors",
-            "event_name": "T20 Spring Challenge, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249793_53097_BH-W_AM-W_FC-Web_1791883788028.png",
-            "team_1": "Brisbane Heat Women",
-            "team_2": "ACT Meteors",
-            "status": "UPCOMING",
-            "startTime": "09:00:00 AM 16-10-2026"
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4249283,
             "title": "South Australia vs Queensland (One Day Cup, 2026/27)",
             "match_name": "South Australia vs Queensland",
@@ -50,18 +72,6 @@
             "team_2": "Queensland",
             "status": "UPCOMING",
             "startTime": "05:00:00 AM 17-10-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250220,
-            "title": "Darmstadt CC vs TSV Malmsheim (GSL Championship 2026)",
-            "match_name": "Darmstadt CC vs TSV Malmsheim",
-            "event_name": "GSL Championship 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250220_53117_DCC_TSV_fc-web.jpg",
-            "team_1": "Darmstadt CC",
-            "team_2": "TSV Malmsheim",
-            "status": "UPCOMING",
-            "startTime": "12:00:00 PM 16-10-2026"
         },
         {
             "event_category": "Cricket",
@@ -172,6 +182,18 @@
             "startTime": "11:45:00 PM 16-10-2026"
         },
         {
+            "event_category": "Cricket",
+            "match_id": 4250117,
+            "title": "Canada vs Nepal (ICC CWC League 2 Oman, 2026)",
+            "match_name": "Canada vs Nepal",
+            "event_name": "ICC CWC League 2 Oman, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250117_53106_CAN_NEP_fc-Web.png",
+            "team_1": "Canada",
+            "team_2": "Nepal",
+            "status": "UPCOMING",
+            "startTime": "11:00:00 AM 17-10-2026"
+        },
+        {
             "event_category": "Football",
             "match_id": 4247653,
             "title": "Deportivo de La Coruna vs Levante (LALIGA 2026-27)",
@@ -221,18 +243,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4250117,
-            "title": "Canada vs Nepal (ICC CWC League 2 Oman, 2026)",
-            "match_name": "Canada vs Nepal",
-            "event_name": "ICC CWC League 2 Oman, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250117_53106_CAN_NEP_fc-Web.png",
-            "team_1": "Canada",
-            "team_2": "Nepal",
-            "status": "UPCOMING",
-            "startTime": "11:00:00 AM 17-10-2026"
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4249796,
             "title": "ACT Meteors vs Melbourne Stars Women (T20 Spring Challenge, 2026)",
             "match_name": "ACT Meteors vs Melbourne Stars Women",
@@ -266,66 +276,6 @@
             "team_2": "C\u00f3rdoba",
             "status": "UPCOMING",
             "startTime": "12:00:00 AM 17-10-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": 4248846,
-            "title": "Stadium Court vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
-            "match_name": "Stadium Court",
-            "event_name": "ATP Masters - Rolex Shanghai Masters",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "Stadium Court",
-            "team_2": "Shanghai, China",
-            "status": "UPCOMING",
-            "startTime": "09:30:00 AM 16-10-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": 4248845,
-            "title": "World Feed vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
-            "match_name": "World Feed",
-            "event_name": "ATP Masters - Rolex Shanghai Masters",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "World Feed",
-            "team_2": "Shanghai, China",
-            "status": "UPCOMING",
-            "startTime": "12:00:00 PM 16-10-2026"
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249834,
-            "title": "Sydney FC vs Western Sydney Wanderers (A-League 2026-27)",
-            "match_name": "Sydney FC vs Western Sydney Wanderers",
-            "event_name": "A-League 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249834_53101_SYD_SYW_fc-Web_1791982772009.jpg",
-            "team_1": "Sydney FC",
-            "team_2": "Western Sydney Wanderers",
-            "status": "UPCOMING",
-            "startTime": "02:30:00 PM 16-10-2026"
-        },
-        {
-            "event_category": "Badminton",
-            "match_id": 4250145,
-            "title": "QF - Court 1 vs Denmark (BWF Super 750 - Denmark Open 2026)",
-            "match_name": "QF - Court 1",
-            "event_name": "BWF Super 750 - Denmark Open 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
-            "team_1": "QF - Court 1",
-            "team_2": "Denmark",
-            "status": "UPCOMING",
-            "startTime": "03:30:00 PM 16-10-2026"
-        },
-        {
-            "event_category": "Badminton",
-            "match_id": 4250146,
-            "title": "QF - Court 2 vs Denmark (BWF Super 750 - Denmark Open 2026)",
-            "match_name": "QF - Court 2",
-            "event_name": "BWF Super 750 - Denmark Open 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
-            "team_1": "QF - Court 2",
-            "team_2": "Denmark",
-            "status": "UPCOMING",
-            "startTime": "03:30:00 PM 16-10-2026"
         },
         {
             "event_category": "Cricket",
@@ -376,6 +326,42 @@
             "startTime": "05:30:00 PM 17-10-2026"
         },
         {
+            "event_category": "Football",
+            "match_id": 4249834,
+            "title": "Sydney FC vs Western Sydney Wanderers (A-League 2026-27)",
+            "match_name": "Sydney FC vs Western Sydney Wanderers",
+            "event_name": "A-League 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249834_53101_SYD_SYW_fc-Web_1791982772009.jpg",
+            "team_1": "Sydney FC",
+            "team_2": "Western Sydney Wanderers",
+            "status": "UPCOMING",
+            "startTime": "02:30:00 PM 16-10-2026"
+        },
+        {
+            "event_category": "Badminton",
+            "match_id": 4250145,
+            "title": "QF - Court 1 vs Denmark (BWF Super 750 - Denmark Open 2026)",
+            "match_name": "QF - Court 1",
+            "event_name": "BWF Super 750 - Denmark Open 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
+            "team_1": "QF - Court 1",
+            "team_2": "Denmark",
+            "status": "UPCOMING",
+            "startTime": "03:30:00 PM 16-10-2026"
+        },
+        {
+            "event_category": "Badminton",
+            "match_id": 4250146,
+            "title": "QF - Court 2 vs Denmark (BWF Super 750 - Denmark Open 2026)",
+            "match_name": "QF - Court 2",
+            "event_name": "BWF Super 750 - Denmark Open 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
+            "team_1": "QF - Court 2",
+            "team_2": "Denmark",
+            "status": "UPCOMING",
+            "startTime": "03:30:00 PM 16-10-2026"
+        },
+        {
             "event_category": "Cricket",
             "match_id": 4250227,
             "title": "TSV Malmsheim vs ICA Berlin (GSL Championship 2026)",
@@ -389,18 +375,6 @@
         },
         {
             "event_category": "Football",
-            "match_id": 4249835,
-            "title": "Auckland vs Melbourne City (A-League 2026-27)",
-            "match_name": "Auckland vs Melbourne City",
-            "event_name": "A-League 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249835_53101_AFC_MLC_fc-Web_1791982771900.jpg",
-            "team_1": "Auckland",
-            "team_2": "Melbourne City",
-            "status": "UPCOMING",
-            "startTime": "09:30:00 AM 17-10-2026"
-        },
-        {
-            "event_category": "Football",
             "match_id": 4249595,
             "title": "Watford F.C. vs Charlton Athletic F.C (EFL Championship 2026-27)",
             "match_name": "Watford F.C. vs Charlton Athletic F.C",
@@ -410,18 +384,6 @@
             "team_2": "Charlton Athletic F.C",
             "status": "UPCOMING",
             "startTime": "05:00:00 PM 17-10-2026"
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249836,
-            "title": "Macarthur vs Perth Glory (A-League 2026-27)",
-            "match_name": "Macarthur vs Perth Glory",
-            "event_name": "A-League 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249836_53101_MAC_PG_fc-Web_1791982773863.jpg",
-            "team_1": "Macarthur",
-            "team_2": "Perth Glory",
-            "status": "UPCOMING",
-            "startTime": "11:30:00 AM 17-10-2026"
         },
         {
             "event_category": "Football",
@@ -448,16 +410,28 @@
             "startTime": "06:00:00 PM 17-10-2026"
         },
         {
-            "event_category": "Badminton",
-            "match_id": 4250147,
-            "title": "Semi-Final vs Denmark (BWF Super 750 - Denmark Open 2026)",
-            "match_name": "Semi-Final",
-            "event_name": "BWF Super 750 - Denmark Open 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
-            "team_1": "Semi-Final",
-            "team_2": "Denmark",
+            "event_category": "Football",
+            "match_id": 4249835,
+            "title": "Auckland vs Melbourne City (A-League 2026-27)",
+            "match_name": "Auckland vs Melbourne City",
+            "event_name": "A-League 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249835_53101_AFC_MLC_fc-Web_1791982771900.jpg",
+            "team_1": "Auckland",
+            "team_2": "Melbourne City",
             "status": "UPCOMING",
-            "startTime": "12:30:00 PM 17-10-2026"
+            "startTime": "09:30:00 AM 17-10-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250193,
+            "title": "Hurricanes Women vs Seattle Thunders Women (Atlanta Open Women's T20 2026)",
+            "match_name": "Hurricanes Women vs Seattle Thunders Women",
+            "event_name": "Atlanta Open Women's T20 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250193_53114_HR-W_ST-W_fc-web.jpg",
+            "team_1": "Hurricanes Women",
+            "team_2": "Seattle Thunders Women",
+            "status": "UPCOMING",
+            "startTime": "07:00:00 PM 17-10-2026"
         },
         {
             "event_category": "Football",
@@ -472,16 +446,52 @@
             "startTime": "05:15:00 PM 17-10-2026"
         },
         {
-            "event_category": "Tennis",
-            "match_id": 4248849,
-            "title": "ATP Masters - Rolex Shanghai Masters vs Shanghai, China (ATP Masters - Rolex Shanghai Masters)",
-            "match_name": "ATP Masters - Rolex Shanghai Masters",
-            "event_name": "ATP Masters - Rolex Shanghai Masters",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Shanghai_Web-match-card.png",
-            "team_1": "ATP Masters - Rolex Shanghai Masters",
-            "team_2": "Shanghai, China",
+            "event_category": "Football",
+            "match_id": 4249836,
+            "title": "Macarthur vs Perth Glory (A-League 2026-27)",
+            "match_name": "Macarthur vs Perth Glory",
+            "event_name": "A-League 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249836_53101_MAC_PG_fc-Web_1791982773863.jpg",
+            "team_1": "Macarthur",
+            "team_2": "Perth Glory",
             "status": "UPCOMING",
-            "startTime": "01:30:00 PM 17-10-2026"
+            "startTime": "11:30:00 AM 17-10-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250184,
+            "title": "TBC vs TBC (Atlanta Open T20 2026)",
+            "match_name": "TBC vs TBC",
+            "event_name": "Atlanta Open T20 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "team_1": "TBC",
+            "team_2": "TBC",
+            "status": "UPCOMING",
+            "startTime": "07:30:00 PM 17-10-2026"
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249596,
+            "title": "Norwich City F.C. vs Portsmouth F.C. (EFL Championship 2026-27)",
+            "match_name": "Norwich City F.C. vs Portsmouth F.C.",
+            "event_name": "EFL Championship 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249596_52993_NOR_PRM_fc-web.jpg",
+            "team_1": "Norwich City F.C.",
+            "team_2": "Portsmouth F.C.",
+            "status": "UPCOMING",
+            "startTime": "07:30:00 PM 17-10-2026"
+        },
+        {
+            "event_category": "Badminton",
+            "match_id": 4250147,
+            "title": "Semi-Final vs Denmark (BWF Super 750 - Denmark Open 2026)",
+            "match_name": "Semi-Final",
+            "event_name": "BWF Super 750 - Denmark Open 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/badminton_FC-W.png",
+            "team_1": "Semi-Final",
+            "team_2": "Denmark",
+            "status": "UPCOMING",
+            "startTime": "12:30:00 PM 17-10-2026"
         }
     ]
 }
