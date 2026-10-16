@@ -1,8 +1,8 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "16/10/2026, 10:22:01 pm",
-  "total_matches": 7,
+  "updatedAt": "17/10/2026, 12:51:58 am",
+  "total_matches": 9,
   "live_matches": 0,
   "matches": [
     {
@@ -26,7 +26,33 @@
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026319/1791973979294868_ISL_Bengaluru_FC_vs_Chennaiyin_FC_promo_landscape_thumb_dated.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026319/1791973984915868_ISL_Bengaluru_FC_vs_Chennaiyin_FC_promo_landscape_thumb_tonight.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090548865,
+      "event_name": "Upcoming - India Tour Of New Zealand 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026514/1792170340571528_INDvsNZ_5t20i_promo_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090548837,
+      "event_name": "Upcoming - India Tour Of New Zealand 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026512/1792168426244866_NZvsIND_1st_t20i_promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
