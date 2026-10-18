@@ -1,35 +1,35 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "18/10/2026, 10:20:11 am",
+  "updatedAt": "18/10/2026, 2:44:56 pm",
   "total_matches": 13,
   "live_matches": 2,
   "matches": [
     {
-      "match_id": "1090548739_ENG",
-      "event_name": "Asian Tour 2026",
-      "match_name": "SJM Macao Open - Day 4 - 18 Oct 2026 [ENG]",
+      "match_id": "1090548740_ENG",
+      "event_name": "DP World Tour",
+      "match_name": "DP World India Championship - Day 4 - 18 Oct 2026 [ENG]",
       "status": "Live",
       "category": "Golf",
       "digital_broadcast": "LIV",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055378971141_Asian-Tour_LINK-Hong-Kong-Open_D4_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792342110~acl=/*~id=54704027044594682338780204474924~hmac=b7f8c6d0a1338b650d6b2489fdf98c86c72fed7176a494a48a6c2faac4901699",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792342110~acl=/*~id=54704027044594682338780204474924~hmac=b7f8c6d0a1338b650d6b2489fdf98c86c72fed7176a494a48a6c2faac4901699",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792342110~acl=/*~id=54704027044594682338780204474924~hmac=b7f8c6d0a1338b650d6b2489fdf98c86c72fed7176a494a48a6c2faac4901699"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046074732742_DP-World_India-Championship_Day4_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792357870~acl=/*~id=75602043561092908852523927944595~hmac=314cd76e560f9daa5aaafdedcc0c6237b8a76d76e212138daa4ee793a92047d3",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792357870~acl=/*~id=75602043561092908852523927944595~hmac=314cd76e560f9daa5aaafdedcc0c6237b8a76d76e212138daa4ee793a92047d3",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/std_lrh-800300010.m3u8?hdnea=exp=1792357870~acl=/*~id=75602043561092908852523927944595~hmac=314cd76e560f9daa5aaafdedcc0c6237b8a76d76e212138daa4ee793a92047d3"
     },
     {
-      "match_id": "1090548739",
-      "event_name": "Asian Tour 2026",
-      "match_name": "SJM Macao Open - Day 4 - 18 Oct 2026 [ENGLISH]",
+      "match_id": "1090548740",
+      "event_name": "DP World Tour",
+      "match_name": "DP World India Championship - Day 4 - 18 Oct 2026 [ENGLISH]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055378971141_Asian-Tour_LINK-Hong-Kong-Open_D4_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792338635~acl=/*~id=63763230067086209932026693515615~hmac=513bb411c76255973917904a9edbadeffc51e52d0ce009d40ae1b84c63f46ba9",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792338635~acl=/*~id=63763230067086209932026693515615~hmac=513bb411c76255973917904a9edbadeffc51e52d0ce009d40ae1b84c63f46ba9",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792338635~acl=/*~id=63763230067086209932026693515615~hmac=513bb411c76255973917904a9edbadeffc51e52d0ce009d40ae1b84c63f46ba9"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046074732742_DP-World_India-Championship_Day4_landscape_thumb.jpg",
+      "dai_url": "https://livecfdai-par-mp.slivcdn.com/out/v1/cfed49dc0449444bac761f9dd9155916/std_lrh-800300010.m3u8?hdnea=exp=1792344036~acl=/*~id=35126441904256873407329726820446~hmac=6614df1da79190db9dd58e88ff1559e3775929ab045a414b6f7814945b7ad301",
+      "pub_url": "https://livecfdai-par-mp.slivcdn.com/out/v1/cfed49dc0449444bac761f9dd9155916/std_lrh-800300010.m3u8?hdnea=exp=1792344036~acl=/*~id=35126441904256873407329726820446~hmac=6614df1da79190db9dd58e88ff1559e3775929ab045a414b6f7814945b7ad301",
+      "video_url": "https://livecfdai-par-mp.slivcdn.com/out/v1/cfed49dc0449444bac761f9dd9155916/std_lrh-800300010.m3u8?hdnea=exp=1792344036~acl=/*~id=35126441904256873407329726820446~hmac=6614df1da79190db9dd58e88ff1559e3775929ab045a414b6f7814945b7ad301"
     },
     {
       "match_id": 1090548932,
