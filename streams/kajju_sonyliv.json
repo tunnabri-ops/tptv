@@ -1,35 +1,35 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "20/10/2026, 5:44:16 pm",
+  "updatedAt": "20/10/2026, 10:44:13 pm",
   "total_matches": 17,
   "live_matches": 2,
   "matches": [
     {
-      "match_id": "1090549194_ENG",
-      "event_name": "UEFA Youth League 2026-27",
-      "match_name": "PSG vs Barcelona - 20 Oct 2026 [ENG]",
+      "match_id": "1090549200_ENG",
+      "event_name": "UEFA Champions League 2026-27",
+      "match_name": "Sabah vs Dortmund - 20 Oct 2026 [ENG]",
       "status": "Live",
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025833/1791097802834995_UYL26_PSG_vs_Barcelona_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792541349~acl=/*~id=30409475658735468905179413199209~hmac=32c3fb5df56f92c2ace62178cdb9c45c8fd8ecbf58ce97d35cf3ef5876df6c0b",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792541349~acl=/*~id=30409475658735468905179413199209~hmac=32c3fb5df56f92c2ace62178cdb9c45c8fd8ecbf58ce97d35cf3ef5876df6c0b",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792541349~acl=/*~id=30409475658735468905179413199209~hmac=32c3fb5df56f92c2ace62178cdb9c45c8fd8ecbf58ce97d35cf3ef5876df6c0b"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125022899319_UCL2627_MD3_Sabah_vs_Dortmund_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792559548~acl=/*~id=05301163602815117270620208193896~hmac=ade47bae12cd8e39812e728915352b644a72d804761c166844da514a1efd97a8",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792559548~acl=/*~id=05301163602815117270620208193896~hmac=ade47bae12cd8e39812e728915352b644a72d804761c166844da514a1efd97a8",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/20000094/cricodi_2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792559548~acl=/*~id=05301163602815117270620208193896~hmac=ade47bae12cd8e39812e728915352b644a72d804761c166844da514a1efd97a8"
     },
     {
-      "match_id": "1090549194",
-      "event_name": "UEFA Youth League 2026-27",
-      "match_name": "PSG vs Barcelona - 20 Oct 2026 [ENGLISH]",
+      "match_id": "1090549199_ENG",
+      "event_name": "UEFA Champions League 2026-27",
+      "match_name": "Fenerbahçe vs Slavia Praha - MD 3 - 20 Oct 2026 [ENG]",
       "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025833/1791097802834995_UYL26_PSG_vs_Barcelona_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792540236~acl=/*~id=24430564820691220641780287558324~hmac=037aad3670b9deff7ce52f7f872c8b68cbdce5dceebd5e83934a118bc80b1038",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792540236~acl=/*~id=24430564820691220641780287558324~hmac=037aad3670b9deff7ce52f7f872c8b68cbdce5dceebd5e83934a118bc80b1038",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792540236~acl=/*~id=24430564820691220641780287558324~hmac=037aad3670b9deff7ce52f7f872c8b68cbdce5dceebd5e83934a118bc80b1038"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179124692857319_UCL2627_MD3_Fenerbahce_vs_Slavia_Praha_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792559548~acl=/*~id=05301163602815117270620208193896~hmac=ade47bae12cd8e39812e728915352b644a72d804761c166844da514a1efd97a8",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792559548~acl=/*~id=05301163602815117270620208193896~hmac=ade47bae12cd8e39812e728915352b644a72d804761c166844da514a1efd97a8",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792559548~acl=/*~id=05301163602815117270620208193896~hmac=ade47bae12cd8e39812e728915352b644a72d804761c166844da514a1efd97a8"
     },
     {
       "match_id": 1090548837,
@@ -130,7 +130,7 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026701/1792409825254715_IND_vs_NZ_1st_T20i_landscape_thumb_dated.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026802/1792507041786654_NZvsIND_t20i_promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -169,7 +169,7 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026701/1792409825254715_IND_vs_NZ_1st_T20i_landscape_thumb_dated.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026802/1792507025103654_NZvsIND_5t20i_promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
