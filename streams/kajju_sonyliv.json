@@ -1,10 +1,36 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "20/10/2026, 10:40:00 am",
-  "total_matches": 15,
-  "live_matches": 0,
+  "updatedAt": "20/10/2026, 5:44:16 pm",
+  "total_matches": 17,
+  "live_matches": 2,
   "matches": [
+    {
+      "match_id": "1090549194_ENG",
+      "event_name": "UEFA Youth League 2026-27",
+      "match_name": "PSG vs Barcelona - 20 Oct 2026 [ENG]",
+      "status": "Live",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025833/1791097802834995_UYL26_PSG_vs_Barcelona_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792541349~acl=/*~id=30409475658735468905179413199209~hmac=32c3fb5df56f92c2ace62178cdb9c45c8fd8ecbf58ce97d35cf3ef5876df6c0b",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792541349~acl=/*~id=30409475658735468905179413199209~hmac=32c3fb5df56f92c2ace62178cdb9c45c8fd8ecbf58ce97d35cf3ef5876df6c0b",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792541349~acl=/*~id=30409475658735468905179413199209~hmac=32c3fb5df56f92c2ace62178cdb9c45c8fd8ecbf58ce97d35cf3ef5876df6c0b"
+    },
+    {
+      "match_id": "1090549194",
+      "event_name": "UEFA Youth League 2026-27",
+      "match_name": "PSG vs Barcelona - 20 Oct 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025833/1791097802834995_UYL26_PSG_vs_Barcelona_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792540236~acl=/*~id=24430564820691220641780287558324~hmac=037aad3670b9deff7ce52f7f872c8b68cbdce5dceebd5e83934a118bc80b1038",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792540236~acl=/*~id=24430564820691220641780287558324~hmac=037aad3670b9deff7ce52f7f872c8b68cbdce5dceebd5e83934a118bc80b1038",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792540236~acl=/*~id=24430564820691220641780287558324~hmac=037aad3670b9deff7ce52f7f872c8b68cbdce5dceebd5e83934a118bc80b1038"
+    },
     {
       "match_id": 1090548837,
       "event_name": "Upcoming - India Tour Of New Zealand 2026",
