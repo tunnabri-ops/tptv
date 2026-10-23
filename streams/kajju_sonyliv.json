@@ -1,49 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "23/10/2026, 6:12:23 pm",
-  "total_matches": 19,
-  "live_matches": 8,
+  "updatedAt": "23/10/2026, 10:53:47 pm",
+  "total_matches": 15,
+  "live_matches": 3,
   "matches": [
-    {
-      "match_id": "1090550073_ENG",
-      "event_name": "MG Indian Super League 2026-27",
-      "match_name": "Inter Kashi vs East Bengal FC - 23 Oct 2026 [ENG]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026658/179233523030793_ISL26_KSHI_vs_EastBengalFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120306/footlive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120306/footlive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120306/footlive2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320"
-    },
-    {
-      "match_id": "1090550073_HIN",
-      "event_name": "MG Indian Super League 2026-27",
-      "match_name": "Inter Kashi vs East Bengal FC - 23 Oct 2026 [HIN]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026658/179233523030793_ISL26_KSHI_vs_EastBengalFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2094589/footlive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2094589/footlive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2094589/footlive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320"
-    },
-    {
-      "match_id": "1090550073_BEN",
-      "event_name": "MG Indian Super League 2026-27",
-      "match_name": "Inter Kashi vs East Bengal FC - 23 Oct 2026 [BEN]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "BEN",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026658/179233523030793_ISL26_KSHI_vs_EastBengalFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2094588/footlive2310/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2094588/footlive2310/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2094588/footlive2310/BEN/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320"
-    },
     {
       "match_id": "1090550116_ENG",
       "event_name": "Volleyball Champions League 2026",
@@ -53,9 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026930/1792612456710353_VCL26_final_Delhi_Dynamites_vs_Emperia_Marathas_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792819300~acl=/*~id=28467802287771103504426568271947~hmac=038289253e246dd9b0c5a0f7854610f132ca46fbb9d28fe15d39bb2fafe5d769",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792819300~acl=/*~id=28467802287771103504426568271947~hmac=038289253e246dd9b0c5a0f7854610f132ca46fbb9d28fe15d39bb2fafe5d769",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792819300~acl=/*~id=28467802287771103504426568271947~hmac=038289253e246dd9b0c5a0f7854610f132ca46fbb9d28fe15d39bb2fafe5d769"
     },
     {
       "match_id": "1090550116_HIN",
@@ -66,61 +27,22 @@
       "digital_broadcast": "Sony Sports Ten 1",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026930/1792612456710353_VCL26_final_Delhi_Dynamites_vs_Emperia_Marathas_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792819300~acl=/*~id=28467802287771103504426568271947~hmac=038289253e246dd9b0c5a0f7854610f132ca46fbb9d28fe15d39bb2fafe5d769",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792819300~acl=/*~id=28467802287771103504426568271947~hmac=038289253e246dd9b0c5a0f7854610f132ca46fbb9d28fe15d39bb2fafe5d769",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792819300~acl=/*~id=28467802287771103504426568271947~hmac=038289253e246dd9b0c5a0f7854610f132ca46fbb9d28fe15d39bb2fafe5d769"
     },
     {
-      "match_id": "1090550072_HIN",
-      "event_name": "Salute Tiranga Cricket League (STCL) 2026",
-      "match_name": "Mumbai Mavericks vs Gujarat Royals - 23 Oct 2026 [HIN]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026940/1792621782167596_STCL26_mumbai_vs_gujarat_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792802308~acl=/*~id=71422030107273687062177177454541~hmac=1070789ab70562cc639ff7e6df3e1e1403a4ac6caf295701234c1dc942b9b320"
-    },
-    {
-      "match_id": "1090550073",
-      "event_name": "MG Indian Super League 2026-27",
-      "match_name": "Inter Kashi vs East Bengal FC - 23 Oct 2026 | MG Indian Super League 2026-27 [ENGLISH]",
+      "match_id": "1090550116",
+      "event_name": "Volleyball Champions League 2026",
+      "match_name": "Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026 | Volleyball Champions League 2026 [ENGLISH]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026658/179233523030793_ISL26_KSHI_vs_EastBengalFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/footlive2310/ENG/master.m3u8?hdnea=exp=1792797648~acl=/*~id=34009329926714089171716740736499~hmac=b7b7c173fcdb8a53dc04741a3b8888cae3e302c9f83df6b7598c11daaebc1eeb",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/footlive2310/ENG/master.m3u8?hdnea=exp=1792797648~acl=/*~id=34009329926714089171716740736499~hmac=b7b7c173fcdb8a53dc04741a3b8888cae3e302c9f83df6b7598c11daaebc1eeb",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/footlive2310/ENG/master.m3u8?hdnea=exp=1792797648~acl=/*~id=34009329926714089171716740736499~hmac=b7b7c173fcdb8a53dc04741a3b8888cae3e302c9f83df6b7598c11daaebc1eeb"
-    },
-    {
-      "match_id": "1090550072",
-      "event_name": "Salute Tiranga Cricket League (STCL) 2026",
-      "match_name": "Mumbai Mavericks vs Gujarat Royals - 23 Oct 2026 | Salute Tiranga Cricket League (STCL) 2026 [HINDI]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026940/1792621782167596_STCL26_mumbai_vs_gujarat_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/criclive2310/HIN/master.m3u8?hdnea=exp=1792772447~acl=/*~id=81878409894825560317991616390658~hmac=9e1f7ab6dec7c89b471aeed6432c4cc4fcb1b4d0e3203d913a9a24dfc6b32100",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/criclive2310/HIN/master.m3u8?hdnea=exp=1792772447~acl=/*~id=81878409894825560317991616390658~hmac=9e1f7ab6dec7c89b471aeed6432c4cc4fcb1b4d0e3203d913a9a24dfc6b32100",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/criclive2310/HIN/master.m3u8?hdnea=exp=1792772447~acl=/*~id=81878409894825560317991616390658~hmac=9e1f7ab6dec7c89b471aeed6432c4cc4fcb1b4d0e3203d913a9a24dfc6b32100"
-    },
-    {
-      "match_id": 1090550079,
-      "event_name": "Upcoming - 2nd T20I - India Tour Of New Zealand 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027058/1792690224910846_indvsnz_2nd_t20i_dated_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026930/1792612456710353_VCL26_final_Delhi_Dynamites_vs_Emperia_Marathas_landscape_thumb.jpg",
+      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba2310/ENG/master.m3u8?hdnea=exp=1792803045~acl=/*~id=58749512068931740502247453068094~hmac=46780a6025755b52cbf335aa62ea82dd9e276a2941d3f95417f4a1cdae8d8041",
+      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba2310/ENG/master.m3u8?hdnea=exp=1792803045~acl=/*~id=58749512068931740502247453068094~hmac=46780a6025755b52cbf335aa62ea82dd9e276a2941d3f95417f4a1cdae8d8041",
+      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba2310/ENG/master.m3u8?hdnea=exp=1792803045~acl=/*~id=58749512068931740502247453068094~hmac=46780a6025755b52cbf335aa62ea82dd9e276a2941d3f95417f4a1cdae8d8041"
     },
     {
       "match_id": 1090550209,
@@ -136,6 +58,32 @@
       "video_url": ""
     },
     {
+      "match_id": 1090550083,
+      "event_name": "Upcoming - 2nd T20I - India Tour Of New Zealand 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027049/1792686594133928_NZvsIND26_blockbuster_promo_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090550350,
+      "event_name": "Upcoming - UFC 333 - Volkanovski vs Evloev",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Fight Sports",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027069/1792700049063768_UFC333_Volkanovski_vs_Evloev_dated_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
       "match_id": 1090547508,
       "event_name": "Upcoming - MG Indian Super League 2026-27",
       "match_name": "",
@@ -144,6 +92,19 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027002/1792658796249446_ISL_Odisha-FC-vs-NorthEast-United-FC_promo_DDT_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090550079,
+      "event_name": "Upcoming - 2nd T20I - India Tour Of New Zealand 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027058/1792690224910846_indvsnz_2nd_t20i_dated_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -222,19 +183,6 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027049/1792686516383928_NZvsIND26_vaibhav_promo_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090550083,
-      "event_name": "Upcoming - 2nd T20I - India Tour Of New Zealand 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027049/1792686594133928_NZvsIND26_blockbuster_promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
