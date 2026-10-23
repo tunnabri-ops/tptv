@@ -1,49 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "23/10/2026, 10:53:47 pm",
-  "total_matches": 15,
-  "live_matches": 3,
+  "updatedAt": "24/10/2026, 12:57:58 am",
+  "total_matches": 12,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090550116_ENG",
-      "event_name": "Volleyball Champions League 2026",
-      "match_name": "Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026 [ENG]",
-      "status": "Live",
-      "category": "Volleyball",
-      "digital_broadcast": "Sony Sports Ten 1",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026930/1792612456710353_VCL26_final_Delhi_Dynamites_vs_Emperia_Marathas_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792819300~acl=/*~id=28467802287771103504426568271947~hmac=038289253e246dd9b0c5a0f7854610f132ca46fbb9d28fe15d39bb2fafe5d769",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792819300~acl=/*~id=28467802287771103504426568271947~hmac=038289253e246dd9b0c5a0f7854610f132ca46fbb9d28fe15d39bb2fafe5d769",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120305/Volleyba2310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792819300~acl=/*~id=28467802287771103504426568271947~hmac=038289253e246dd9b0c5a0f7854610f132ca46fbb9d28fe15d39bb2fafe5d769"
-    },
-    {
-      "match_id": "1090550116_HIN",
-      "event_name": "Volleyball Champions League 2026",
-      "match_name": "Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026 [HIN]",
-      "status": "Live",
-      "category": "Volleyball",
-      "digital_broadcast": "Sony Sports Ten 1",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026930/1792612456710353_VCL26_final_Delhi_Dynamites_vs_Emperia_Marathas_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792819300~acl=/*~id=28467802287771103504426568271947~hmac=038289253e246dd9b0c5a0f7854610f132ca46fbb9d28fe15d39bb2fafe5d769",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792819300~acl=/*~id=28467802287771103504426568271947~hmac=038289253e246dd9b0c5a0f7854610f132ca46fbb9d28fe15d39bb2fafe5d769",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120304/Volleyba2310/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792819300~acl=/*~id=28467802287771103504426568271947~hmac=038289253e246dd9b0c5a0f7854610f132ca46fbb9d28fe15d39bb2fafe5d769"
-    },
-    {
-      "match_id": "1090550116",
-      "event_name": "Volleyball Champions League 2026",
-      "match_name": "Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026 | Volleyball Champions League 2026 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026930/1792612456710353_VCL26_final_Delhi_Dynamites_vs_Emperia_Marathas_landscape_thumb.jpg",
-      "dai_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba2310/ENG/master.m3u8?hdnea=exp=1792803045~acl=/*~id=58749512068931740502247453068094~hmac=46780a6025755b52cbf335aa62ea82dd9e276a2941d3f95417f4a1cdae8d8041",
-      "pub_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba2310/ENG/master.m3u8?hdnea=exp=1792803045~acl=/*~id=58749512068931740502247453068094~hmac=46780a6025755b52cbf335aa62ea82dd9e276a2941d3f95417f4a1cdae8d8041",
-      "video_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba2310/ENG/master.m3u8?hdnea=exp=1792803045~acl=/*~id=58749512068931740502247453068094~hmac=46780a6025755b52cbf335aa62ea82dd9e276a2941d3f95417f4a1cdae8d8041"
-    },
     {
       "match_id": 1090550209,
       "event_name": "Upcoming - India A Tour Of New Zealand 2026",
@@ -52,7 +13,7 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027136/1792751462678156_NZ_vs_IND_A_1st_test_day1_dated_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027136/1792751473983156_NZ_vs_IND_A_1st_test_day1_today_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -65,7 +26,7 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027049/1792686594133928_NZvsIND26_blockbuster_promo_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027058/1792690215612846_indvsnz_2nd_t20i_today_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -104,7 +65,7 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027058/1792690224910846_indvsnz_2nd_t20i_dated_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027058/1792690215612846_indvsnz_2nd_t20i_today_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
