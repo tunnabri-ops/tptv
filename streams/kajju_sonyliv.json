@@ -1,49 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "25/10/2026, 7:25:46 pm",
-  "total_matches": 17,
-  "live_matches": 6,
+  "updatedAt": "25/10/2026, 10:46:22 pm",
+  "total_matches": 13,
+  "live_matches": 2,
   "matches": [
-    {
-      "match_id": "1090550560_ENG",
-      "event_name": "MG Indian Super League 2026-27",
-      "match_name": "Kerala Blasters FC vs Mumbai City FC - 25 Oct 2026 [ENG]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351748337172_ISL26_KeralaBlastersFC_vs_MumbaiCityFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120300/footlive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792978934~acl=/*~id=06116566886874993393597571624605~hmac=1faa6f8d2bff77afce2fcc4ce12593d290ef63fd9c93476bff0a8ca536959004",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120300/footlive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792978934~acl=/*~id=06116566886874993393597571624605~hmac=1faa6f8d2bff77afce2fcc4ce12593d290ef63fd9c93476bff0a8ca536959004",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120300/footlive2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792978934~acl=/*~id=06116566886874993393597571624605~hmac=1faa6f8d2bff77afce2fcc4ce12593d290ef63fd9c93476bff0a8ca536959004"
-    },
-    {
-      "match_id": "1090550560_HIN",
-      "event_name": "MG Indian Super League 2026-27",
-      "match_name": "Kerala Blasters FC vs Mumbai City FC - 25 Oct 2026 [HIN]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351748337172_ISL26_KeralaBlastersFC_vs_MumbaiCityFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792978934~acl=/*~id=06116566886874993393597571624605~hmac=1faa6f8d2bff77afce2fcc4ce12593d290ef63fd9c93476bff0a8ca536959004",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792978934~acl=/*~id=06116566886874993393597571624605~hmac=1faa6f8d2bff77afce2fcc4ce12593d290ef63fd9c93476bff0a8ca536959004",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120302/footlive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792978934~acl=/*~id=06116566886874993393597571624605~hmac=1faa6f8d2bff77afce2fcc4ce12593d290ef63fd9c93476bff0a8ca536959004"
-    },
-    {
-      "match_id": "1090550560_MAL",
-      "event_name": "MG Indian Super League 2026-27",
-      "match_name": "Kerala Blasters FC vs Mumbai City FC - 25 Oct 2026 [MAL]",
-      "status": "Live",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "MAL",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351748337172_ISL26_KeralaBlastersFC_vs_MumbaiCityFC_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120303/footlive2510/MAL/std_lrh-800300010.m3u8?hdnea=exp=1792978934~acl=/*~id=06116566886874993393597571624605~hmac=1faa6f8d2bff77afce2fcc4ce12593d290ef63fd9c93476bff0a8ca536959004",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120303/footlive2510/MAL/std_lrh-800300010.m3u8?hdnea=exp=1792978934~acl=/*~id=06116566886874993393597571624605~hmac=1faa6f8d2bff77afce2fcc4ce12593d290ef63fd9c93476bff0a8ca536959004",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120303/footlive2510/MAL/std_lrh-800300010.m3u8?hdnea=exp=1792978934~acl=/*~id=06116566886874993393597571624605~hmac=1faa6f8d2bff77afce2fcc4ce12593d290ef63fd9c93476bff0a8ca536959004"
-    },
     {
       "match_id": "1090550567_HIN",
       "event_name": "Salute Tiranga Cricket League (STCL) 2026",
@@ -53,22 +14,9 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026765/1792485497377887_Rajasthan_Frontiers_vs_UP_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792978934~acl=/*~id=06116566886874993393597571624605~hmac=1faa6f8d2bff77afce2fcc4ce12593d290ef63fd9c93476bff0a8ca536959004",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792978934~acl=/*~id=06116566886874993393597571624605~hmac=1faa6f8d2bff77afce2fcc4ce12593d290ef63fd9c93476bff0a8ca536959004",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792978934~acl=/*~id=06116566886874993393597571624605~hmac=1faa6f8d2bff77afce2fcc4ce12593d290ef63fd9c93476bff0a8ca536959004"
-    },
-    {
-      "match_id": "1090550560",
-      "event_name": "MG Indian Super League 2026-27",
-      "match_name": "Kerala Blasters FC vs Mumbai City FC | MG Indian Super League 2026-27 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351748337172_ISL26_KeralaBlastersFC_vs_MumbaiCityFC_live_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1792977651~acl=/*~id=86512930116209831410264985061677~hmac=61ea95296557da4cc66ca2dc015c48bd4298f5feb244bdaf6049c9ef5563bbc2",
-      "pub_url": "?hdnea=exp=1792977651~acl=/*~id=86512930116209831410264985061677~hmac=61ea95296557da4cc66ca2dc015c48bd4298f5feb244bdaf6049c9ef5563bbc2",
-      "video_url": "?hdnea=exp=1792977651~acl=/*~id=86512930116209831410264985061677~hmac=61ea95296557da4cc66ca2dc015c48bd4298f5feb244bdaf6049c9ef5563bbc2"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792991665~acl=/*~id=64333566550266370055438203057604~hmac=86ab32fe0c18b031086928b097a3b5f04f15228f41936156721a8110c68d06d1",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792991665~acl=/*~id=64333566550266370055438203057604~hmac=86ab32fe0c18b031086928b097a3b5f04f15228f41936156721a8110c68d06d1",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792991665~acl=/*~id=64333566550266370055438203057604~hmac=86ab32fe0c18b031086928b097a3b5f04f15228f41936156721a8110c68d06d1"
     },
     {
       "match_id": "1090550567",
@@ -79,9 +27,9 @@
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026765/1792485497377887_Rajasthan_Frontiers_vs_UP_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1792947046~acl=/*~id=71823931476391307432356238763995~hmac=07a33500e7235aa31761b1841427509df33332d0378ab2dd6f4bc6beddf86a96",
-      "pub_url": "?hdnea=exp=1792947046~acl=/*~id=71823931476391307432356238763995~hmac=07a33500e7235aa31761b1841427509df33332d0378ab2dd6f4bc6beddf86a96",
-      "video_url": "?hdnea=exp=1792947046~acl=/*~id=71823931476391307432356238763995~hmac=07a33500e7235aa31761b1841427509df33332d0378ab2dd6f4bc6beddf86a96"
+      "dai_url": "?hdnea=exp=1792988433~acl=/*~id=01230105743277044605730673579978~hmac=1e3ed7a8a6220d6567ede0232470bb0341cedf24b3a4333851f4beca63e25f37",
+      "pub_url": "?hdnea=exp=1792988433~acl=/*~id=01230105743277044605730673579978~hmac=1e3ed7a8a6220d6567ede0232470bb0341cedf24b3a4333851f4beca63e25f37",
+      "video_url": "?hdnea=exp=1792988433~acl=/*~id=01230105743277044605730673579978~hmac=1e3ed7a8a6220d6567ede0232470bb0341cedf24b3a4333851f4beca63e25f37"
     },
     {
       "match_id": 1090550641,
