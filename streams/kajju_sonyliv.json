@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "25/10/2026, 5:50:32 am",
-  "total_matches": 8,
-  "live_matches": 2,
+  "updatedAt": "25/10/2026, 10:31:13 am",
+  "total_matches": 14,
+  "live_matches": 8,
   "matches": [
     {
       "match_id": "1090550571_ENG",
@@ -14,9 +14,48 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027143/179275469748881_NZ_vs_IND_A_1st_test_day2_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2094589/criclive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792930490~acl=/*~id=31326007732225655366427998520343~hmac=9ba55b852b8341a3ab2f736e6e8614b603f3f5cfc739ac47645f9394699f677b",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2094589/criclive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792930490~acl=/*~id=31326007732225655366427998520343~hmac=9ba55b852b8341a3ab2f736e6e8614b603f3f5cfc739ac47645f9394699f677b",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2094589/criclive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792930490~acl=/*~id=31326007732225655366427998520343~hmac=9ba55b852b8341a3ab2f736e6e8614b603f3f5cfc739ac47645f9394699f677b"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2094589/criclive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792947433~acl=/*~id=47110894988207787334731139891606~hmac=868d84ff51ba66d9685df0712f2cc161fbce9134e1cd331ec67c5d7e3e942a94",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2094589/criclive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792947433~acl=/*~id=47110894988207787334731139891606~hmac=868d84ff51ba66d9685df0712f2cc161fbce9134e1cd331ec67c5d7e3e942a94",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2094589/criclive2410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792947433~acl=/*~id=47110894988207787334731139891606~hmac=868d84ff51ba66d9685df0712f2cc161fbce9134e1cd331ec67c5d7e3e942a94"
+    },
+    {
+      "match_id": "1090550567_HIN",
+      "event_name": "Salute Tiranga Cricket League (STCL) 2026",
+      "match_name": "Delhi Leaders vs Mumbai Mavericks - 25 Oct 2026 [HIN]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026942/1792622523106954_STCL26_delhi_vs_mumbai_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792947433~acl=/*~id=47110894988207787334731139891606~hmac=868d84ff51ba66d9685df0712f2cc161fbce9134e1cd331ec67c5d7e3e942a94",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792947433~acl=/*~id=47110894988207787334731139891606~hmac=868d84ff51ba66d9685df0712f2cc161fbce9134e1cd331ec67c5d7e3e942a94",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120306/criclive2510/HIN/std_lrh-800300010.m3u8?hdnea=exp=1792947433~acl=/*~id=47110894988207787334731139891606~hmac=868d84ff51ba66d9685df0712f2cc161fbce9134e1cd331ec67c5d7e3e942a94"
+    },
+    {
+      "match_id": "1090550568_ENG",
+      "event_name": "Asian Tour 2026",
+      "match_name": "LINK Hong Kong Open - Day 4 - 25 Oct 2026 [ENG]",
+      "status": "Live",
+      "category": "Golf",
+      "digital_broadcast": "LIV",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055378971141_Asian-Tour_LINK-Hong-Kong-Open_D4_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792947433~acl=/*~id=47110894988207787334731139891606~hmac=868d84ff51ba66d9685df0712f2cc161fbce9134e1cd331ec67c5d7e3e942a94",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792947433~acl=/*~id=47110894988207787334731139891606~hmac=868d84ff51ba66d9685df0712f2cc161fbce9134e1cd331ec67c5d7e3e942a94",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120307/Golf_LIN2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792947433~acl=/*~id=47110894988207787334731139891606~hmac=868d84ff51ba66d9685df0712f2cc161fbce9134e1cd331ec67c5d7e3e942a94"
+    },
+    {
+      "match_id": "1090550570_ENG",
+      "event_name": "DP World Tour",
+      "match_name": "Genesis Championship - Day 4 - 25 Oct 2026 [ENG]",
+      "status": "Live",
+      "category": "Golf",
+      "digital_broadcast": "LIV",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611466128924_DP-World_Genesis-Championship_D4_live_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2094588/Golf_Gen2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792947433~acl=/*~id=47110894988207787334731139891606~hmac=868d84ff51ba66d9685df0712f2cc161fbce9134e1cd331ec67c5d7e3e942a94",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2094588/Golf_Gen2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792947433~acl=/*~id=47110894988207787334731139891606~hmac=868d84ff51ba66d9685df0712f2cc161fbce9134e1cd331ec67c5d7e3e942a94",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2094588/Golf_Gen2510/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792947433~acl=/*~id=47110894988207787334731139891606~hmac=868d84ff51ba66d9685df0712f2cc161fbce9134e1cd331ec67c5d7e3e942a94"
     },
     {
       "match_id": "1090550571",
@@ -30,6 +69,45 @@
       "dai_url": "?hdnea=exp=1792921848~acl=/*~id=17698610224335161683163771569405~hmac=5fc025b0b537f2753b6c4e568e09e83560b2e602d864027d687829e43b67727b",
       "pub_url": "?hdnea=exp=1792921848~acl=/*~id=17698610224335161683163771569405~hmac=5fc025b0b537f2753b6c4e568e09e83560b2e602d864027d687829e43b67727b",
       "video_url": "?hdnea=exp=1792921848~acl=/*~id=17698610224335161683163771569405~hmac=5fc025b0b537f2753b6c4e568e09e83560b2e602d864027d687829e43b67727b"
+    },
+    {
+      "match_id": "1090550567",
+      "event_name": "Salute Tiranga Cricket League (STCL) 2026",
+      "match_name": "Delhi Leaders vs Mumbai Mavericks | Salute Tiranga Cricket League (STCL) 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026942/1792622523106954_STCL26_delhi_vs_mumbai_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1792947046~acl=/*~id=71823931476391307432356238763995~hmac=07a33500e7235aa31761b1841427509df33332d0378ab2dd6f4bc6beddf86a96",
+      "pub_url": "?hdnea=exp=1792947046~acl=/*~id=71823931476391307432356238763995~hmac=07a33500e7235aa31761b1841427509df33332d0378ab2dd6f4bc6beddf86a96",
+      "video_url": "?hdnea=exp=1792947046~acl=/*~id=71823931476391307432356238763995~hmac=07a33500e7235aa31761b1841427509df33332d0378ab2dd6f4bc6beddf86a96"
+    },
+    {
+      "match_id": "1090550568",
+      "event_name": "Asian Tour 2026",
+      "match_name": "LINK Hong Kong Open - Day 4 | Asian Tour 2026 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055378971141_Asian-Tour_LINK-Hong-Kong-Open_D4_live_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1792947046~acl=/*~id=71823931476391307432356238763995~hmac=07a33500e7235aa31761b1841427509df33332d0378ab2dd6f4bc6beddf86a96",
+      "pub_url": "?hdnea=exp=1792947046~acl=/*~id=71823931476391307432356238763995~hmac=07a33500e7235aa31761b1841427509df33332d0378ab2dd6f4bc6beddf86a96",
+      "video_url": "?hdnea=exp=1792947046~acl=/*~id=71823931476391307432356238763995~hmac=07a33500e7235aa31761b1841427509df33332d0378ab2dd6f4bc6beddf86a96"
+    },
+    {
+      "match_id": "1090550570",
+      "event_name": "DP World Tour",
+      "match_name": "Genesis Championship - Day 4 | DP World Tour [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611466128924_DP-World_Genesis-Championship_D4_live_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1792939850~acl=/*~id=34172469536166767754594096891530~hmac=297be220e9a1696b16991dbde8ba347182d36ddb8d0b2ea6249ba4a77143f7d6",
+      "pub_url": "?hdnea=exp=1792939850~acl=/*~id=34172469536166767754594096891530~hmac=297be220e9a1696b16991dbde8ba347182d36ddb8d0b2ea6249ba4a77143f7d6",
+      "video_url": "?hdnea=exp=1792939850~acl=/*~id=34172469536166767754594096891530~hmac=297be220e9a1696b16991dbde8ba347182d36ddb8d0b2ea6249ba4a77143f7d6"
     },
     {
       "match_id": 1090547508,
