@@ -1,32 +1,32 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "26/10/2026, 4:06:36 pm",
+  "updatedAt": "26/10/2026, 10:30:29 pm",
   "total_matches": 14,
   "live_matches": 2,
   "matches": [
     {
       "match_id": "1090550648_HIN",
       "event_name": "Salute Tiranga Cricket League (STCL) 2026",
-      "match_name": "Rajasthan Frontiers vs Punjab Falcons - 26 Oct 2026 [HIN]",
+      "match_name": "UP Dhurandhar vs Haryana Lions - 26 Oct 2026 [HIN]",
       "status": "Live",
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026790/1792495475611963_Rajasthan_Frontiers_vs_Punjab_Falcons_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793053993~acl=/*~id=20823567408361482181473665057400~hmac=06705c23ea96aba06e13e5f2e7ac4072ee56528d40db327bb0cda9edfa176d3a",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793053993~acl=/*~id=20823567408361482181473665057400~hmac=06705c23ea96aba06e13e5f2e7ac4072ee56528d40db327bb0cda9edfa176d3a",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793053993~acl=/*~id=20823567408361482181473665057400~hmac=06705c23ea96aba06e13e5f2e7ac4072ee56528d40db327bb0cda9edfa176d3a"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026792/1792495920463308_UP_Dhurandhar_vs_Haryana_Lions_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793076442~acl=/*~id=80343917225029071999919503575562~hmac=792cf4aa718d322d017da3c3ccdf15f4ebb2b28702f029080dea1883774d1592",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793076442~acl=/*~id=80343917225029071999919503575562~hmac=792cf4aa718d322d017da3c3ccdf15f4ebb2b28702f029080dea1883774d1592",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120301/criclive2610/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793076442~acl=/*~id=80343917225029071999919503575562~hmac=792cf4aa718d322d017da3c3ccdf15f4ebb2b28702f029080dea1883774d1592"
     },
     {
       "match_id": "1090550648",
       "event_name": "Salute Tiranga Cricket League (STCL) 2026",
-      "match_name": "Rajasthan Frontiers vs Punjab Falcons | Salute Tiranga Cricket League (STCL) 2026 [ENGLISH]",
+      "match_name": "UP Dhurandhar vs Haryana Lions | Salute Tiranga Cricket League (STCL) 2026 [ENGLISH]",
       "status": "Live",
       "category": "Sports",
       "digital_broadcast": "Sony Sports Network",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026790/1792495475611963_Rajasthan_Frontiers_vs_Punjab_Falcons_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026792/1792495920463308_UP_Dhurandhar_vs_Haryana_Lions_landscape_thumb.jpg",
       "dai_url": "?hdnea=exp=1793047845~acl=/*~id=00967771597340576876780413123295~hmac=c12b288f25a15709fdb583f3210f7865a1954430f50201fd1caeaa289309b5a9",
       "pub_url": "?hdnea=exp=1793047845~acl=/*~id=00967771597340576876780413123295~hmac=c12b288f25a15709fdb583f3210f7865a1954430f50201fd1caeaa289309b5a9",
       "video_url": "?hdnea=exp=1793047845~acl=/*~id=00967771597340576876780413123295~hmac=c12b288f25a15709fdb583f3210f7865a1954430f50201fd1caeaa289309b5a9"
@@ -45,19 +45,6 @@
       "video_url": ""
     },
     {
-      "match_id": 1090547508,
-      "event_name": "Upcoming - MG Indian Super League 2026-27",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027002/1792662910990446_ISL_Mohun-Bagan-Super-Giant-vs-Chennaiyin-FC_promo_Tonight_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
       "match_id": 1090550664,
       "event_name": "Upcoming - 3rd T20I - India Tour Of New Zealand 2026",
       "match_name": "",
@@ -66,6 +53,19 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027321/1792933274831385_NZvsIND_3rd_t20i_promo_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090547508,
+      "event_name": "Upcoming - MG Indian Super League 2026-27",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027002/1792662643467446_ISL_FC-Goa-vs-Sporting-Club-Delhi_promo_DDT_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
