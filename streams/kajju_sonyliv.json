@@ -1,36 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "27/10/2026, 9:57:37 pm",
-  "total_matches": 15,
-  "live_matches": 2,
+  "updatedAt": "27/10/2026, 10:53:15 pm",
+  "total_matches": 13,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090550786_HIN",
-      "event_name": "Salute Tiranga Cricket League (STCL) 2026",
-      "match_name": "Delhi Leaders vs Haryana Lions - Semi Final 1 - 27 Oct 2026 [HIN]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027434/1793041312495594_STCL26_delhi_vs_haryana_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793161515~acl=/*~id=78970851554247119782667552557980~hmac=6ec4cb2f804a2b7f3410f9219bc38c7fb4d74fb3027269660f21e07b37876c99",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793161515~acl=/*~id=78970851554247119782667552557980~hmac=6ec4cb2f804a2b7f3410f9219bc38c7fb4d74fb3027269660f21e07b37876c99",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120305/criclive2710/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793161515~acl=/*~id=78970851554247119782667552557980~hmac=6ec4cb2f804a2b7f3410f9219bc38c7fb4d74fb3027269660f21e07b37876c99"
-    },
-    {
-      "match_id": "1090550786",
-      "event_name": "Salute Tiranga Cricket League (STCL) 2026",
-      "match_name": "Delhi Leaders vs Haryana Lions - Semi Final 1 | Salute Tiranga Cricket League (STCL) 2026 [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027434/1793041312495594_STCL26_delhi_vs_haryana_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1793146849~acl=/*~id=23934922890663764224271584022865~hmac=0c1c711a8009f6c568eae2b6ef3917e56d30cb3ef91f457895b5b441fd0b601d",
-      "pub_url": "?hdnea=exp=1793146849~acl=/*~id=23934922890663764224271584022865~hmac=0c1c711a8009f6c568eae2b6ef3917e56d30cb3ef91f457895b5b441fd0b601d",
-      "video_url": "?hdnea=exp=1793146849~acl=/*~id=23934922890663764224271584022865~hmac=0c1c711a8009f6c568eae2b6ef3917e56d30cb3ef91f457895b5b441fd0b601d"
-    },
     {
       "match_id": 1090547508,
       "event_name": "Upcoming - MG Indian Super League 2026-27",
