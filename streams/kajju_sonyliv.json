@@ -1,36 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "31/10/2026, 5:48:27 am",
-  "total_matches": 17,
-  "live_matches": 2,
+  "updatedAt": "31/10/2026, 11:25:21 am",
+  "total_matches": 15,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090551540_ENG",
-      "event_name": "India A Tour of New Zealand",
-      "match_name": "2nd Unofficial Test - Day 1 - 31 Oct 2026 [ENG]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027792/1793356107617263_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day1_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793448905~acl=/*~id=02843988278496408181935432426509~hmac=07d6568e4650942719fe54fa31ef0e6691c8fbf9a472ba6c7ccba630fb395961",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793448905~acl=/*~id=02843988278496408181935432426509~hmac=07d6568e4650942719fe54fa31ef0e6691c8fbf9a472ba6c7ccba630fb395961",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120303/criclive3010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793448905~acl=/*~id=02843988278496408181935432426509~hmac=07d6568e4650942719fe54fa31ef0e6691c8fbf9a472ba6c7ccba630fb395961"
-    },
-    {
-      "match_id": "1090551540",
-      "event_name": "India A Tour of New Zealand",
-      "match_name": "2nd Unofficial Test - Day 1 | India A Tour of New Zealand [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027792/1793356107617263_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day1_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1793440265~acl=/*~id=13097997116423724468958902004580~hmac=11ff662c23983b3af7ba1f038a623dcc837fcc13b1cd2a9822f89a369f03e3ca",
-      "pub_url": "?hdnea=exp=1793440265~acl=/*~id=13097997116423724468958902004580~hmac=11ff662c23983b3af7ba1f038a623dcc837fcc13b1cd2a9822f89a369f03e3ca",
-      "video_url": "?hdnea=exp=1793440265~acl=/*~id=13097997116423724468958902004580~hmac=11ff662c23983b3af7ba1f038a623dcc837fcc13b1cd2a9822f89a369f03e3ca"
-    },
     {
       "match_id": 1090551225,
       "event_name": "Upcoming - India Tour Of New Zealand 2026",
