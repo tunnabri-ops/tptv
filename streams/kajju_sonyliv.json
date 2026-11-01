@@ -1,9 +1,9 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "1/11/2026, 4:42:50 am",
-  "total_matches": 19,
-  "live_matches": 2,
+  "updatedAt": "1/11/2026, 7:43:21 am",
+  "total_matches": 25,
+  "live_matches": 8,
   "matches": [
     {
       "match_id": "1090551577_ENG",
@@ -14,9 +14,74 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027940/1793474597073145_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day2_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2018457/criclive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793531279~acl=/*~id=29232273761155939093208932003262~hmac=805ccab6f9a0dfb792fe6f6908a7d57b88c5f7fc50aa19213386565102fe0f87",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2018457/criclive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793531279~acl=/*~id=29232273761155939093208932003262~hmac=805ccab6f9a0dfb792fe6f6908a7d57b88c5f7fc50aa19213386565102fe0f87",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2018457/criclive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793531279~acl=/*~id=29232273761155939093208932003262~hmac=805ccab6f9a0dfb792fe6f6908a7d57b88c5f7fc50aa19213386565102fe0f87"
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2018457/criclive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793542194~acl=/*~id=15430499520919294143025530056013~hmac=ca4a4f040ae1edc02a940d0facbe273d016b33a5c45c74d7515cb6489f5cd515",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2018457/criclive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793542194~acl=/*~id=15430499520919294143025530056013~hmac=ca4a4f040ae1edc02a940d0facbe273d016b33a5c45c74d7515cb6489f5cd515",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2018457/criclive3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793542194~acl=/*~id=15430499520919294143025530056013~hmac=ca4a4f040ae1edc02a940d0facbe273d016b33a5c45c74d7515cb6489f5cd515"
+    },
+    {
+      "match_id": "1090551580_ENG",
+      "event_name": "UFC Fight Night - Moicano vs Nolan",
+      "match_name": "UFC Fight Night - Moicano vs Nolan - 1 Nov 2026 [ENG]",
+      "status": "Live",
+      "category": "Fight Sports",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2094589/UFC_UFCF3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793542194~acl=/*~id=15430499520919294143025530056013~hmac=ca4a4f040ae1edc02a940d0facbe273d016b33a5c45c74d7515cb6489f5cd515",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2094589/UFC_UFCF3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793542194~acl=/*~id=15430499520919294143025530056013~hmac=ca4a4f040ae1edc02a940d0facbe273d016b33a5c45c74d7515cb6489f5cd515",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2094589/UFC_UFCF3110/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793542194~acl=/*~id=15430499520919294143025530056013~hmac=ca4a4f040ae1edc02a940d0facbe273d016b33a5c45c74d7515cb6489f5cd515"
+    },
+    {
+      "match_id": "1090551580_HIN",
+      "event_name": "UFC Fight Night - Moicano vs Nolan",
+      "match_name": "UFC Fight Night - Moicano vs Nolan - 1 Nov 2026 [HIN]",
+      "status": "Live",
+      "category": "Fight Sports",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFCF3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793542194~acl=/*~id=15430499520919294143025530056013~hmac=ca4a4f040ae1edc02a940d0facbe273d016b33a5c45c74d7515cb6489f5cd515",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFCF3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793542194~acl=/*~id=15430499520919294143025530056013~hmac=ca4a4f040ae1edc02a940d0facbe273d016b33a5c45c74d7515cb6489f5cd515",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/UFC_UFCF3110/HIN/std_lrh-800300010.m3u8?hdnea=exp=1793542194~acl=/*~id=15430499520919294143025530056013~hmac=ca4a4f040ae1edc02a940d0facbe273d016b33a5c45c74d7515cb6489f5cd515"
+    },
+    {
+      "match_id": "1090551580_TAM",
+      "event_name": "UFC Fight Night - Moicano vs Nolan",
+      "match_name": "UFC Fight Night - Moicano vs Nolan - 1 Nov 2026 [TAM]",
+      "status": "Live",
+      "category": "Fight Sports",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "TAMIL",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2094588/UFC_UFCF3110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793542194~acl=/*~id=15430499520919294143025530056013~hmac=ca4a4f040ae1edc02a940d0facbe273d016b33a5c45c74d7515cb6489f5cd515",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2094588/UFC_UFCF3110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793542194~acl=/*~id=15430499520919294143025530056013~hmac=ca4a4f040ae1edc02a940d0facbe273d016b33a5c45c74d7515cb6489f5cd515",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2094588/UFC_UFCF3110/TAM/std_lrh-800300010.m3u8?hdnea=exp=1793542194~acl=/*~id=15430499520919294143025530056013~hmac=ca4a4f040ae1edc02a940d0facbe273d016b33a5c45c74d7515cb6489f5cd515"
+    },
+    {
+      "match_id": "1090551580_TEL",
+      "event_name": "UFC Fight Night - Moicano vs Nolan",
+      "match_name": "UFC Fight Night - Moicano vs Nolan - 1 Nov 2026 [TEL]",
+      "status": "Live",
+      "category": "Fight Sports",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "TELUGU",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120301/UFC_UFCF3110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793542194~acl=/*~id=15430499520919294143025530056013~hmac=ca4a4f040ae1edc02a940d0facbe273d016b33a5c45c74d7515cb6489f5cd515",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120301/UFC_UFCF3110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793542194~acl=/*~id=15430499520919294143025530056013~hmac=ca4a4f040ae1edc02a940d0facbe273d016b33a5c45c74d7515cb6489f5cd515",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2120301/UFC_UFCF3110/TEL/std_lrh-800300010.m3u8?hdnea=exp=1793542194~acl=/*~id=15430499520919294143025530056013~hmac=ca4a4f040ae1edc02a940d0facbe273d016b33a5c45c74d7515cb6489f5cd515"
+    },
+    {
+      "match_id": "1090551580_KAN",
+      "event_name": "UFC Fight Night - Moicano vs Nolan",
+      "match_name": "UFC Fight Night - Moicano vs Nolan - 1 Nov 2026 [KAN]",
+      "status": "Live",
+      "category": "Fight Sports",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "KANNADA",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg",
+      "dai_url": "https://sonydaime.akamaized.net/hls/live/2005444/UFC_UFCF3110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793542194~acl=/*~id=15430499520919294143025530056013~hmac=ca4a4f040ae1edc02a940d0facbe273d016b33a5c45c74d7515cb6489f5cd515",
+      "pub_url": "https://sonydaime.akamaized.net/hls/live/2005444/UFC_UFCF3110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793542194~acl=/*~id=15430499520919294143025530056013~hmac=ca4a4f040ae1edc02a940d0facbe273d016b33a5c45c74d7515cb6489f5cd515",
+      "video_url": "https://sonydaime.akamaized.net/hls/live/2005444/UFC_UFCF3110/KAN/std_lrh-800300010.m3u8?hdnea=exp=1793542194~acl=/*~id=15430499520919294143025530056013~hmac=ca4a4f040ae1edc02a940d0facbe273d016b33a5c45c74d7515cb6489f5cd515"
     },
     {
       "match_id": "1090551577",
@@ -30,6 +95,19 @@
       "dai_url": "?hdnea=exp=1793526649~acl=/*~id=21758488662213733113165110736931~hmac=747f87ea6ea3d9404b2c229e8fe400393401e2841ccc2762546ed8c83e4510e9",
       "pub_url": "?hdnea=exp=1793526649~acl=/*~id=21758488662213733113165110736931~hmac=747f87ea6ea3d9404b2c229e8fe400393401e2841ccc2762546ed8c83e4510e9",
       "video_url": "?hdnea=exp=1793526649~acl=/*~id=21758488662213733113165110736931~hmac=747f87ea6ea3d9404b2c229e8fe400393401e2841ccc2762546ed8c83e4510e9"
+    },
+    {
+      "match_id": "1090551580",
+      "event_name": "UFC Fight Night - Moicano vs Nolan",
+      "match_name": "UFC Fight Night - Moicano vs Nolan | UFC Fight Night - Moicano vs Nolan [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027899/179338917292269_UFC_Fight_Night_Moicano_vs_Nolan_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1793533867~acl=/*~id=22167057535440375592320468527524~hmac=ec199917d1aba2cbb2ac17fa8608bd6827c02014392eeb3012db7db4d62e3c6e",
+      "pub_url": "?hdnea=exp=1793533867~acl=/*~id=22167057535440375592320468527524~hmac=ec199917d1aba2cbb2ac17fa8608bd6827c02014392eeb3012db7db4d62e3c6e",
+      "video_url": "?hdnea=exp=1793533867~acl=/*~id=22167057535440375592320468527524~hmac=ec199917d1aba2cbb2ac17fa8608bd6827c02014392eeb3012db7db4d62e3c6e"
     },
     {
       "match_id": 1090551725,
