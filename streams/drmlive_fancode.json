@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "05:18:01 AM 02-11-2026",
+    "last update time": "09:20:08 AM 02-11-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -35,11 +35,11 @@
         {
             "event_category": "Cricket",
             "match_id": 4250364,
-            "title": "Kathmandu Gorkhas vs Karnali Yaks (Nepal Premier League Season 3, 2026)",
-            "match_name": "Kathmandu Gorkhas vs Karnali Yaks",
+            "title": "Kathmandu Gurkhas vs Karnali Yaks (Nepal Premier League Season 3, 2026)",
+            "match_name": "Kathmandu Gurkhas vs Karnali Yaks",
             "event_name": "Nepal Premier League Season 3, 2026",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/4250364_53124_KMG_KNY_fc-Web.jpg",
-            "team_1": "Kathmandu Gorkhas",
+            "team_1": "Kathmandu Gurkhas",
             "team_2": "Karnali Yaks",
             "status": "UPCOMING",
             "startTime": "12:15:00 PM 02-11-2026"
@@ -177,6 +177,18 @@
             "startTime": "01:30:00 AM 03-11-2026"
         },
         {
+            "event_category": "Cricket",
+            "match_id": 4250366,
+            "title": "Biratnagar Kings vs Janakpur Bolts (Nepal Premier League Season 3, 2026)",
+            "match_name": "Biratnagar Kings vs Janakpur Bolts",
+            "event_name": "Nepal Premier League Season 3, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250366_53124_BK_JKB_fc-Web.jpg",
+            "team_1": "Biratnagar Kings",
+            "team_2": "Janakpur Bolts",
+            "status": "UPCOMING",
+            "startTime": "12:15:00 PM 03-11-2026"
+        },
+        {
             "event_category": "Tennis",
             "match_id": 4250547,
             "title": "ATP - Rolex Paris Masters 2026 vs Paris, France (ATP Masters - Rolex Paris Masters 2026)",
@@ -225,18 +237,6 @@
             "startTime": "12:00:00 PM 02-11-2026"
         },
         {
-            "event_category": "Cricket",
-            "match_id": 4250366,
-            "title": "Biratnagar Kings vs Janakpur Bolts (Nepal Premier League Season 3, 2026)",
-            "match_name": "Biratnagar Kings vs Janakpur Bolts",
-            "event_name": "Nepal Premier League Season 3, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250366_53124_BK_JKB_fc-Web.jpg",
-            "team_1": "Biratnagar Kings",
-            "team_2": "Janakpur Bolts",
-            "status": "UPCOMING",
-            "startTime": "12:15:00 PM 03-11-2026"
-        },
-        {
             "event_category": "Football",
             "match_id": 4248736,
             "title": "Newcastle Jets vs Shanghai Port (AFC Champions League Elite 2026-27)",
@@ -259,6 +259,18 @@
             "team_2": "Pokhara Avengers",
             "status": "UPCOMING",
             "startTime": "04:45:00 PM 03-11-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4250502,
+            "title": "Emirates Blues vs Emirates Red (Emirates D20, 2026)",
+            "match_name": "Emirates Blues vs Emirates Red",
+            "event_name": "Emirates D20, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250502_53130_EMB_EMR_fc-web_1792412929332.jpg",
+            "team_1": "Emirates Blues",
+            "team_2": "Emirates Red",
+            "status": "UPCOMING",
+            "startTime": "06:00:00 PM 03-11-2026"
         },
         {
             "event_category": "Football",
@@ -297,16 +309,28 @@
             "startTime": "03:30:00 PM 03-11-2026"
         },
         {
-            "event_category": "Cricket",
-            "match_id": 4250502,
-            "title": "Emirates Blues vs Emirates Red (Emirates D20, 2026)",
-            "match_name": "Emirates Blues vs Emirates Red",
-            "event_name": "Emirates D20, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250502_53130_EMB_EMR_fc-web_1792412929332.jpg",
-            "team_1": "Emirates Blues",
-            "team_2": "Emirates Red",
+            "event_category": "Football",
+            "match_id": 4248740,
+            "title": "Port FC vs Beijing Guoan (AFC Champions League Elite 2026-27)",
+            "match_name": "Port FC vs Beijing Guoan",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248740_53053_PFC_BEI_fc-web.jpg",
+            "team_1": "Port FC",
+            "team_2": "Beijing Guoan",
             "status": "UPCOMING",
-            "startTime": "06:00:00 PM 03-11-2026"
+            "startTime": "05:45:00 PM 03-11-2026"
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4248741,
+            "title": "Cong An Ha Noi vs Kyoto Sanga (AFC Champions League Elite 2026-27)",
+            "match_name": "Cong An Ha Noi vs Kyoto Sanga",
+            "event_name": "AFC Champions League Elite 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248741_53053_CAH_KYS_fc-web.jpg",
+            "team_1": "Cong An Ha Noi",
+            "team_2": "Kyoto Sanga",
+            "status": "UPCOMING",
+            "startTime": "05:45:00 PM 03-11-2026"
         },
         {
             "event_category": "Tennis",
@@ -355,30 +379,6 @@
             "team_2": "Paris, France",
             "status": "UPCOMING",
             "startTime": "12:00:00 PM 03-11-2026"
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4248740,
-            "title": "Port FC vs Beijing Guoan (AFC Champions League Elite 2026-27)",
-            "match_name": "Port FC vs Beijing Guoan",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248740_53053_PFC_BEI_fc-web.jpg",
-            "team_1": "Port FC",
-            "team_2": "Beijing Guoan",
-            "status": "UPCOMING",
-            "startTime": "05:45:00 PM 03-11-2026"
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4248741,
-            "title": "Cong An Ha Noi vs Kyoto Sanga (AFC Champions League Elite 2026-27)",
-            "match_name": "Cong An Ha Noi vs Kyoto Sanga",
-            "event_name": "AFC Champions League Elite 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4248741_53053_CAH_KYS_fc-web.jpg",
-            "team_1": "Cong An Ha Noi",
-            "team_2": "Kyoto Sanga",
-            "status": "UPCOMING",
-            "startTime": "05:45:00 PM 03-11-2026"
         },
         {
             "event_category": "Football",
