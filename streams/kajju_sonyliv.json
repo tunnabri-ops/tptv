@@ -1,36 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "2/11/2026, 9:18:58 am",
-  "total_matches": 17,
-  "live_matches": 2,
+  "updatedAt": "2/11/2026, 1:52:20 pm",
+  "total_matches": 15,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090551673_ENG",
-      "event_name": "India A Tour of New Zealand",
-      "match_name": "2nd Unofficial Test - Day 3 - 2 Nov 2026 [ENG]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027941/1793475427256507_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day3_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793634498~acl=/*~id=50931221482850439256506567385218~hmac=8c51fa820fb6f1f1367be067cb5ab0437faad7dc050ac24c85687379b97c080f",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793634498~acl=/*~id=50931221482850439256506567385218~hmac=8c51fa820fb6f1f1367be067cb5ab0437faad7dc050ac24c85687379b97c080f",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive0111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793634498~acl=/*~id=50931221482850439256506567385218~hmac=8c51fa820fb6f1f1367be067cb5ab0437faad7dc050ac24c85687379b97c080f"
-    },
-    {
-      "match_id": "1090551673",
-      "event_name": "India A Tour of New Zealand",
-      "match_name": "2nd Unofficial Test - Day 3 | India A Tour of New Zealand [ENGLISH]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027941/1793475427256507_NZ_A_vs_IND_A_2nd_Unofficial_Test_Day3_landscape_thumb.jpg",
-      "dai_url": "?hdnea=exp=1793613056~acl=/*~id=44713704793796937757275433806284~hmac=d59f555e12125a3093f5b8ad02bf32c24bf1d19680974a9502f48ccd3615f2f2",
-      "pub_url": "?hdnea=exp=1793613056~acl=/*~id=44713704793796937757275433806284~hmac=d59f555e12125a3093f5b8ad02bf32c24bf1d19680974a9502f48ccd3615f2f2",
-      "video_url": "?hdnea=exp=1793613056~acl=/*~id=44713704793796937757275433806284~hmac=d59f555e12125a3093f5b8ad02bf32c24bf1d19680974a9502f48ccd3615f2f2"
-    },
     {
       "match_id": 1090551725,
       "event_name": " Upcoming - Matchday 4 - UEFA Champions League 2026-27",
@@ -40,6 +14,19 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027942/1793475724872880_UCL_promo_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090551225,
+      "event_name": "Upcoming - India Tour Of New Zealand 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027683/179327126246643_NZvsIND_1st_ODI_dated_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -92,19 +79,6 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793167275203484_UCL_26_MD4_Atletico-vs-Bayern-Munich_Promo_DDT_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090551225,
-      "event_name": "Upcoming - India Tour Of New Zealand 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027683/179327126246643_NZvsIND_1st_ODI_dated_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
