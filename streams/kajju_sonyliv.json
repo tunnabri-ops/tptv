@@ -1,7 +1,7 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "2/11/2026, 1:52:20 pm",
+  "updatedAt": "2/11/2026, 7:44:01 pm",
   "total_matches": 15,
   "live_matches": 0,
   "matches": [
@@ -45,19 +45,6 @@
       "video_url": ""
     },
     {
-      "match_id": 1090551500,
-      "event_name": "Upcoming - Villarreal vs PSG - UEFA Champions League 2026-27",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027914/1793426651789321_UCL_26_MD4_Villarreal-vs-PSG_Promo_DDT_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
       "match_id": 1090551499,
       "event_name": "Upcoming - Manchester United vs Roma - UEFA Champions League 2026-27",
       "match_name": "",
@@ -79,6 +66,19 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793167275203484_UCL_26_MD4_Atletico-vs-Bayern-Munich_Promo_DDT_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090551500,
+      "event_name": "Upcoming - Villarreal vs PSG - UEFA Champions League 2026-27",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027914/1793426651789321_UCL_26_MD4_Villarreal-vs-PSG_Promo_DDT_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
