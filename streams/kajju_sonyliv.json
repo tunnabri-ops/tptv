@@ -1,10 +1,62 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "3/11/2026, 3:07:33 pm",
-  "total_matches": 15,
-  "live_matches": 0,
+  "updatedAt": "3/11/2026, 11:24:09 pm",
+  "total_matches": 20,
+  "live_matches": 4,
   "matches": [
+    {
+      "match_id": "1090551744_ENG",
+      "event_name": "UEFA Champions League 2026-27",
+      "match_name": "Shakhtar Donetsk vs Sporting CP - MD 4 - 3 Nov 2026 [ENG]",
+      "status": "Live",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792950924165243_UCL26_MD4_Shakhtar_vs_SportingCP_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793771376~acl=/*~id=44466207262265496300125855857933~hmac=8c5de35ec3f14d044dbe2c40f486d59d97ac26261597ee33de9f11b799bb6741",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793771376~acl=/*~id=44466207262265496300125855857933~hmac=8c5de35ec3f14d044dbe2c40f486d59d97ac26261597ee33de9f11b799bb6741",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793771376~acl=/*~id=44466207262265496300125855857933~hmac=8c5de35ec3f14d044dbe2c40f486d59d97ac26261597ee33de9f11b799bb6741"
+    },
+    {
+      "match_id": "1090551745_ENG",
+      "event_name": "UEFA Champions League 2026-27",
+      "match_name": "Galatasaray vs VfB Stuttgart - 3 Nov 2026 [ENG]",
+      "status": "Live",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792951478118378_UCL26_MD4_Galatasaray_vs_VfB_Stuttgart_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793771376~acl=/*~id=44466207262265496300125855857933~hmac=8c5de35ec3f14d044dbe2c40f486d59d97ac26261597ee33de9f11b799bb6741",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793771376~acl=/*~id=44466207262265496300125855857933~hmac=8c5de35ec3f14d044dbe2c40f486d59d97ac26261597ee33de9f11b799bb6741",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/footlive0311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1793771376~acl=/*~id=44466207262265496300125855857933~hmac=8c5de35ec3f14d044dbe2c40f486d59d97ac26261597ee33de9f11b799bb6741"
+    },
+    {
+      "match_id": "1090551744",
+      "event_name": "UEFA Champions League 2026-27",
+      "match_name": "Shakhtar Donetsk vs Sporting CP - MD 4 | UEFA Champions League 2026-27 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792950924165243_UCL26_MD4_Shakhtar_vs_SportingCP_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1793769662~acl=/*~id=21676438590316111351385312268782~hmac=786e3833cb6eab507a49917f3257e528f7b98cf252e0d0271f1f5d477c906202",
+      "pub_url": "?hdnea=exp=1793769662~acl=/*~id=21676438590316111351385312268782~hmac=786e3833cb6eab507a49917f3257e528f7b98cf252e0d0271f1f5d477c906202",
+      "video_url": "?hdnea=exp=1793769662~acl=/*~id=21676438590316111351385312268782~hmac=786e3833cb6eab507a49917f3257e528f7b98cf252e0d0271f1f5d477c906202"
+    },
+    {
+      "match_id": "1090551745",
+      "event_name": "UEFA Champions League 2026-27",
+      "match_name": "Galatasaray vs VfB Stuttgart | UEFA Champions League 2026-27 [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792951478118378_UCL26_MD4_Galatasaray_vs_VfB_Stuttgart_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1793769662~acl=/*~id=21676438590316111351385312268782~hmac=786e3833cb6eab507a49917f3257e528f7b98cf252e0d0271f1f5d477c906202",
+      "pub_url": "?hdnea=exp=1793769662~acl=/*~id=21676438590316111351385312268782~hmac=786e3833cb6eab507a49917f3257e528f7b98cf252e0d0271f1f5d477c906202",
+      "video_url": "?hdnea=exp=1793769662~acl=/*~id=21676438590316111351385312268782~hmac=786e3833cb6eab507a49917f3257e528f7b98cf252e0d0271f1f5d477c906202"
+    },
     {
       "match_id": 1090551725,
       "event_name": " Upcoming - Matchday 4 - UEFA Champions League 2026-27",
@@ -14,6 +66,19 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027942/1793475724872880_UCL_promo_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090552187,
+      "event_name": "Upcoming - Matchday 4 - UEFA Champions League 2026-27",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028141/1793704726559299_fenerbahce_Vs_liverpool_Fc_And_aek_vs_real_madrid_landscape_thumbnail.png",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -32,19 +97,6 @@
       "video_url": ""
     },
     {
-      "match_id": 1090551496,
-      "event_name": "Upcoming - Barcelona vs Aston Villa - UEFA Champions League 2026-27",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793168457660484_UCL_26_MD4_Barcelona-vs-Aston-Villa_Promo_Tonight_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
       "match_id": 1090551499,
       "event_name": "Upcoming - Manchester United vs Roma - UEFA Champions League 2026-27",
       "match_name": "",
@@ -58,14 +110,14 @@
       "video_url": ""
     },
     {
-      "match_id": 1090551495,
-      "event_name": "Upcoming - Atletico Madrid vs Bayern Munich - UEFA Champions League 2026-27",
+      "match_id": 1090551496,
+      "event_name": "Upcoming - Barcelona vs Aston Villa - UEFA Champions League 2026-27",
       "match_name": "",
       "status": "Upcoming",
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793167294167484_UCL_26_MD4_Atletico-vs-Bayern-Munich_Promo_Tonight_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793168457660484_UCL_26_MD4_Barcelona-vs-Aston-Villa_Promo_Tonight_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -79,6 +131,19 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027914/1793426668278321_UCL_26_MD4_Villarreal-vs-PSG_Promo_Tonight_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090551495,
+      "event_name": "Upcoming - Atletico Madrid vs Bayern Munich - UEFA Champions League 2026-27",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027592/1793167294167484_UCL_26_MD4_Atletico-vs-Bayern-Munich_Promo_Tonight_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -136,6 +201,19 @@
       "video_url": ""
     },
     {
+      "match_id": 1090552324,
+      "event_name": "Upcoming - India vs Nepal - ACC Men's U19 Asia Cup 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028158/1793710937367937_Asia_cup_Ind_vs_nepal_landscape_thumbnail.png",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
       "match_id": 1090551224,
       "event_name": "Upcoming - 1st ODI - India Tour Of New Zealand 2026",
       "match_name": "",
@@ -183,19 +261,6 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027846/1793366379756665_dortmund_VS_betis_landscape_thumbnail.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090551498,
-      "event_name": "Upcoming - Matchday 4 - UEFA Champions League 2026-27",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027845/179336646551186_champion_league_matchday_4_landscape_thumbnail.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
