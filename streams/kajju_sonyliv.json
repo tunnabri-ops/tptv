@@ -1,10 +1,36 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "7/11/2026, 12:14:20 am",
-  "total_matches": 9,
-  "live_matches": 0,
+  "updatedAt": "7/11/2026, 5:15:31 am",
+  "total_matches": 11,
+  "live_matches": 2,
   "matches": [
+    {
+      "match_id": "1090552778_ENG",
+      "event_name": "India A Tour of New Zealand",
+      "match_name": "3rd Unofficial Test - Day 1 - 7 Nov 2026 [ENG]",
+      "status": "Live",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793948514324809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day1_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794051715~acl=/*~id=79187992968039219260739519331541~hmac=d5c042d199cf8f39167797165af7749428b9db22fa0f62897861b5ed82eba6ad",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794051715~acl=/*~id=79187992968039219260739519331541~hmac=d5c042d199cf8f39167797165af7749428b9db22fa0f62897861b5ed82eba6ad",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120304/Criclive0611/ENG/std_lrh-800300010.m3u8?hdnea=exp=1794051715~acl=/*~id=79187992968039219260739519331541~hmac=d5c042d199cf8f39167797165af7749428b9db22fa0f62897861b5ed82eba6ad"
+    },
+    {
+      "match_id": "1090552778",
+      "event_name": "India A Tour of New Zealand",
+      "match_name": "3rd Unofficial Test - Day 1 | India A Tour of New Zealand [ENGLISH]",
+      "status": "Live",
+      "category": "Sports",
+      "digital_broadcast": "Sony Sports Network",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028450/1793948514324809_NZ_A_vs_IND_A_3rd_Unofficial_Test_Day1_landscape_thumb.jpg",
+      "dai_url": "?hdnea=exp=1794045047~acl=/*~id=83432594444243485960080045502631~hmac=804cb8b4df16a4eeea5d265b66449dc60c3198d484de245d26be1345a0d247c6",
+      "pub_url": "?hdnea=exp=1794045047~acl=/*~id=83432594444243485960080045502631~hmac=804cb8b4df16a4eeea5d265b66449dc60c3198d484de245d26be1345a0d247c6",
+      "video_url": "?hdnea=exp=1794045047~acl=/*~id=83432594444243485960080045502631~hmac=804cb8b4df16a4eeea5d265b66449dc60c3198d484de245d26be1345a0d247c6"
+    },
     {
       "match_id": 1090551520,
       "event_name": "Upcoming - India vs Pakistan - ACC Men's U19 Asia Cup 2026",
