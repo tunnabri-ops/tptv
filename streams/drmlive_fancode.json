@@ -1,19 +1,41 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "12:39:30 PM 11-11-2026",
+    "last update time": "08:44:12 PM 11-11-2026",
     "matches": [
         {
             "event_category": "Cricket",
-            "match_id": 4249673,
-            "title": "Queensland vs Tasmania (Sheffield Shield, 2026/27)",
-            "match_name": "Queensland vs Tasmania",
-            "event_name": "Sheffield Shield, 2026/27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249673_53087_QUN_TAS_FC-WEB.jpg",
-            "team_1": "Queensland",
-            "team_2": "Tasmania",
-            "status": "PAUSED",
-            "startTime": "05:30:00 AM 11-11-2026"
+            "match_id": "4250208_ENG",
+            "title": "England Lions tour of West Indies, 2026 [English]",
+            "match_name": "West Indies A vs England Lions [English]",
+            "event_name": "England Lions tour of West Indies, 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png",
+            "team_1": "West Indies A",
+            "team_2": "England Lions",
+            "status": "LIVE",
+            "startTime": "07:00:00 PM 11-11-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "dai_url": "https://in-mc-flive.fancode.com/mumbai/4250208_english_hls_51b08c391362670_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794489787~_GO=Generated~acl=/mumbai/4250208_english_hls_51b08c391362670_1ta-di_h264/*~SessionID=90a8ce67b5171d74158c730fd112cd2f_playbox_dc8800b8-bbcb-44~Signature=AbO9BjhQmFNzBP6SL_HY7A6nglDqhDoLo2CLAhHkCVTJwKUAWkqGRUmAgwQmPe_uBeW5kGMcnTYLq54_VBNzjk9DYCwJ",
+            "adfree_url": "https://in-mc-flive.fancode.com/mumbai/4250208_english_hls_51b08c391362670_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794489787~_GO=Generated~acl=/mumbai/4250208_english_hls_51b08c391362670_1ta-di_h264/*~SessionID=90a8ce67b5171d74158c730fd112cd2f_playbox_dc8800b8-bbcb-44~Signature=AbO9BjhQmFNzBP6SL_HY7A6nglDqhDoLo2CLAhHkCVTJwKUAWkqGRUmAgwQmPe_uBeW5kGMcnTYLq54_VBNzjk9DYCwJ",
+            "google_m3u8_hex": "234558544d33550a234558542d582d56455253494f4e3a330a234558542d582d53545245414d2d494e463a42414e4457494454483d3434363933362c415645524147452d42414e4457494454483d3434363933362c434f444543533d22617663312e3432653031352c6d7034612e34302e32222c50524f4752414d2d49443d312c5245534f4c5554494f4e3d343236783234302c4652414d452d524154453d32352e3030300a68747470733a2f2f696e2d6d632d666c6976652e66616e636f64652e636f6d2f6d756d6261692f343235303230385f656e676c6973685f686c735f3531623038633339313336323637305f3174612d64695f683236342f323430702e6d3375383f68646e746c3d457870697265733d313739343438393738377e5f474f3d47656e6572617465647e61636c3d2f6d756d6261692f343235303230385f656e676c6973685f686c735f3531623038633339313336323637305f3174612d64695f683236342f2a7e53657373696f6e49443d39306138636536376235313731643734313538633733306664313132636432665f706c6179626f785f64633838303062382d626263622d34347e5369676e61747572653d41624f39426a68516d464e7a425036534c5f48593741366e676c447168446f4c6f32434c4168486b4356544a774b5541576b714752556d416777516d50655f75426557356b474d636e54594c7135345f56424e7a6a6b39445943774a0a234558542d582d53545245414d2d494e463a42414e4457494454483d3730323337362c415645524147452d42414e4457494454483d3730323337362c434f444543533d22617663312e3432653031652c6d7034612e34302e32222c50524f4752414d2d49443d312c5245534f4c5554494f4e3d363430783336302c4652414d452d524154453d32352e3030300a68747470733a2f2f696e2d6d632d666c6976652e66616e636f64652e636f6d2f6d756d6261692f343235303230385f656e676c6973685f686c735f3531623038633339313336323637305f3174612d64695f683236342f333630702e6d3375383f68646e746c3d457870697265733d313739343438393738377e5f474f3d47656e6572617465647e61636c3d2f6d756d6261692f343235303230385f656e676c6973685f686c735f3531623038633339313336323637305f3174612d64695f683236342f2a7e53657373696f6e49443d39306138636536376235313731643734313538633733306664313132636432665f706c6179626f785f64633838303062382d626263622d34347e5369676e61747572653d41624f39426a68516d464e7a425036534c5f48593741366e676c447168446f4c6f32434c4168486b4356544a774b5541576b714752556d416777516d50655f75426557356b474d636e54594c7135345f56424e7a6a6b39445943774a0a234558542d582d53545245414d2d494e463a42414e4457494454483d313032333232342c415645524147452d42414e4457494454483d313032333232342c434f444543533d22617663312e3464343031652c6d7034612e34302e32222c50524f4752414d2d49443d312c5245534f4c5554494f4e3d383534783438302c4652414d452d524154453d32352e3030300a68747470733a2f2f696e2d6d632d666c6976652e66616e636f64652e636f6d2f6d756d6261692f343235303230385f656e676c6973685f686c735f3531623038633339313336323637305f3174612d64695f683236342f343830702e6d3375383f68646e746c3d457870697265733d313739343438393738377e5f474f3d47656e6572617465647e61636c3d2f6d756d6261692f343235303230385f656e676c6973685f686c735f3531623038633339313336323637305f3174612d64695f683236342f2a7e53657373696f6e49443d39306138636536376235313731643734313538633733306664313132636432665f706c6179626f785f64633838303062382d626263622d34347e5369676e61747572653d41624f39426a68516d464e7a425036534c5f48593741366e676c447168446f4c6f32434c4168486b4356544a774b5541576b714752556d416777516d50655f75426557356b474d636e54594c7135345f56424e7a6a6b39445943774a0a234558542d582d53545245414d2d494e463a42414e4457494454483d313237383636342c415645524147452d42414e4457494454483d313237383636342c434f444543533d22617663312e3464343031662c6d7034612e34302e32222c50524f4752414d2d49443d312c5245534f4c5554494f4e3d393630783534302c4652414d452d524154453d32352e3030300a68747470733a2f2f696e2d6d632d666c6976652e66616e636f64652e636f6d2f6d756d6261692f343235303230385f656e676c6973685f686c735f3531623038633339313336323637305f3174612d64695f683236342f353430702e6d3375383f68646e746c3d457870697265733d313739343438393738377e5f474f3d47656e6572617465647e61636c3d2f6d756d6261692f343235303230385f656e676c6973685f686c735f3531623038633339313336323637305f3174612d64695f683236342f2a7e53657373696f6e49443d39306138636536376235313731643734313538633733306664313132636432665f706c6179626f785f64633838303062382d626263622d34347e5369676e61747572653d41624f39426a68516d464e7a425036534c5f48593741366e676c447168446f4c6f32434c4168486b4356544a774b5541576b714752556d416777516d50655f75426557356b474d636e54594c7135345f56424e7a6a6b39445943774a0a234558542d582d53545245414d2d494e463a42414e4457494454483d313738393531322c415645524147452d42414e4457494454483d313738393531322c434f444543533d22617663312e3634303031662c6d7034612e34302e32222c50524f4752414d2d49443d312c5245534f4c5554494f4e3d31323830783732302c4652414d452d524154453d32352e3030300a68747470733a2f2f696e2d6d632d666c6976652e66616e636f64652e636f6d2f6d756d6261692f343235303230385f656e676c6973685f686c735f3531623038633339313336323637305f3174612d64695f683236342f373230702e6d3375383f68646e746c3d457870697265733d313739343438393738377e5f474f3d47656e6572617465647e61636c3d2f6d756d6261692f343235303230385f656e676c6973685f686c735f3531623038633339313336323637305f3174612d64695f683236342f2a7e53657373696f6e49443d39306138636536376235313731643734313538633733306664313132636432665f706c6179626f785f64633838303062382d626263622d34347e5369676e61747572653d41624f39426a68516d464e7a425036534c5f48593741366e676c447168446f4c6f32434c4168486b4356544a774b5541576b714752556d416777516d50655f75426557356b474d636e54594c7135345f56424e7a6a6b39445943774a0a234558542d582d53545245414d2d494e463a42414e4457494454483d333332323132302c415645524147452d42414e4457494454483d333332323132302c434f444543533d22617663312e3634303032382c6d7034612e34302e32222c50524f4752414d2d49443d312c5245534f4c5554494f4e3d3139323078313038302c4652414d452d524154453d32352e3030300a68747470733a2f2f696e2d6d632d666c6976652e66616e636f64652e636f6d2f6d756d6261692f343235303230385f656e676c6973685f686c735f3531623038633339313336323637305f3174612d64695f683236342f31303830702e6d3375383f68646e746c3d457870697265733d313739343438393738377e5f474f3d47656e6572617465647e61636c3d2f6d756d6261692f343235303230385f656e676c6973685f686c735f3531623038633339313336323637305f3174612d64695f683236342f2a7e53657373696f6e49443d39306138636536376235313731643734313538633733306664313132636432665f706c6179626f785f64633838303062382d626263622d34347e5369676e61747572653d41624f39426a68516d464e7a425036534c5f48593741366e676c447168446f4c6f32434c4168486b4356544a774b5541576b714752556d416777516d50655f75426557356b474d636e54594c7135345f56424e7a6a6b39445943774a0a",
+            "akamai_m3u8_hex": null
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": "4250584_ENG",
+            "title": "ATP 250 - Bybit Stockholm Open 2026 [English]",
+            "match_name": "World Feed [English]",
+            "event_name": "ATP 250 - Bybit Stockholm Open 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Bybit-Stockholm-Open_2026_FC-WEB.jpg",
+            "team_1": "World Feed",
+            "team_2": "Stockholm, Sweden",
+            "status": "LIVE",
+            "startTime": "05:30:00 PM 11-11-2026",
+            "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/146.0.0.0 Safari/537.36",
+            "dai_url": "https://in-mc-flive.fancode.com/mumbai/4250584_english_hls_c1701137e188329_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794484335~_GO=Generated~acl=/mumbai/4250584_english_hls_c1701137e188329_1ta-di_h264/*~SessionID=35d31f4cf463b5cc003da57a0a7ccd0e_playbox_8b9277dd-8c1e-40~Signature=AbO9Bjg6y10LuHqZQxYjhcI28KWipSLLjhG9pbI3xNx9FnJL5rhCAMtyBebiCxUe2oMkfODUufmaE4ectGJKC41UPvMO",
+            "adfree_url": "https://in-mc-flive.fancode.com/mumbai/4250584_english_hls_c1701137e188329_1ta-di_h264/1080p.m3u8?hdntl=Expires=1794484335~_GO=Generated~acl=/mumbai/4250584_english_hls_c1701137e188329_1ta-di_h264/*~SessionID=35d31f4cf463b5cc003da57a0a7ccd0e_playbox_8b9277dd-8c1e-40~Signature=AbO9Bjg6y10LuHqZQxYjhcI28KWipSLLjhG9pbI3xNx9FnJL5rhCAMtyBebiCxUe2oMkfODUufmaE4ectGJKC41UPvMO",
+            "google_m3u8_hex": "234558544d33550a234558542d582d56455253494f4e3a330a234558542d582d53545245414d2d494e463a42414e4457494454483d3434363933362c415645524147452d42414e4457494454483d3434363933362c434f444543533d22617663312e3432653031352c6d7034612e34302e32222c50524f4752414d2d49443d312c5245534f4c5554494f4e3d343236783234302c4652414d452d524154453d32352e3030300a68747470733a2f2f696e2d6d632d666c6976652e66616e636f64652e636f6d2f6d756d6261692f343235303538345f656e676c6973685f686c735f6331373031313337653138383332395f3174612d64695f683236342f323430702e6d3375383f68646e746c3d457870697265733d313739343438343333357e5f474f3d47656e6572617465647e61636c3d2f6d756d6261692f343235303538345f656e676c6973685f686c735f6331373031313337653138383332395f3174612d64695f683236342f2a7e53657373696f6e49443d33356433316634636634363362356363303033646135376130613763636430655f706c6179626f785f38623932373764642d386331652d34307e5369676e61747572653d41624f39426a67367931304c7548715a5178596a68634932384b576970534c4c6a68473970624933784e7839466e4a4c35726843414d74794265626943785565326f4d6b664f445575666d614534656374474a4b4334315550764d4f0a234558542d582d53545245414d2d494e463a42414e4457494454483d3730323337362c415645524147452d42414e4457494454483d3730323337362c434f444543533d22617663312e3432653031652c6d7034612e34302e32222c50524f4752414d2d49443d312c5245534f4c5554494f4e3d363430783336302c4652414d452d524154453d32352e3030300a68747470733a2f2f696e2d6d632d666c6976652e66616e636f64652e636f6d2f6d756d6261692f343235303538345f656e676c6973685f686c735f6331373031313337653138383332395f3174612d64695f683236342f333630702e6d3375383f68646e746c3d457870697265733d313739343438343333357e5f474f3d47656e6572617465647e61636c3d2f6d756d6261692f343235303538345f656e676c6973685f686c735f6331373031313337653138383332395f3174612d64695f683236342f2a7e53657373696f6e49443d33356433316634636634363362356363303033646135376130613763636430655f706c6179626f785f38623932373764642d386331652d34307e5369676e61747572653d41624f39426a67367931304c7548715a5178596a68634932384b576970534c4c6a68473970624933784e7839466e4a4c35726843414d74794265626943785565326f4d6b664f445575666d614534656374474a4b4334315550764d4f0a234558542d582d53545245414d2d494e463a42414e4457494454483d313032333232342c415645524147452d42414e4457494454483d313032333232342c434f444543533d22617663312e3464343031652c6d7034612e34302e32222c50524f4752414d2d49443d312c5245534f4c5554494f4e3d383534783438302c4652414d452d524154453d32352e3030300a68747470733a2f2f696e2d6d632d666c6976652e66616e636f64652e636f6d2f6d756d6261692f343235303538345f656e676c6973685f686c735f6331373031313337653138383332395f3174612d64695f683236342f343830702e6d3375383f68646e746c3d457870697265733d313739343438343333357e5f474f3d47656e6572617465647e61636c3d2f6d756d6261692f343235303538345f656e676c6973685f686c735f6331373031313337653138383332395f3174612d64695f683236342f2a7e53657373696f6e49443d33356433316634636634363362356363303033646135376130613763636430655f706c6179626f785f38623932373764642d386331652d34307e5369676e61747572653d41624f39426a67367931304c7548715a5178596a68634932384b576970534c4c6a68473970624933784e7839466e4a4c35726843414d74794265626943785565326f4d6b664f445575666d614534656374474a4b4334315550764d4f0a234558542d582d53545245414d2d494e463a42414e4457494454483d313237383636342c415645524147452d42414e4457494454483d313237383636342c434f444543533d22617663312e3464343031662c6d7034612e34302e32222c50524f4752414d2d49443d312c5245534f4c5554494f4e3d393630783534302c4652414d452d524154453d32352e3030300a68747470733a2f2f696e2d6d632d666c6976652e66616e636f64652e636f6d2f6d756d6261692f343235303538345f656e676c6973685f686c735f6331373031313337653138383332395f3174612d64695f683236342f353430702e6d3375383f68646e746c3d457870697265733d313739343438343333357e5f474f3d47656e6572617465647e61636c3d2f6d756d6261692f343235303538345f656e676c6973685f686c735f6331373031313337653138383332395f3174612d64695f683236342f2a7e53657373696f6e49443d33356433316634636634363362356363303033646135376130613763636430655f706c6179626f785f38623932373764642d386331652d34307e5369676e61747572653d41624f39426a67367931304c7548715a5178596a68634932384b576970534c4c6a68473970624933784e7839466e4a4c35726843414d74794265626943785565326f4d6b664f445575666d614534656374474a4b4334315550764d4f0a234558542d582d53545245414d2d494e463a42414e4457494454483d313738393531322c415645524147452d42414e4457494454483d313738393531322c434f444543533d22617663312e3634303031662c6d7034612e34302e32222c50524f4752414d2d49443d312c5245534f4c5554494f4e3d31323830783732302c4652414d452d524154453d32352e3030300a68747470733a2f2f696e2d6d632d666c6976652e66616e636f64652e636f6d2f6d756d6261692f343235303538345f656e676c6973685f686c735f6331373031313337653138383332395f3174612d64695f683236342f373230702e6d3375383f68646e746c3d457870697265733d313739343438343333357e5f474f3d47656e6572617465647e61636c3d2f6d756d6261692f343235303538345f656e676c6973685f686c735f6331373031313337653138383332395f3174612d64695f683236342f2a7e53657373696f6e49443d33356433316634636634363362356363303033646135376130613763636430655f706c6179626f785f38623932373764642d386331652d34307e5369676e61747572653d41624f39426a67367931304c7548715a5178596a68634932384b576970534c4c6a68473970624933784e7839466e4a4c35726843414d74794265626943785565326f4d6b664f445575666d614534656374474a4b4334315550764d4f0a234558542d582d53545245414d2d494e463a42414e4457494454483d333332323132302c415645524147452d42414e4457494454483d333332323132302c434f444543533d22617663312e3634303032382c6d7034612e34302e32222c50524f4752414d2d49443d312c5245534f4c5554494f4e3d3139323078313038302c4652414d452d524154453d32352e3030300a68747470733a2f2f696e2d6d632d666c6976652e66616e636f64652e636f6d2f6d756d6261692f343235303538345f656e676c6973685f686c735f6331373031313337653138383332395f3174612d64695f683236342f31303830702e6d3375383f68646e746c3d457870697265733d313739343438343333357e5f474f3d47656e6572617465647e61636c3d2f6d756d6261692f343235303538345f656e676c6973685f686c735f6331373031313337653138383332395f3174612d64695f683236342f2a7e53657373696f6e49443d33356433316634636634363362356363303033646135376130613763636430655f706c6179626f785f38623932373764642d386331652d34307e5369676e61747572653d41624f39426a67367931304c7548715a5178596a68634932384b576970534c4c6a68473970624933784e7839466e4a4c35726843414d74794265626943785565326f4d6b664f445575666d614534656374474a4b4334315550764d4f0a",
+            "akamai_m3u8_hex": null
         },
         {
             "event_category": "Cricket",
@@ -29,18 +51,6 @@
         },
         {
             "event_category": "Cricket",
-            "match_id": 4250404,
-            "title": "Perth Scorchers Women vs Sydney Thunder Women (Women's Big Bash League, 2026)",
-            "match_name": "Perth Scorchers Women vs Sydney Thunder Women",
-            "event_name": "Women's Big Bash League, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250404_53125_PS-W_ST-W_fc-web_1793352702145.jpg",
-            "team_1": "Perth Scorchers Women",
-            "team_2": "Sydney Thunder Women",
-            "status": "UPCOMING",
-            "startTime": "01:40:00 PM 11-11-2026"
-        },
-        {
-            "event_category": "Cricket",
             "match_id": 4249672,
             "title": "Victoria vs Western Australia (Sheffield Shield, 2026/27)",
             "match_name": "Victoria vs Western Australia",
@@ -53,6 +63,18 @@
         },
         {
             "event_category": "Cricket",
+            "match_id": 4249673,
+            "title": "Queensland vs Tasmania (Sheffield Shield, 2026/27)",
+            "match_name": "Queensland vs Tasmania",
+            "event_name": "Sheffield Shield, 2026/27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249673_53087_QUN_TAS_FC-WEB.jpg",
+            "team_1": "Queensland",
+            "team_2": "Tasmania",
+            "status": "PAUSED",
+            "startTime": "05:30:00 AM 11-11-2026"
+        },
+        {
+            "event_category": "Cricket",
             "match_id": 4250405,
             "title": "Melbourne Stars Women vs Brisbane Heat Women (Women's Big Bash League, 2026)",
             "match_name": "Melbourne Stars Women vs Brisbane Heat Women",
@@ -62,42 +84,6 @@
             "team_2": "Brisbane Heat Women",
             "status": "UPCOMING",
             "startTime": "10:10:00 AM 12-11-2026"
-        },
-        {
-            "event_category": "Cricket",
-            "match_id": 4250208,
-            "title": "West Indies A vs England Lions (England Lions tour of West Indies, 2026)",
-            "match_name": "West Indies A vs England Lions",
-            "event_name": "England Lions tour of West Indies, 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Cricket_FC-Mini.png",
-            "team_1": "West Indies A",
-            "team_2": "England Lions",
-            "status": "UPCOMING",
-            "startTime": "07:00:00 PM 11-11-2026"
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249501,
-            "title": "Oud-Heverlee Leuven Women vs HB K\u00f8ge Women (UEFA Women's Champions League 2026-27)",
-            "match_name": "Oud-Heverlee Leuven Women vs HB K\u00f8ge Women",
-            "event_name": "UEFA Women's Champions League 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249501_53078_OHL-W_KOG-W_fc-web.jpg",
-            "team_1": "Oud-Heverlee Leuven Women",
-            "team_2": "HB K\u00f8ge Women",
-            "status": "UPCOMING",
-            "startTime": "11:15:00 PM 11-11-2026"
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4249502,
-            "title": "Juventus Women vs OL Lyonnes (UEFA Women's Champions League 2026-27)",
-            "match_name": "Juventus Women vs OL Lyonnes",
-            "event_name": "UEFA Women's Champions League 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249502_53078_JUV-W_OLY-W_fc-web.jpg",
-            "team_1": "Juventus Women",
-            "team_2": "OL Lyonnes",
-            "status": "UPCOMING",
-            "startTime": "01:30:00 AM 12-11-2026"
         },
         {
             "event_category": "Cricket",
@@ -136,40 +122,28 @@
             "startTime": "04:45:00 PM 12-11-2026"
         },
         {
-            "event_category": "Tennis",
-            "match_id": 4250584,
-            "title": "World Feed vs Stockholm, Sweden (ATP 250 - Bybit Stockholm Open 2026)",
-            "match_name": "World Feed",
-            "event_name": "ATP 250 - Bybit Stockholm Open 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Bybit-Stockholm-Open_2026_FC-WEB.jpg",
-            "team_1": "World Feed",
-            "team_2": "Stockholm, Sweden",
+            "event_category": "Football",
+            "match_id": 4249501,
+            "title": "Oud-Heverlee Leuven Women vs HB K\u00f8ge Women (UEFA Women's Champions League 2026-27)",
+            "match_name": "Oud-Heverlee Leuven Women vs HB K\u00f8ge Women",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249501_53078_OHL-W_KOG-W_fc-web.jpg",
+            "team_1": "Oud-Heverlee Leuven Women",
+            "team_2": "HB K\u00f8ge Women",
             "status": "UPCOMING",
-            "startTime": "05:30:00 PM 11-11-2026"
+            "startTime": "11:15:00 PM 11-11-2026"
         },
         {
-            "event_category": "Badminton",
-            "match_id": 4250630,
-            "title": "Round of 16 vs Japan (BWF Super 500 - Japan Masters 2026)",
-            "match_name": "Round of 16",
-            "event_name": "BWF Super 500 - Japan Masters 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Masters_fc-web.jpg",
-            "team_1": "Round of 16",
-            "team_2": "Japan",
+            "event_category": "Football",
+            "match_id": 4249502,
+            "title": "Juventus Women vs OL Lyonnes (UEFA Women's Champions League 2026-27)",
+            "match_name": "Juventus Women vs OL Lyonnes",
+            "event_name": "UEFA Women's Champions League 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249502_53078_JUV-W_OLY-W_fc-web.jpg",
+            "team_1": "Juventus Women",
+            "team_2": "OL Lyonnes",
             "status": "UPCOMING",
-            "startTime": "05:30:00 AM 12-11-2026"
-        },
-        {
-            "event_category": "Tennis",
-            "match_id": 4250585,
-            "title": "World Feed vs Stockholm, Sweden (ATP 250 - Bybit Stockholm Open 2026)",
-            "match_name": "World Feed",
-            "event_name": "ATP 250 - Bybit Stockholm Open 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Bybit-Stockholm-Open_2026_FC-WEB.jpg",
-            "team_1": "World Feed",
-            "team_2": "Stockholm, Sweden",
-            "status": "UPCOMING",
-            "startTime": "05:30:00 PM 12-11-2026"
+            "startTime": "01:30:00 AM 12-11-2026"
         },
         {
             "event_category": "Football",
@@ -184,6 +158,18 @@
             "startTime": "11:15:00 PM 12-11-2026"
         },
         {
+            "event_category": "Badminton",
+            "match_id": 4250630,
+            "title": "Round of 16 vs Japan (BWF Super 500 - Japan Masters 2026)",
+            "match_name": "Round of 16",
+            "event_name": "BWF Super 500 - Japan Masters 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Japan-Masters_fc-web.jpg",
+            "team_1": "Round of 16",
+            "team_2": "Japan",
+            "status": "UPCOMING",
+            "startTime": "05:30:00 AM 12-11-2026"
+        },
+        {
             "event_category": "Football",
             "match_id": 4249503,
             "title": "Benfica Women vs Austria Wien Women (UEFA Women's Champions League 2026-27)",
@@ -196,16 +182,16 @@
             "startTime": "01:30:00 AM 13-11-2026"
         },
         {
-            "event_category": "Golf",
-            "match_id": 4250721,
-            "title": "Day 1 vs Austin, Texas (Austin Championship 2026)",
-            "match_name": "Day 1",
-            "event_name": "Austin Championship 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Austin-championship_Web-match-card.png",
-            "team_1": "Day 1",
-            "team_2": "Austin, Texas",
+            "event_category": "Tennis",
+            "match_id": 4250585,
+            "title": "World Feed vs Stockholm, Sweden (ATP 250 - Bybit Stockholm Open 2026)",
+            "match_name": "World Feed",
+            "event_name": "ATP 250 - Bybit Stockholm Open 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Bybit-Stockholm-Open_2026_FC-WEB.jpg",
+            "team_1": "World Feed",
+            "team_2": "Stockholm, Sweden",
             "status": "UPCOMING",
-            "startTime": "01:30:00 AM 13-11-2026"
+            "startTime": "05:30:00 PM 12-11-2026"
         },
         {
             "event_category": "Cricket",
@@ -218,6 +204,30 @@
             "team_2": "England",
             "status": "UPCOMING",
             "startTime": "09:00:00 AM 13-11-2026"
+        },
+        {
+            "event_category": "Golf",
+            "match_id": 4250721,
+            "title": "World Feed - Day 1 vs Austin, Texas (Austin Championship 2026)",
+            "match_name": "World Feed - Day 1",
+            "event_name": "Austin Championship 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Austin-championship_Web-match-card.png",
+            "team_1": "World Feed - Day 1",
+            "team_2": "Austin, Texas",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 AM 13-11-2026"
+        },
+        {
+            "event_category": "Golf",
+            "match_id": 4250881,
+            "title": "Featured Group - Day 1 vs Omni Barton Creek Resort & Spa (Fazio Canyons Cour (Austin Championship 2026)",
+            "match_name": "Featured Group - Day 1",
+            "event_name": "Austin Championship 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Austin-championship_Web-match-card.png",
+            "team_1": "Featured Group - Day 1",
+            "team_2": "Omni Barton Creek Resort & Spa (Fazio Canyons Cour",
+            "status": "UPCOMING",
+            "startTime": "06:30:00 PM 12-11-2026"
         },
         {
             "event_category": "Cricket",
@@ -297,7 +307,7 @@
             "title": "Leganes vs Burgos CF (LALIGA Hypermotion 2026-27)",
             "match_name": "Leganes vs Burgos CF",
             "event_name": "LALIGA Hypermotion 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "src": "https://images.fancode.com/aig/match/v1794380803687/4250592_CASACARDS_APP.png",
             "team_1": "Leganes",
             "team_2": "Burgos CF",
             "status": "UPCOMING",
@@ -305,12 +315,24 @@
         },
         {
             "event_category": "Golf",
-            "match_id": 4250722,
-            "title": "Day 2 vs Austin, Texas (Austin Championship 2026)",
-            "match_name": "Day 2",
+            "match_id": 4250882,
+            "title": "Featured Groups - Day 2 vs Omni Barton Creek Resort & Spa (Fazio Canyons Cour (Austin Championship 2026)",
+            "match_name": "Featured Groups - Day 2",
             "event_name": "Austin Championship 2026",
             "src": "https://www.fancode.com/skillup-uploads/cms-media/Austin-championship_Web-match-card.png",
-            "team_1": "Day 2",
+            "team_1": "Featured Groups - Day 2",
+            "team_2": "Omni Barton Creek Resort & Spa (Fazio Canyons Cour",
+            "status": "UPCOMING",
+            "startTime": "06:30:00 PM 13-11-2026"
+        },
+        {
+            "event_category": "Golf",
+            "match_id": 4250722,
+            "title": "World Feed - Day 2 vs Austin, Texas (Austin Championship 2026)",
+            "match_name": "World Feed - Day 2",
+            "event_name": "Austin Championship 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Austin-championship_Web-match-card.png",
+            "team_1": "World Feed - Day 2",
             "team_2": "Austin, Texas",
             "status": "UPCOMING",
             "startTime": "01:30:00 AM 14-11-2026"
@@ -405,7 +427,7 @@
             "title": "Real Valladolid vs Castell\u00f3n (LALIGA Hypermotion 2026-27)",
             "match_name": "Real Valladolid vs Castell\u00f3n",
             "event_name": "LALIGA Hypermotion 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "src": "https://images.fancode.com/aig/match/v1794380803708/4250593_CASACARDS_APP.png",
             "team_1": "Real Valladolid",
             "team_2": "Castell\u00f3n",
             "status": "UPCOMING",
@@ -470,18 +492,6 @@
             "team_2": "Tranmere Rovers",
             "status": "UPCOMING",
             "startTime": "11:00:00 PM 14-11-2026"
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4250765,
-            "title": "Brighton and Hove Albion Women vs Liverpool Women (Barclays Women's Super League 2026-27)",
-            "match_name": "Brighton and Hove Albion Women vs Liverpool Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-            "team_1": "Brighton and Hove Albion Women",
-            "team_2": "Liverpool Women",
-            "status": "UPCOMING",
-            "startTime": "10:45:00 PM 14-11-2026"
         }
     ]
 }

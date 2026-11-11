@@ -1,10 +1,36 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "10/11/2026, 7:15:13 pm",
-  "total_matches": 7,
+  "updatedAt": "11/11/2026, 7:59:30 pm",
+  "total_matches": 10,
   "live_matches": 0,
   "matches": [
+    {
+      "match_id": 1090550846,
+      "event_name": "Upcoming - ACC Men's U19 Asia Cup 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028772/1794317311639599_Asia_Cup_U19_SF_Afghanistan-vs-India_DDT_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090553648,
+      "event_name": "Upcoming - Italy vs France - UEFA Nations League 2026-27",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028753/1794310296175247_UNL26_Italy_vs_France_dated_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
     {
       "match_id": 1090552650,
       "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2026",
@@ -14,6 +40,32 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028671/1794223107190234_Asia_Cup_Rising_Star_Promo_DTT_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090553427,
+      "event_name": "Upcoming - 4th ODI - India Tour Of New Zealand 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028665/1794208041683604_NZ_vs_IND_4thODI_Promo_DDT_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090553650,
+      "event_name": "Upcoming - Matchday 5 - UEFA Nations League 2026-27",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028753/1794309200718246_UNL26_england_vs_croatia_dated_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -32,14 +84,14 @@
       "video_url": ""
     },
     {
-      "match_id": 1090553427,
-      "event_name": "Upcoming - 4th ODI - India Tour Of New Zealand 2026",
+      "match_id": 1090553633,
+      "event_name": "Upcoming - UFC 334 - Gane vs Hokit",
       "match_name": "",
       "status": "Upcoming",
-      "category": "Cricket",
+      "category": "Fight Sports",
       "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028665/1794208041683604_NZ_vs_IND_4thODI_Promo_DDT_landscape_thumb.jpg",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028794/1794397098375571_UFC334_promo_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -79,19 +131,6 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028373/1793864472359710_india_cricket_promo_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090550846,
-      "event_name": "Upcoming - ACC Men's U19 Asia Cup 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028471/1793966029554516_ASIA_CUP_U19_2026_GOB_Landscape_Thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
