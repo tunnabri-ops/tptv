@@ -1,22 +1,48 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "21/11/2026, 12:36:34 pm",
-  "total_matches": 16,
-  "live_matches": 1,
+  "updatedAt": "21/11/2026, 8:52:10 pm",
+  "total_matches": 18,
+  "live_matches": 3,
   "matches": [
     {
-      "match_id": "1090555331_ENG",
+      "match_id": "1090555335_ENG",
       "event_name": "ACC Men's Asia Cup Rising Stars 2026",
-      "match_name": "Sri Lanka A vs Hong Kong, China - 21 Nov 2026 [ENG]",
+      "match_name": "Bangladesh A vs Afghanistan A - 21 Nov 2026 [ENG]",
       "status": "Live",
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029479/1795171533377724_AsiaCup_RisingStar_SRI-A_vs_HKC_Live_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795287807~acl=/*~id=82828831838850186919653798828198~hmac=d2c46041169554931efbbe679f6c7be1c1a090faab9807ab886752ec362f157e",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795287807~acl=/*~id=82828831838850186919653798828198~hmac=d2c46041169554931efbbe679f6c7be1c1a090faab9807ab886752ec362f157e",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120299/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795287807~acl=/*~id=82828831838850186919653798828198~hmac=d2c46041169554931efbbe679f6c7be1c1a090faab9807ab886752ec362f157e"
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029480/1795172675588333_AsiaCup_RisingStar_BAN-vs-AFG_Live_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795317501~acl=/*~id=95292420553582279672048159311166~hmac=3911ae20453f533870ad15e8b0537bdca3328005fc1b26167c5ad2fe11cad619",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795317501~acl=/*~id=95292420553582279672048159311166~hmac=3911ae20453f533870ad15e8b0537bdca3328005fc1b26167c5ad2fe11cad619",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120303/criclive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795317501~acl=/*~id=95292420553582279672048159311166~hmac=3911ae20453f533870ad15e8b0537bdca3328005fc1b26167c5ad2fe11cad619"
+    },
+    {
+      "match_id": "1090555340_ENG",
+      "event_name": "MG Indian Super League 2026-27",
+      "match_name": "NorthEast United FC vs FC Goa - 21 Nov 2026 [ENG]",
+      "status": "Live",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029506/1795187845283930_ISL26_NorthEast-United-FC-vs-FC-GOA-_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Footlive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795317501~acl=/*~id=95292420553582279672048159311166~hmac=3911ae20453f533870ad15e8b0537bdca3328005fc1b26167c5ad2fe11cad619",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Footlive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795317501~acl=/*~id=95292420553582279672048159311166~hmac=3911ae20453f533870ad15e8b0537bdca3328005fc1b26167c5ad2fe11cad619",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094589/Footlive2111/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795317501~acl=/*~id=95292420553582279672048159311166~hmac=3911ae20453f533870ad15e8b0537bdca3328005fc1b26167c5ad2fe11cad619"
+    },
+    {
+      "match_id": "1090555340_HIN",
+      "event_name": "MG Indian Super League 2026-27",
+      "match_name": "NorthEast United FC vs FC Goa - 21 Nov 2026 [HIN]",
+      "status": "Live",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029506/1795187845283930_ISL26_NorthEast-United-FC-vs-FC-GOA-_landscape_thumb.jpg",
+      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795317501~acl=/*~id=95292420553582279672048159311166~hmac=3911ae20453f533870ad15e8b0537bdca3328005fc1b26167c5ad2fe11cad619",
+      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795317501~acl=/*~id=95292420553582279672048159311166~hmac=3911ae20453f533870ad15e8b0537bdca3328005fc1b26167c5ad2fe11cad619",
+      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2094588/Footlive2111/HIN/std_lrh-800300010.m3u8?hdnea=exp=1795317501~acl=/*~id=95292420553582279672048159311166~hmac=3911ae20453f533870ad15e8b0537bdca3328005fc1b26167c5ad2fe11cad619"
     },
     {
       "match_id": 1090554767,
@@ -32,14 +58,27 @@
       "video_url": ""
     },
     {
-      "match_id": 1090555086,
-      "event_name": "Upcoming - Arsenal vs Dortmund - UEFA Champions League 2026-27",
+      "match_id": 1090555484,
+      "event_name": "Upcoming - India A vs UAE - DP World Asia Cup Rising Stars Men's 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029548/1795238001561761_ASIACUP_INDvsUAE_promo_dated_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090555667,
+      "event_name": "Upcoming - UEFA Champions League 2026-27",
       "match_name": "",
       "status": "Upcoming",
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795119521514174_UCL26_MD5_Arsenal_vs_Dortmund_Promo_landscape_thumb_dated.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029579/1795250909596716_FCB_ManUtd_PSG_LFC_landscape_thumbnail.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -84,19 +123,6 @@
       "video_url": ""
     },
     {
-      "match_id": 1090555484,
-      "event_name": "Upcoming - India A vs UAE - DP World Asia Cup Rising Stars Men's 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029548/1795238001561761_ASIACUP_INDvsUAE_promo_dated_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
       "match_id": 1090547508,
       "event_name": "Upcoming - MG Indian Super League 2026-27",
       "match_name": "",
@@ -131,6 +157,19 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029390/1795080314217240_champion_league_match_day_5_landscape_thumbnail.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090555086,
+      "event_name": "Upcoming - Arsenal vs Dortmund - UEFA Champions League 2026-27",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795119521514174_UCL26_MD5_Arsenal_vs_Dortmund_Promo_landscape_thumb_dated.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -196,19 +235,6 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795125561396174_UCL26_MD5_Sporting_CP_vs_ManUnited_Promo_landscape_thumb_dated.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090555134,
-      "event_name": "Upcoming - Matchday 5 - UEFA Europa League 2026-27",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029405/1795096404105290_uefa_league_matchday_5_landscape_thumbnail.png",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
