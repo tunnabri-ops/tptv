@@ -1,7 +1,7 @@
 {
     "name": "Fancode Live Matches Data in Json",
     "telegram": "https://t.me/+rQTz5VL8CRpjNTZl",
-    "last update time": "08:54:22 PM 21-11-2026",
+    "last update time": "02:25:05 AM 22-11-2026",
     "matches": [
         {
             "event_category": "Cricket",
@@ -100,30 +100,6 @@
             "startTime": "04:30:00 PM 22-11-2026"
         },
         {
-            "event_category": "Football",
-            "match_id": 4247689,
-            "title": "Sevilla FC vs Real Betis (LALIGA 2026-27)",
-            "match_name": "Sevilla FC vs Real Betis",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247689_53004_SEV_RB_FC-Web.png",
-            "team_1": "Sevilla FC",
-            "team_2": "Real Betis",
-            "status": "UPCOMING",
-            "startTime": "11:00:00 PM 21-11-2026"
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4247691,
-            "title": "Real Madrid vs RC Celta (LALIGA 2026-27)",
-            "match_name": "Real Madrid vs RC Celta",
-            "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247691_53004_RM_CEV_FC-Web_1792660540658.png",
-            "team_1": "Real Madrid",
-            "team_2": "RC Celta",
-            "status": "UPCOMING",
-            "startTime": "01:30:00 AM 22-11-2026"
-        },
-        {
             "event_category": "Cricket",
             "match_id": 4251139,
             "title": "Brescia Lions vs Rome Gladiators (Italia T10 2026)",
@@ -170,18 +146,6 @@
             "team_2": "Wadi Kabir Royals Women",
             "status": "UPCOMING",
             "startTime": "04:00:00 PM 22-11-2026"
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4250770,
-            "title": "London City Lionesses vs Crystal Palace Women (Barclays Women's Super League 2026-27)",
-            "match_name": "London City Lionesses vs Crystal Palace Women",
-            "event_name": "Barclays Women's Super League 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4250770_53038_LCL_CP-W_fc-web.jpg",
-            "team_1": "London City Lionesses",
-            "team_2": "Crystal Palace Women",
-            "status": "UPCOMING",
-            "startTime": "10:45:00 PM 21-11-2026"
         },
         {
             "event_category": "Football",
@@ -245,6 +209,18 @@
         },
         {
             "event_category": "Football",
+            "match_id": 4247695,
+            "title": "CA Osasuna vs Malaga (LALIGA 2026-27)",
+            "match_name": "CA Osasuna vs Malaga",
+            "event_name": "LALIGA 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247695_53004_OSN_MAG_FC-Web.png",
+            "team_1": "CA Osasuna",
+            "team_2": "Malaga",
+            "status": "UPCOMING",
+            "startTime": "11:00:00 PM 22-11-2026"
+        },
+        {
+            "event_category": "Football",
             "match_id": 4250771,
             "title": "Birmingham City F.C. Women vs Manchester United Women (Barclays Women's Super League 2026-27)",
             "match_name": "Birmingham City F.C. Women vs Manchester United Women",
@@ -266,18 +242,6 @@
             "team_2": "Tottenham Hotspur Women",
             "status": "UPCOMING",
             "startTime": "05:30:00 PM 22-11-2026"
-        },
-        {
-            "event_category": "Football",
-            "match_id": 4250751,
-            "title": "Tenerife vs RCD Mallorca (LALIGA Hypermotion 2026-27)",
-            "match_name": "Tenerife vs RCD Mallorca",
-            "event_name": "LALIGA Hypermotion 2026-27",
-            "src": "https://images.fancode.com/aig/match/v1794380803724/4250751_CASACARDS_APP.png",
-            "team_1": "Tenerife",
-            "team_2": "RCD Mallorca",
-            "status": "UPCOMING",
-            "startTime": "01:30:00 AM 22-11-2026"
         },
         {
             "event_category": "Football",
@@ -317,27 +281,159 @@
         },
         {
             "event_category": "Football",
-            "match_id": 4247695,
-            "title": "CA Osasuna vs Malaga (LALIGA 2026-27)",
-            "match_name": "CA Osasuna vs Malaga",
+            "match_id": 4247694,
+            "title": "Getafe CF vs Atletico de Madrid (LALIGA 2026-27)",
+            "match_name": "Getafe CF vs Atletico de Madrid",
             "event_name": "LALIGA 2026-27",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247695_53004_OSN_MAG_FC-Web.png",
-            "team_1": "CA Osasuna",
-            "team_2": "Malaga",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4247694_53004_GEF_ATM_FC-Web.png",
+            "team_1": "Getafe CF",
+            "team_2": "Atletico de Madrid",
+            "status": "UPCOMING",
+            "startTime": "01:30:00 AM 23-11-2026"
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4250752,
+            "title": "Sporting de Gij\u00f3n vs Las Palmas (LALIGA Hypermotion 2026-27)",
+            "match_name": "Sporting de Gij\u00f3n vs Las Palmas",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "src": "https://images.fancode.com/aig/match/v1794380803724/4250752_CASACARDS_APP.png",
+            "team_1": "Sporting de Gij\u00f3n",
+            "team_2": "Las Palmas",
+            "status": "UPCOMING",
+            "startTime": "08:45:00 PM 22-11-2026"
+        },
+        {
+            "event_category": "Cricket",
+            "match_id": 4249675,
+            "title": "Western Australia vs Tasmania (Sheffield Shield, 2026/27)",
+            "match_name": "Western Australia vs Tasmania",
+            "event_name": "Sheffield Shield, 2026/27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249675_53087_WAU_TAS_FC-WEB.jpg",
+            "team_1": "Western Australia",
+            "team_2": "Tasmania",
+            "status": "UPCOMING",
+            "startTime": "08:00:00 AM 23-11-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": 139703,
+            "title": "Feature Race vs Las Vegas (F1 ACADEMY LAS VEGAS 2026)",
+            "match_name": "Feature Race",
+            "event_name": "F1 ACADEMY LAS VEGAS 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-ACADEMY-LAS-VEGAS-2026_web.jpg",
+            "team_1": "Feature Race",
+            "team_2": "Las Vegas",
+            "status": "UPCOMING",
+            "startTime": "05:50:00 AM 22-11-2026"
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4249862,
+            "title": "Wellington Phoenix vs Macarthur (A-League 2026-27)",
+            "match_name": "Wellington Phoenix vs Macarthur",
+            "event_name": "A-League 2026-27",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/4249862_53101_WEL_MAC_fc-Web_1792223292178.jpg",
+            "team_1": "Wellington Phoenix",
+            "team_2": "Macarthur",
+            "status": "UPCOMING",
+            "startTime": "07:30:00 AM 22-11-2026"
+        },
+        {
+            "event_category": "Formula 1",
+            "match_id": 139521,
+            "title": "Race vs Las Vegas Strip Circuit (F1 HEINEKEN LAS VEGAS GRAND PRIX 2026)",
+            "match_name": "Race",
+            "event_name": "F1 HEINEKEN LAS VEGAS GRAND PRIX 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/F1-HEINEKEN-LAS-VEGAS-GRAND-PRIX--web-card_1793794537926.png",
+            "team_1": "Race",
+            "team_2": "Las Vegas Strip Circuit",
+            "status": "UPCOMING",
+            "startTime": "09:30:00 AM 22-11-2026"
+        },
+        {
+            "event_category": "Badminton",
+            "match_id": 4250639,
+            "title": "Finals vs Hong Kong (BWF Super 500 - LI-NING Hong Kong Open 2026)",
+            "match_name": "Finals",
+            "event_name": "BWF Super 500 - LI-NING Hong Kong Open 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Hong-Kong-Open_BWF-Super-500_fc-web.jpg",
+            "team_1": "Finals",
+            "team_2": "Hong Kong",
+            "status": "UPCOMING",
+            "startTime": "11:30:00 AM 22-11-2026"
+        },
+        {
+            "event_category": "Motorsports",
+            "match_id": 4251125,
+            "title": "Coppa Shell AM World Final Race vs Barcelona, Spain (Ferrari Challenge Series 2026)",
+            "match_name": "Coppa Shell AM World Final Race",
+            "event_name": "Ferrari Challenge Series 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Suzuka-2026-old_1794390200647.-psd.png",
+            "team_1": "Coppa Shell AM World Final Race",
+            "team_2": "Barcelona, Spain",
+            "status": "UPCOMING",
+            "startTime": "02:15:00 PM 22-11-2026"
+        },
+        {
+            "event_category": "MotoGP",
+            "match_id": 139986,
+            "title": "Race Day vs Portimao (REPSOL GRAND PRIX OF PORTUGAL 2026)",
+            "match_name": "Race Day",
+            "event_name": "REPSOL GRAND PRIX OF PORTUGAL 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/REPSOL-GRAND-PRIX-OF-PORTUGAL_fc-web.jpg",
+            "team_1": "Race Day",
+            "team_2": "Portimao",
+            "status": "UPCOMING",
+            "startTime": "02:30:00 PM 22-11-2026"
+        },
+        {
+            "event_category": "Live Events",
+            "match_id": 4251168,
+            "title": "Auction vs New Delhi (Super T10 Auction 2026)",
+            "match_name": "Auction",
+            "event_name": "Super T10 Auction 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/WEBMini.jpeg",
+            "team_1": "Auction",
+            "team_2": "New Delhi",
+            "status": "UPCOMING",
+            "startTime": "03:00:00 PM 22-11-2026"
+        },
+        {
+            "event_category": "Tennis",
+            "match_id": 4250732,
+            "title": "Match 8 vs Turin, Italy (Nitto ATP Finals 2026)",
+            "match_name": "Match 8",
+            "event_name": "Nitto ATP Finals 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Nitto-ATP-Finals-Web.png",
+            "team_1": "Match 8",
+            "team_2": "Turin, Italy",
+            "status": "UPCOMING",
+            "startTime": "04:00:00 PM 22-11-2026"
+        },
+        {
+            "event_category": "Football",
+            "match_id": 4250753,
+            "title": "Girona FC vs Eibar (LALIGA Hypermotion 2026-27)",
+            "match_name": "Girona FC vs Eibar",
+            "event_name": "LALIGA Hypermotion 2026-27",
+            "src": "https://images.fancode.com/aig/match/v1794380803722/4250753_CASACARDS_APP.png",
+            "team_1": "Girona FC",
+            "team_2": "Eibar",
             "status": "UPCOMING",
             "startTime": "11:00:00 PM 22-11-2026"
         },
         {
-            "event_category": "Tennis",
-            "match_id": 4250946,
-            "title": "Men's Doubles vs Turin, Italy (Nitto ATP Finals 2026)",
-            "match_name": "Men's Doubles",
-            "event_name": "Nitto ATP Finals 2026",
-            "src": "https://www.fancode.com/skillup-uploads/cms-media/Nitto-ATP-Finals-Web.png",
-            "team_1": "Men's Doubles",
-            "team_2": "Turin, Italy",
+            "event_category": "Motorsports",
+            "match_id": 4251126,
+            "title": "Coppa Shell World Final Race vs Barcelona, Spain (Ferrari Challenge Series 2026)",
+            "match_name": "Coppa Shell World Final Race",
+            "event_name": "Ferrari Challenge Series 2026",
+            "src": "https://www.fancode.com/skillup-uploads/cms-media/Ferrari-Challenge-Series-Suzuka-2026-old_1794390200647.-psd.png",
+            "team_1": "Coppa Shell World Final Race",
+            "team_2": "Barcelona, Spain",
             "status": "UPCOMING",
-            "startTime": "10:30:00 PM 21-11-2026"
+            "startTime": "04:30:00 PM 22-11-2026"
         }
     ]
 }
