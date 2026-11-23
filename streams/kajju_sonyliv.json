@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "23/11/2026, 3:46:03 pm",
+  "updatedAt": "24/11/2026, 12:08:27 am",
   "total_matches": 14,
-  "live_matches": 1,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090555986_ENG",
-      "event_name": "ACC Men's Asia Cup Rising Stars 2026",
-      "match_name": "Sri Lanka A vs Bangladesh A - 23 Nov 2026 [ENG]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029679/1795357669078765_ACRS26_SL_A_VS_BAN_A_landscape_thumb.jpg",
-      "dai_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795471911~acl=/*~id=40397807541639241547628141915790~hmac=2b09d044b43dc6d6dc7264d186f96e73c66cb9d688531a4bc48739a8487c646f",
-      "pub_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795471911~acl=/*~id=40397807541639241547628141915790~hmac=2b09d044b43dc6d6dc7264d186f96e73c66cb9d688531a4bc48739a8487c646f",
-      "video_url": "https://sonyeventsglobal.akamaized.net/hls/live/2120301/criclive2311/ENG/std_lrh-800300010.m3u8?hdnea=exp=1795471911~acl=/*~id=40397807541639241547628141915790~hmac=2b09d044b43dc6d6dc7264d186f96e73c66cb9d688531a4bc48739a8487c646f"
-    },
     {
       "match_id": 1090555981,
       "event_name": "Upcoming - India A vs UAE - DP World Asia Cup Rising Stars Men's 2026",
@@ -26,7 +13,7 @@
       "category": "Cricket",
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029548/1795238001561761_ASIACUP_INDvsUAE_promo_dated_landscape_thumb.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029548/1795238033166761_ASIACUP_INDvsUAE_promo_today_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -40,6 +27,19 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029525/1795197200657754_UCL_Arsenal_vs_Dortmund_Promo_landscape_thumb.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090555667,
+      "event_name": "Upcoming - UEFA Champions League 2026-27",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Football",
+      "digital_broadcast": "Sony Sports Ten 2",
+      "language": "ENGLISH",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029579/1795250909596716_FCB_ManUtd_PSG_LFC_landscape_thumbnail.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -84,27 +84,27 @@
       "video_url": ""
     },
     {
-      "match_id": 1090552650,
-      "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2026",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "HINDI",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028671/1794223107190234_Asia_Cup_Rising_Star_Promo_DTT_landscape_thumb.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090555667,
-      "event_name": "Upcoming - UEFA Champions League 2026-27",
+      "match_id": 1090555087,
+      "event_name": "Upcoming - Club Brugge vs Liverpool - UEFA Champions League 2026-27",
       "match_name": "",
       "status": "Upcoming",
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029579/1795250909596716_FCB_ManUtd_PSG_LFC_landscape_thumbnail.jpg",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795121889201174_UCL26_MD5_Club_Brugge_vs_Liverpool_Promo_landscape_thumb_dated.jpg",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090556117,
+      "event_name": "Upcoming - 2nd Test - India Tour Of New Zealand 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029773/1795439146883643_NZvsIND_2nd_test_day1_dated_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -118,19 +118,6 @@
       "digital_broadcast": "Sony Sports Ten 2",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029390/1795080314217240_champion_league_match_day_5_landscape_thumbnail.jpg",
-      "dai_url": "",
-      "pub_url": "",
-      "video_url": ""
-    },
-    {
-      "match_id": 1090555087,
-      "event_name": "Upcoming - Club Brugge vs Liverpool - UEFA Champions League 2026-27",
-      "match_name": "",
-      "status": "Upcoming",
-      "category": "Football",
-      "digital_broadcast": "Sony Sports Ten 2",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029422/1795121889201174_UCL26_MD5_Club_Brugge_vs_Liverpool_Promo_landscape_thumb_dated.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
@@ -170,6 +157,19 @@
       "digital_broadcast": "Sony Sports Ten 5",
       "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029405/1795096404105290_uefa_league_matchday_5_landscape_thumbnail.png",
+      "dai_url": "",
+      "pub_url": "",
+      "video_url": ""
+    },
+    {
+      "match_id": 1090552650,
+      "event_name": "Upcoming - DP World Asia Cup Rising Stars Men's 2026",
+      "match_name": "",
+      "status": "Upcoming",
+      "category": "Cricket",
+      "digital_broadcast": "Sony Sports Ten 5",
+      "language": "HINDI",
+      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028671/1794223107190234_Asia_Cup_Rising_Star_Promo_DTT_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
       "video_url": ""
