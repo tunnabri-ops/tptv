@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "27/11/2026, 5:28:20 pm",
-  "total_matches": 4,
-  "live_matches": 1,
+  "updatedAt": "27/11/2026, 11:52:22 pm",
+  "total_matches": 3,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "1090556911_ENG",
-      "event_name": "ACC Men's Asia Cup Rising Stars 2026",
-      "match_name": "Pakistan A vs Bangladesh A - Semi-Final - 27 Nov 2026 [ENG]",
-      "status": "Live",
-      "category": "Cricket",
-      "digital_broadcast": "Sony Sports Ten 5",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029940/1795599539816102_ACC_Rising_Star_SF_PAK_vs_BAN_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795823408~acl=/*~id=62599314562720538754918503227254~hmac=fe0ad392d1d1b3379afa3a168977ba13f19cfef4c53e6084e746ee689316012a",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795823408~acl=/*~id=62599314562720538754918503227254~hmac=fe0ad392d1d1b3379afa3a168977ba13f19cfef4c53e6084e746ee689316012a",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795823408~acl=/*~id=62599314562720538754918503227254~hmac=fe0ad392d1d1b3379afa3a168977ba13f19cfef4c53e6084e746ee689316012a"
-    },
     {
       "match_id": "1090547508",
       "event_name": "Upcoming - MG Indian Super League 2026-27",
