@@ -1,23 +1,10 @@
 {
   "name": "SonyLiv Live Matches",
   "repo": "SonyLiv-Events-Json",
-  "updatedAt": "28/11/2026, 5:10:07 pm",
-  "total_matches": 4,
-  "live_matches": 1,
+  "updatedAt": "28/11/2026, 10:26:54 pm",
+  "total_matches": 3,
+  "live_matches": 0,
   "matches": [
-    {
-      "match_id": "live_2120301_ENG",
-      "event_name": "Sail GP 2026",
-      "match_name": "Mubadala Abu Dhabi Sail GP - Day 1 [ENG]",
-      "status": "Live",
-      "category": "Sports",
-      "digital_broadcast": "Sony Sports Network",
-      "language": "ENGLISH",
-      "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030172/1795785171790736_Sail-GP_Mubadala-Abu-Dhabi_Day-1_live_landscape_thumb.jpg",
-      "dai_url": "https://sonydaime.akamaized.net/hls/live/2120301/Sail_Mub2811/ENG/master.m3u8?hdnea=exp=1795914828~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=84b500c4c2e8eccf0684ca029ef9137cb5344679e757ae3b054b707e6201818f",
-      "pub_url": "https://sonydaime.akamaized.net/hls/live/2120301/Sail_Mub2811/ENG/master.m3u8?hdnea=exp=1795914828~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=84b500c4c2e8eccf0684ca029ef9137cb5344679e757ae3b054b707e6201818f",
-      "video_url": "https://sonydaime.akamaized.net/hls/live/2120301/Sail_Mub2811/ENG/master.m3u8?hdnea=exp=1795914828~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=84b500c4c2e8eccf0684ca029ef9137cb5344679e757ae3b054b707e6201818f"
-    },
     {
       "match_id": "1090557192",
       "event_name": "Upcoming - Sri Lanka A vs Pakistan A - Final - DP World Asia Cup Rising Stars Men's 2026",
@@ -38,7 +25,7 @@
       "status": "Upcoming",
       "category": "Football",
       "digital_broadcast": "Sony Sports Ten 2",
-      "language": "HINDI",
+      "language": "ENGLISH",
       "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030151/1795770436416187_ISL_East_Bngal_vs_Mohun_Bagan_DDT_landscape_thumb.jpg",
       "dai_url": "",
       "pub_url": "",
